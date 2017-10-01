@@ -1,0 +1,21 @@
+verb,frequency,norm,pmi,samples
+used,1.0,0.0217391304348,0.644945078742,"Using the body to nudge, push, or block
+"
+point,1.0,0.0217391304348,0.674798041892,"Body and feet pointed forward
+"
+tilt,1.0,0.0217391304348,0.482426149244,"Tilting one's body toward the source
+"
+cover,1.0,0.0217391304348,0.533719443632,"Trying to cover body with hands
+"
+slant,1.0,0.0217391304348,0.674798041892,"Slanting the body away from an accuser
+"
+jump,1.0,0.0217391304348,0.674798041892,"Flinching or starting, the body jumping slightly
+"
+turn,1.0,0.0217391304348,0.644945078742,"Turning the body at an angle instead of facing the subject head-on
+"
+clutch,1.0,0.0217391304348,0.533719443632,"Arms clutching one's body as if to hold it together
+"
+condition,1.0,0.0217391304348,0.674798041892,"Making preparations or conditioning the body
+"
+posture,1.0,0.0217391304348,0.674798041892,"Body posture that perks up
+"

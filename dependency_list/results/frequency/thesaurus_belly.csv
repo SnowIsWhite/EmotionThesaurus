@@ -1,0 +1,13 @@
+dependency,frequency,norm,samples
+( NN compound NN ),2.0,0.333333333333,"A belly laugh
+
+A knotted belly
+"
+( NN amod VBN ) ( NN nmod NN ) ( NN case IN ),1.0,0.166666666667,"An excited flutter in the belly
+"
+( NN amod JJ ) ( NN nmod NN ) ( NN case IN ),1.0,0.166666666667,"A roiling heat in the belly
+"
+( NN nmod NN ) ( NN case IN ),1.0,0.166666666667,"A flutter in the belly
+"
+( NN case IN ) ( NN cc CC ) ( NN conj NN ),1.0,0.166666666667,"Clutching at the chest or belly
+"

@@ -1,0 +1,143 @@
+dependency,frequency,norm,samples
+( VBG dobj NN ) ( VBG advmod RB ),5.0,0.0704225352113,"Pressing the lips together
+
+Gritting one's teeth, pressing the lips tight
+
+Pinching the lips together
+
+Pressing lips together
+
+Lip biting or pressing the lips together
+"
+( VBG dobj NN ),5.0,0.0704225352113,"Wetting the lips
+
+Tilting one's head to the side and pursing the lips
+
+Pursing the lips
+
+Drawing the mouth into a straight line and biting the lip
+
+Licking the lips
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ),3.0,0.0422535211268,"Biting one's lip
+
+Licking one's lips
+
+Pursing one's lips
+"
+( VBG dobj NN ) ( NN cc CC ) ( NN conj NN ),3.0,0.0422535211268,"Trembling lips and chin
+
+Biting the lip or nails
+
+Rubbing the lips or chin
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ) ( NN amod JJ ),2.0,0.0281690140845,"Licking the lip with cautious hope
+
+Pressing the lips into a fine line
+"
+( VBG advmod RB ) ( VBG dobj NN ),2.0,0.0281690140845,"Frequently moistening the lips
+
+Gently biting the lip
+"
+( VBG cc CC ) ( VBG conj VBG ) ( VBG nmod NN ) ( NN case IN ) ( NN amod JJ ),2.0,0.0281690140845,"Licking or sucking on the bottom lip
+
+Pinching or tugging on the bottom lip
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ),2.0,0.0281690140845,"Tapping a fist against the lips
+
+Pursing the lips in thought
+"
+( NN nmod NN ) ( NN case IN ),2.0,0.0281690140845,"Pressing a palm over the lips to hold back a cry
+
+Biting the inside of the lip
+"
+( VBG cc CC ) ( VBG conj VBG ) ( VBG dobj NN ) ( NN amod JJ ),2.0,0.0281690140845,"Rubbing or pinching the bottom lip
+
+Licking or biting the bottom lip
+"
+( VB mark TO ) ( VB cc CC ) ( VB conj VB ) ( VB dobj NN ),1.0,0.0140845070423,"The tongue darting out to touch or lick the lips
+"
+( VB xcomp VBG ) ( VBG nmod NN ) ( NN case IN ) ( NN amod JJ ),1.0,0.0140845070423,"Lips pressing into a white slash
+"
+( VB xcomp VBG ) ( VBG advmod RB ) ( VBG nmod NN ) ( NN case IN ) ( NN amod JJ ),1.0,0.0140845070423,"Lips pressing together in a slight grimace
+"
+( VBG dobj NN ) ( NN cc CC ) ( NN conj NN ) ( NN nmod NN ) ( NN case IN ),1.0,0.0140845070423,"Biting the lip or inside of the cheek
+"
+( NN case IN ) ( NN cc CC ) ( NN conj NN ),1.0,0.0140845070423,"Frequent touching of the face and lips
+"
+( VBG nmod NN ) ( NN case TO ) ( NN cc CC ) ( NN conj NN ),1.0,0.0140845070423,"A hand fluttering to the lips or neck
+"
+( NN amod JJ ) ( NN cc CC ) ( NN conj NN ) ( NN amod JJ ),1.0,0.0140845070423,"Bottom lip or chin trembling
+"
+( VBG cc CC ) ( VBG conj VBG ) ( VBG nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.0140845070423,"Biting or chewing on one's lip
+"
+( VBZ nsubj NN ) ( NN compound NNP ) ( NN amod JJ ) ( NN nmod CD ) ( CD case IN ) ( VBZ xcomp VB ) ( VB mark TO ) ( VB dobj NN ) ( NN amod JJ ) ( VB advcl VB ) ( VB mark TO ),1.0,0.0140845070423,"Rapid lip movement as one tries to find the right thing to say
+"
+( JJ nsubj NN ),1.0,0.0140845070423,"Pursing or pressing lips flat
+"
+( VBG cc CC ) ( VBG conj VBG ) ( VBG nmod NN ) ( NN case IN ),1.0,0.0140845070423,"Biting or chewing at the lip
+"
+( NN dep VBG ) ( VBG advmod RB ) ( VBG conj VBG ) ( VBG cc CC ) ( VBG conj VBG ),1.0,0.0140845070423,"The lips pressing together, pursing, or flattening
+"
+( NN acl:relcl JJ ) ( JJ cop VBN ) ( JJ advmod RB ),1.0,0.0140845070423,"Lips that are slightly parted
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case TO ) ( NN amod VBG ),1.0,0.0140845070423,"Pressing fingers to smiling lips
+"
+( VBG nmod NN ) ( NN case IN ),1.0,0.0140845070423,"Biting at lips
+"
+( VBZ dobj NN ),1.0,0.0140845070423,"Blowing out a breath that rattles the lips
+"
+( NN dep NN ) ( NN amod JJ ),1.0,0.0140845070423,"A pouty bottom lip
+"
+( VBG mark IN ) ( VBG dobj NN ) ( VBG nmod JJ ) ( JJ case IN ),1.0,0.0140845070423,"Cupping an elbow with one hand while tapping the lips with the other
+"
+( VBG nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.0140845070423,"Rubbing at one's lips
+"
+( VBG dobj PRP ) ( VBG nmod NN ) ( NN case TO ),1.0,0.0140845070423,"Forming a steeple with hands and pressing them to lips
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG nmod NN ) ( NN case TO ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.0140845070423,"Touching one's fingertips to one's lips
+"
+( VB nsubj NNP ) ( NNP compound NNP ) ( VB dobj NN ),1.0,0.0140845070423,"Fingers touching parted lips
+"
+( VB ccomp VB ) ( VB cc CC ) ( VB conj VB ),1.0,0.0140845070423,"Lips that flatten or curl
+"
+( VB xcomp JJ ),1.0,0.0140845070423,"Lip biting
+"
+( NN nmod NN ) ( NN case IN ) ( NN compound NN ) ( NN cc CC ) ( NN conj NN ),1.0,0.0140845070423,"Biting the inside of the cheek or bottom lip
+"
+( VB dobj NN ) ( VB advmod RB ),1.0,0.0140845070423,"Lips parting slightly
+"
+( NN nmod NN ) ( NN case IN ) ( NN nmod NN ) ( NN case IN ) ( NN cc CC ) ( NN conj NN ),1.0,0.0140845070423,"Beads of sweat on the lip or forehead
+"
+( NN amod JJ ) ( JJ amod JJ ),1.0,0.0140845070423,"Lips pressing tight
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case TO ),1.0,0.0140845070423,"Pressing a fist to the lips
+"
+( VBG compound:prt RP ) ( VBG nmod NN ) ( NN case IN ) ( NN amod JJ ),1.0,0.0140845070423,"Teeth biting down on the bottom lip
+"
+( VBG nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN cc CC ) ( NN conj NN ) ( NN amod JJ ) ( VBG cc CC ) ( VBG conj VBG ) ( VBG ccomp VB ) ( VB nsubj PRP ),1.0,0.0140845070423,"Chewing at one's lips or inner cheek and making them bleed
+"
+( NNP compound NNP ),1.0,0.0140845070423,"Lips parting
+"
+( NN amod VBG ) ( NN cc CC ) ( NN conj NN ),1.0,0.0140845070423,"Trembling chin and lips
+"
+( VBG compound:prt RP ) ( VBG nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN amod JJ ),1.0,0.0140845070423,"Biting down on one's bottom lip
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN compound NN ) ( VBG nmod NN ) ( NN case IN ),1.0,0.0140845070423,"Tapping one's index finger against the lip
+"
+( NN amod VBG ),1.0,0.0140845070423,"A curling lip
+"
+( VBG nmod NN ) ( NN case IN ) ( NN cc CC ) ( NN conj NN ),1.0,0.0140845070423,"Biting at the lips or nails
+"
+( VBZ nsubj NN ) ( NN acl VBG ) ( VBG advmod RB ) ( VBZ dobj NN ),1.0,0.0140845070423,"Lips pulling back, baring the teeth
+"
+( VBG dobj NN ) ( VBG xcomp JJ ) ( JJ mark TO ) ( JJ cop VB ),1.0,0.0140845070423,"Buzzing the lips to be rude
+"
+( VBG dobj NN ) ( VBG advcl VBZ ) ( VBZ mark IN ) ( VBZ nsubj NN ) ( NN advmod RB ),1.0,0.0140845070423,"Compressing the lips while someone else speaks
+"
+( VBG nmod NN ) ( NN case IN ) ( NN amod JJ ),1.0,0.0140845070423,"Tucking in the upper lip
+"
+( VBZ advmod RB ) ( VBZ nsubj NN ),1.0,0.0140845070423,"Unconsciously parting the lips
+"
+( VB nsubj NN ) ( VB xcomp JJ ),1.0,0.0140845070423,"Lips pressed flat
+"

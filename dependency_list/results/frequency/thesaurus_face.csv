@@ -1,0 +1,81 @@
+dependency,frequency,norm,samples
+( NN nmod NN ) ( NN case IN ),3.0,0.075,"A reddening of the face
+
+Covering the hands with the face
+
+A tightness in the face
+"
+( NN amod JJ ) ( NN cc CC ) ( NN conj NN ),2.0,0.05,"A red face and neck
+
+Puffy face or eyes
+"
+( VBG nmod NN ) ( NN case IN ),2.0,0.05,"Color draining from the face
+
+Heat and tingling in face
+"
+( NNP dep NN ) ( NN nmod NN ) ( NN case IN ),2.0,0.05,"Covering the face with hands
+
+Covering the face with the hands
+"
+( NN compound NN ),2.0,0.05,"An upturned face
+
+A flushed face
+"
+( VB mark TO ) ( VB dobj NN ) ( NN nmod:poss CD ) ( CD case POS ),2.0,0.05,"Hands repeatedly rising to touch one's face
+
+Using hair to hide one's face
+"
+( NN amod JJ ) ( NN nmod NN ) ( NN case IN ),1.0,0.025,"A comfortable warmth in the face
+"
+( VBN xcomp VBG ) ( VBN nsubj NN ) ( NN amod JJ ) ( JJ amod JJ ),1.0,0.025,"Face turning ashen, white, pallid
+"
+( NN nmod NN ) ( NN case IN ) ( NN nmod:poss NN ) ( NN case POS ),1.0,0.025,"Jabbing a finger in someone's face
+"
+( NN appos NN ) ( NN amod JJ ),1.0,0.025,"An expressionless, unsmiling face
+"
+( VBG compound:prt RP ) ( VBG dobj NN ) ( VBG cc CC ) ( VBG conj VBG ) ( VBG advmod RB ) ( VBG dep VBG ) ( VBG xcomp VB ) ( VB mark TO ) ( VB xcomp JJ ),1.0,0.025,"Scrunching up the face and then releasing, trying to regain calm
+"
+( NN dep NN ),1.0,0.025,"A face that blanches
+"
+( NN amod JJ ) ( JJ cc CC ) ( JJ conj JJ ),1.0,0.025,"A shiny or rosy face
+"
+( VBG advmod RB ) ( VBG dobj NN ),1.0,0.025,"Repeatedly rubbing the face
+"
+( NN nmod:poss CD ) ( CD case POS ) ( NN cc CC ) ( NN conj NN ),1.0,0.025,"Touching one's mouth or face
+"
+( JJ dep NN ) ( NN nmod:poss NNP ) ( NNP nummod CD ) ( NNP case POS ) ( NN cc CC ) ( NN conj RB ),1.0,0.025,"Covering one's face and then peeking
+"
+( VB mark TO ) ( VB dobj NN ),1.0,0.025,"Using the hair to hide the face
+"
+( NN conj NN ) ( NN cc CC ) ( NN conj NN ),1.0,0.025,"Tense arms, shoulders, or face
+"
+( NN acl:relcl VBZ ) ( VBZ xcomp VB ) ( VB mark TO ),1.0,0.025,"A face that seems to shine
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG nmod NN ) ( NN case TO ),1.0,0.025,"Head tipping back, turning one's face to the sky
+"
+( VB dobj NN ),1.0,0.025,"Covering the face
+"
+( VBG dobj NN ),1.0,0.025,"Hiding the face
+"
+( NNP dep NN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.025,"Covering one's face with one's hands
+"
+( NNP compound NNP ),1.0,0.025,"Face tightening
+"
+( VBN nsubj NN ) ( NN acl VBG ) ( VBG advmod RBR ) ( VBN xcomp VBG ),1.0,0.025,"Brows drawing closer, face tightening
+"
+( VBG dobj NN ) ( VBG compound:prt RP ) ( VBG nmod NN ) ( NN case IN ),1.0,0.025,"Pushing the hair out of the face
+"
+( NN amod JJ ) ( NN nmod NN ) ( NN case IN ) ( NN cc CC ) ( NN conj NN ),1.0,0.025,"Frequent touching of the face and lips
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ),1.0,0.025,"Scrubbing a hand over the face
+"
+( VBN nsubj NNP ) ( VBN nmod NN ) ( NN case IN ),1.0,0.025,"Covering face with hands
+"
+( VBZ xcomp VBG ) ( VBG dobj NN ) ( NN appos NN ) ( VBZ nsubj VB ),1.0,0.025,"Hands touching the lips, mouth, face
+"
+( NN case TO ) ( NN compound NN ) ( NN compound NN ),1.0,0.025,"Holding a hand close to the face while speaking
+"
+( VBN ccomp VBG ) ( VBG dobj NN ) ( VBG cc CC ) ( VBG conj VBG ) ( VBG advmod RB ),1.0,0.025,"Face going slack and paling slightly
+"
+( VB compound:prt RP ) ( VB dobj NN ),1.0,0.025,"A smile that has a genuine build and lights up the face
+"

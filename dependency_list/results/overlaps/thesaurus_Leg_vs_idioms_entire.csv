@@ -1,0 +1,42 @@
+dependency,frequency1,frequency2,norm1,norm2,rank1,rank2,samples1,samples2
+( NN cc CC ) ( NN conj NN ),7.0,1.0,0.25,0.00114942528736,1,21,"Rubbing the arms or legs
+
+Crossing the arms or legs
+
+Holding the knees and legs tightly together
+
+Crossing and uncrossing arms or legs
+
+Pulling arms and legs in toward the core
+
+Keeping arms and legs in close to the body
+
+Crossing and uncrossing the arms or legs
+","Sink or swim
+"
+( NN amod JJ ),2.0,5.0,0.0714285714286,0.00574712643678,2,17,"Restless legs
+
+Wobbly legs
+","Gather dust
+
+No hard feelings
+
+Pinch pennies
+
+Tempt fate
+
+Touch base
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ),1.0,1.0,0.0357142857143,0.00114942528736,3,21,"Patting a leg in comfort
+","Drag someone through the mud
+"
+( NN compound NN ),1.0,2.0,0.0357142857143,0.00229885057471,3,20,"Sitting together so the legs touch
+","Strike gold
+
+Talk shop
+"
+( NN nmod NN ) ( NN case IN ),1.0,2.0,0.0357142857143,0.00229885057471,3,20,"Weakness in legs
+","Fall through the cracks
+
+No bed of roses
+"

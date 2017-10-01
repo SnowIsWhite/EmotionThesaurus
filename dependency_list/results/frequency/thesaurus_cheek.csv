@@ -1,0 +1,53 @@
+dependency,frequency,norm,samples
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ),3.0,0.115384615385,"Dragging nails down the cheeks
+
+Propping a cheek on a fist
+
+Slapping hands against the cheeks
+"
+( NN nmod NN ) ( NN case IN ),2.0,0.0769230769231,"A flush that creeps across the cheeks
+
+Biting the inside of the cheek
+"
+( NN amod JJ ) ( NN appos NN ) ( NN amod JJ ),2.0,0.0769230769231,"Happy tears, shining cheeks
+
+A beaming expression, glowing cheeks
+"
+( NN amod JJ ) ( NN nmod NN ) ( NN case IN ),1.0,0.0384615384615,"A visible flush in cheeks
+"
+( NN acl:relcl VBN ),1.0,0.0384615384615,"Cheeks that burn
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case TO ),1.0,0.0384615384615,"Pressing palms to cheeks
+"
+( VBG dobj NN ) ( VBG advmod RB ) ( VBG nmod NN ) ( NN case IN ) ( VBG cc CC ) ( VBG conj VBG ) ( VBG dobj NN ) ( NN amod JJ ),1.0,0.0384615384615,"Poking a tongue lightly into the cheek and inhaling a long breath
+"
+( NN amod JJ ),1.0,0.0384615384615,"Hollowed cheeks
+"
+( NN nsubj NN ) ( NN amod VBG ) ( NN nmod CD ) ( CD case IN ) ( NN cop VBZ ),1.0,0.0384615384615,"Rising color in one's cheeks
+"
+( NN nmod:poss CD ) ( CD case POS ) ( NN cc CC ) ( NN conj NN ),1.0,0.0384615384615,"Scratching one's neck or cheek
+"
+( VBG dobj NN ) ( VBG compound:prt RP ) ( VBG conj VBG ) ( VBG advmod RB ) ( VBG dobj NN ) ( VBG cc CC ) ( VBG conj VBG ) ( VBG dobj PRP ),1.0,0.0384615384615,"Blowing cheeks out, then swallowing the air or releasing it
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.0384615384615,"Pressing hands against one's cheeks
+"
+( VBG dobj NN ) ( VBG advmod RB ) ( VBG nmod NN ) ( NN case IN ),1.0,0.0384615384615,"Pressing palms lightly against the cheeks
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG nmod NN ) ( NN case IN ),1.0,0.0384615384615,"Poking one's tongue into the cheek
+"
+( VBG compound:prt RP ) ( VBG dobj NN ),1.0,0.0384615384615,"Pressing a fist against the mouth and puffing out the cheeks
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.0384615384615,"Biting one's cheek
+"
+( VBG dobj NN ),1.0,0.0384615384615,"Spots of color entering the cheeks
+"
+( VBG nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN cc CC ) ( NN conj NN ),1.0,0.0384615384615,"Scratching at one's cheek or temple
+"
+( VBG dobj NN ) ( VBG nmod IN ),1.0,0.0384615384615,"Sucking the cheeks in
+"
+( NN cc CC ) ( NN conj NN ) ( NN nmod NN ) ( NN case IN ),1.0,0.0384615384615,"Biting the lip or inside of the cheek
+"
+( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN cc CC ) ( NN conj NN ) ( NN amod JJ ),1.0,0.0384615384615,"Chewing at one's lips or inner cheek and making them bleed
+"
+( NN case IN ) ( NN compound NN ) ( NN cc CC ) ( NN conj NN ),1.0,0.0384615384615,"Biting the inside of the cheek or bottom lip
+"

@@ -1,0 +1,61 @@
+dependency,frequency1,frequency2,norm1,norm2,rank1,rank2,samples1,samples2
+( NN nmod NN ) ( NN case IN ),9.0,2.0,0.15,0.00229885057471,1,20,"Shoulders that curl over the chest
+
+A tightening in the chest
+
+Lightness in the chest
+
+Heat that radiates through the chest
+
+Shoulders curling over chest
+
+Tightness in the chest
+
+Rubbing or pressing a fist against the chest
+
+A lightness in the chest
+
+Breaths that catch in the chest
+","Fall through the cracks
+
+No bed of roses
+"
+( NN compound NN ),4.0,2.0,0.0666666666667,0.00229885057471,2,20,"The chest caving
+
+An aching chest
+
+A puffed-out chest
+
+A thrust-out chest
+","Strike gold
+
+Talk shop
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ),3.0,1.0,0.05,0.00114942528736,3,21,"Folding the arms across the chest
+
+Crossing the arms over the chest
+
+Placing a hand on the chest
+","Drag someone through the mud
+"
+( VBG nmod NN ) ( NN case IN ),2.0,1.0,0.0333333333333,0.00114942528736,4,21,"Tingling in the chest
+
+Racing heartbeat, drumming in the chest
+","Chomping at the bit
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,1.0,0.0166666666667,0.00114942528736,5,21,"Rubbing at or massaging one's chest as if pained
+","Drag one's feet
+"
+( NN nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,1.0,0.0166666666667,0.00114942528736,5,21,"A tingling in one's chest
+","Quake in one's boots
+"
+( NN compound NN ) ( NN nmod NN ) ( NN case IN ),1.0,3.0,0.0166666666667,0.00344827586207,5,19,"Hugging one's shoulders, chin resting on the chest
+","Fall head over heels
+
+Rake someone over the coals
+
+Score points with someone
+"
+( NN cc CC ) ( NN conj NN ),1.0,1.0,0.0166666666667,0.00114942528736,5,21,"Clutching the throat or chest
+","Sink or swim
+"

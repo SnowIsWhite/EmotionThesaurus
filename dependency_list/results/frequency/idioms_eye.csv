@@ -1,0 +1,23 @@
+dependency,frequency,norm,samples
+( VB dobj NN ) ( NN nmod NN ) ( NN case IN ) ( NN nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.0909090909091,"Have eyes in the back of one's head
+"
+( JJ cop VB ) ( JJ nmod NN ) ( NN case IN ),1.0,0.0909090909091,"Be easy on the eye
+"
+( VB advmod RB ) ( VB dobj NN ) ( NN nmod NN ) ( NN case IN ),1.0,0.0909090909091,"Only have eyes for someone
+"
+( NN cop VB ) ( NN case IN ) ( NN amod JJ ),1.0,0.0909090909091,"Be in the public eye
+"
+( NN nmod:poss NN ) ( NN amod JJ ) ( NN case POS ),1.0,0.0909090909091,"Catch someone's eye
+"
+( NN cop VB ) ( NN nmod NN ) ( NN case IN ) ( NN amod JJ ),1.0,0.0909090909091,"Be a sight for sore eyes
+"
+( NN cop VB ) ( NN nmod NN ) ( NN case IN ) ( NN nmod:poss NN ) ( NN case POS ),1.0,0.0909090909091,"Be the apple of someone's eye
+"
+( VB nmod NN ) ( NN case IN ) ( VB nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN advmod JJ ),1.0,0.0909090909091,"Go into something with one's eyes open
+"
+( VB dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN nmod NN ) ( NN case IN ),1.0,0.0909090909091,"Have one's eye on something
+"
+( NN nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.0909090909091,"Have a gleam in one's eye
+"
+( JJ nsubj NN ) ( NN nmod:poss PRP$ ),1.0,0.0909090909091,"Keep your eyes open
+"

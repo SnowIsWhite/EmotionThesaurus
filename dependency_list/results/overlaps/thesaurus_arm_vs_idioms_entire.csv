@@ -1,0 +1,45 @@
+dependency,frequency1,frequency2,norm1,norm2,rank1,rank2,samples1,samples2
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ),8.0,1.0,0.129032258065,0.00114942528736,1,21,"Folding the arms across the chest
+
+Curling the arms over the head
+
+Folding the arms over the stomach
+
+Crossing the arms over the chest
+
+Pinning the arms against the stomach
+
+Swinging the arms while walking
+
+Wrapping arms around self
+
+Bending forward, laying head on arms
+","Drag someone through the mud
+"
+( NN compound NN ),2.0,2.0,0.0322580645161,0.00229885057471,2,20,"Sweeping arm gestures
+
+Flexing the fingers or arm muscles
+","Strike gold
+
+Talk shop
+"
+( NN dep NN ) ( NN nmod NN ) ( NN case IN ),1.0,1.0,0.0161290322581,0.00114942528736,3,21,"Arms hanging at the sides
+","Strike a chord with someone
+"
+( NN amod JJ ),1.0,5.0,0.0161290322581,0.00574712643678,3,17,"Crossed arms
+","Gather dust
+
+No hard feelings
+
+Pinch pennies
+
+Tempt fate
+
+Touch base
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,1.0,0.0161290322581,0.00114942528736,3,21,"Crossing one's arms
+","Drag one's feet
+"
+( NN cc CC ) ( NN conj NN ),1.0,1.0,0.0161290322581,0.00114942528736,3,21,"Limp hands and arms
+","Sink or swim
+"

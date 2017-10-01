@@ -1,0 +1,45 @@
+dependency,frequency,norm,samples
+( VB xcomp VBG ) ( VBG advmod RB ),2.0,0.0909090909091,"Eyebrows squeezing together
+
+Eyebrows drawing together
+"
+( NN amod JJ ),2.0,0.0909090909091,"Eyebrows raising
+
+Raised eyebrows
+"
+( NN nmod:poss CD ) ( CD case POS ) ( NN cc CC ) ( NN conj NN ),1.0,0.0454545454545,"Rubbing one's forehead or eyebrows
+"
+( VBG mark IN ) ( VBG dobj NN ),1.0,0.0454545454545,"Cocking the head while raising the eyebrows
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG cc CC ) ( VBG conj VBG ) ( VBG dobj NN ) ( NN amod JJ ),1.0,0.0454545454545,"Raising one's eyebrows and giving a glassy stare
+"
+( VB advmod RB ) ( VB nsubj NN ),1.0,0.0454545454545,"Deliberately raised eyebrows
+"
+( NNP amod JJ ) ( JJ cc CC ) ( JJ conj JJ ),1.0,0.0454545454545,"Raised or wiggling eyebrows
+"
+( VBG dobj NN ) ( VBG cc CC ) ( VBG conj VBG ),1.0,0.0454545454545,"Quirking an eyebrow and smiling
+"
+( VBG cc CC ) ( VBG conj VBG ) ( VBG dobj NN ),1.0,0.0454545454545,"Stroking or rubbing an eyebrow
+"
+( VB xcomp VBG ) ( VBG cc CC ) ( VBG conj VBG ) ( VBG advmod RB ),1.0,0.0454545454545,"Eyebrows lowering and pinching together
+"
+( VB ccomp VBG ) ( VBG cc CC ) ( VBG conj VBG ) ( VBG advmod RB ),1.0,0.0454545454545,"Eyebrows furrowing and then releasing
+"
+( NN appos NN ) ( NN acl VBG ) ( VBG compound:prt RP ) ( VBG nmod NN ) ( NN case IN ),1.0,0.0454545454545,"Eyes narrowing, eyebrows pulling down in concentration
+"
+( VB dobj NN ) ( VB advmod RB ),1.0,0.0454545454545,"Eyebrows that squish together
+"
+( VBG dobj NN ) ( VBG cc CC ) ( VBG conj VBG ) ( VBG dobj NN ) ( NN amod VBG ),1.0,0.0454545454545,"Raising the eyebrows and offering a questioning gaze
+"
+( NN amod VBN ) ( NN cc CC ) ( NN conj VBN ) ( VBN nsubj NNP ),1.0,0.0454545454545,"A raised eyebrow and a See? look
+"
+( VB xcomp VBG ) ( VBG compound:prt RP ),1.0,0.0454545454545,"Eyebrows gathering in
+"
+( VBN nsubj NN ) ( NN amod JJ ) ( VBN cc CC ) ( VBN conj VBN ) ( VBN dobj NN ),1.0,0.0454545454545,"A deliberate eyebrow raise and head tilt
+"
+( VB dobj NN ),1.0,0.0454545454545,"Raising the eyebrows
+"
+( VB dobj NN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.0454545454545,"Raising one's eyebrows
+"
+( VBG dobj NN ) ( NN amod JJ ),1.0,0.0454545454545,"Lifting a single eyebrow
+"

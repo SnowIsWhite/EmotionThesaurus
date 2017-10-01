@@ -1,0 +1,18 @@
+verb,frequency,norm,pmi,samples
+cover,4.0,0.1,1.45001017551,"A hand covering one's mouth
+		Turning away and covering the mouth
+		Pulling up a collar to cover the mouth and nose
+		Covering the mouth
+"
+draw,1.0,0.025,0.615957541869,"Drawing the mouth into a straight line and biting the lip
+"
+come,1.0,0.025,0.674798041892,"A mouth that opens but nothing comes out
+"
+increase,1.0,0.025,0.674798041892,"The mouth becoming moist, increased saliva
+"
+touch,1.0,0.025,0.457733536654,"Touching one's mouth or face
+"
+close,1.0,0.025,0.321158001648,"Opening and closing the mouth
+"
+open,1.0,0.025,0.674798041892,"Opening the mouth to say something, then thinking better of it
+"

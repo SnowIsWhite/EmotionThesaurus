@@ -1,0 +1,3 @@
+dependency,frequency,norm,samples
+( NN nmod:poss NNP ) ( NNP nummod CD ) ( NNP case POS ),1.0,1.0,"Flex one's muscles
+"

@@ -1,0 +1,5 @@
+dependency,frequency,norm,samples
+( NN nmod:poss CD ) ( CD case POS ) ( NN cc CC ) ( NN conj NN ),1.0,0.5,"Slapping one's knees or thighs
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ) ( VBG advcl VB ) ( VB mark TO ) ( VB dobj NN ),1.0,0.5,"Punching fists against thighs to release frustration
+"

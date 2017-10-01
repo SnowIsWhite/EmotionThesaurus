@@ -1,0 +1,258 @@
+dependency,frequency1,frequency2,norm1,norm2,rank1,rank2,samples1,samples2
+( NN amod JJ ),13.0,5.0,0.115044247788,0.00574712643678,1,17,"Protruding eyes
+
+Narrowing eyes
+
+Narrowed eyes
+
+Vacant eyes
+
+Squinting eyes
+
+Widening eyes
+
+Eyes widening
+
+Half-lidded eyes
+
+Teary eyes
+
+Wide eyes
+
+Bloodshot eyes
+
+Watering eyes
+
+Dull eyes
+","Gather dust
+
+No hard feelings
+
+Pinch pennies
+
+Tempt fate
+
+Touch base
+"
+( NN compound NN ),10.0,2.0,0.0884955752212,0.00229885057471,2,20,"Avoiding eye contact
+
+Firm eye contact
+
+Breaking eye contact
+
+Fiddling with a ring or button to avoid eye contact
+
+Making eye contact with others, confidence
+
+Breaking eye contact and shrugging
+
+Darting eye movements
+
+A smirk or eye roll
+
+Rubbing the back of the neck without making eye contact
+
+Speaking at the air rather than make eye contact with others
+","Strike gold
+
+Talk shop
+"
+( NN amod JJ ) ( NN compound NN ),5.0,1.0,0.0442477876106,0.00114942528736,4,21,"Gaze ping-ponging, avoiding direct eye contact
+
+Strong eye contact
+
+Direct or intense eye contact
+
+Direct, probing eye contact
+
+Avoiding direct eye contact
+","Blow something sky-high
+"
+( NN compound NNP ),3.0,1.0,0.0265486725664,0.00114942528736,5,21,"Cold eyes
+
+Eye contact dropping
+
+Wet eyes
+","Cut corners
+"
+( NN nmod NN ) ( NN case IN ),2.0,2.0,0.0176991150442,0.00229885057471,6,20,"A tightening under the eyes
+
+Circles under the eyes
+","Fall through the cracks
+
+No bed of roses
+"
+( NN dep NN ) ( NN cc CC ) ( NN conj NN ),2.0,1.0,0.0176991150442,0.00114942528736,6,21,"Closing the eyes and sighing
+
+Eyes that sparkle and gleam
+","Cost an arm and a leg
+"
+( VBG mark IN ) ( VBG dobj NN ),1.0,1.0,0.00884955752212,0.00114942528736,7,21,"Touching a temple while closing the eyes
+","Without missing a beat
+"
+( NN dep NN ) ( NN nmod NN ) ( NN case IN ),1.0,1.0,0.00884955752212,0.00114942528736,7,21,"Eyes prickling with tears
+","Strike a chord with someone
+"
+( NN nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,1.0,0.00884955752212,0.00114942528736,7,21,"A gleam in one's eye
+","Quake in one's boots
+"
+( VBG nmod NN ) ( NN case IN ),1.0,1.0,0.00884955752212,0.00114942528736,7,21,"Widening of the eyes
+","Chomping at the bit
+"
+( VB dobj NN ),1.0,68.0,0.00884955752212,0.0781609195402,7,1,"Closing the eyes
+","Beat the system
+
+Bite the dust
+
+Break the ice
+
+Build a bridge
+
+Call the shots
+
+Cause a stir
+
+Crack the whip
+
+Cry wolf
+
+Cut the cord
+
+Do something for all you're worth
+
+Do the trick
+
+Draw the line
+
+Drop a bombshell
+
+Fit the bill
+
+Fly the coop
+
+Get a grip
+
+Get a headstart
+
+Get an earful
+
+Get the message
+
+Get the picture
+
+Get the sack
+
+Go bananas
+
+Go the distance
+
+Grab the headlines
+
+Have a brainstorm
+
+Have the munchies
+
+Hit the books
+
+Hit the hay
+
+Hit the jackpot
+
+Hit the mark
+
+Hit the sack
+
+Hold all the aces
+
+Join the club
+
+Know the score
+
+Learn the ropes
+
+Lend a hand
+
+Lend an ear
+
+Look the part
+
+Make a killing
+
+Make a splash
+
+Name names
+
+Pass the torch
+
+Pave the way
+
+Pay the price
+
+Play ball
+
+Play chicken
+
+Play the field
+
+Pull some strings
+
+Reinvent the wheel
+
+Rock the boat
+
+Scratch the surface
+
+See the light
+
+Set the stage
+
+Shoot the breeze
+
+Smell a rat
+
+Soften the blow
+
+Steal the show
+
+Sweep the board
+
+Take a beating
+
+Take a raincheck
+
+Take the cake
+
+Take the plunge
+
+Test the waters
+
+Throw a fit
+
+Tip the balance
+
+Turn the tables
+
+Upset the applecart
+
+Wield the axe
+"
+( NNP cc CC ) ( NNP conj NN ) ( NN amod JJ ),1.0,1.0,0.00884955752212,0.00114942528736,7,21,"Wet or red eyes
+","Wine and dine someone
+"
+( NNP compound NNP ),1.0,2.0,0.00884955752212,0.00229885057471,7,20,"Eye rolling
+","Go ballistic
+
+Remain nameless
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ),1.0,1.0,0.00884955752212,0.00114942528736,7,21,"Cutting the eyes toward the source
+","Drag someone through the mud
+"
+( NNP dep NN ),1.0,4.0,0.00884955752212,0.00459770114943,7,18,"Rolling the eyes
+","Cross the line
+
+Miss the boat
+
+Miss the bus
+
+Miss the point
+"

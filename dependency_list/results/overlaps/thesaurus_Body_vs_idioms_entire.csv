@@ -1,0 +1,59 @@
+dependency,frequency1,frequency2,norm1,norm2,rank1,rank2,samples1,samples2
+( NN compound NN ),10.0,2.0,0.217391304348,0.00229885057471,1,20,"Mimicking body language
+
+Open body posture
+
+Rising body temperature
+
+Crossing one's arms, showing closed body posture
+
+Arms crossing one's chest, closed body posture
+
+Body odor
+
+Raised body temperature
+
+Body mimicking that of the rival
+
+Crumpled body posture
+
+Flaccid yet unwelcoming body language
+","Strike gold
+
+Talk shop
+"
+( NN amod JJ ) ( NN compound NN ),4.0,1.0,0.0869565217391,0.00114942528736,2,21,"Closed body posture
+
+Rigid body posture
+
+Closed body language
+
+Full body tremors
+","Blow something sky-high
+"
+( VBG nmod NN ) ( NN case IN ),3.0,1.0,0.0652173913043,0.00114942528736,3,21,"Warmth radiating throughout the body
+
+Visible tremors coursing through the body
+
+Warmth spreading through the body
+","Chomping at the bit
+"
+( NN compound NNP ),1.0,1.0,0.0217391304348,0.00114942528736,5,21,"Body tremors
+","Cut corners
+"
+( NN nmod NN ) ( NN case IN ),1.0,2.0,0.0217391304348,0.00229885057471,5,20,"A jolt through the body
+","Fall through the cracks
+
+No bed of roses
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,1.0,0.0217391304348,0.00114942528736,5,21,"Arms clutching one's body as if to hold it together
+","Drag one's feet
+"
+( NN dep NN ) ( NN nmod NN ) ( NN case IN ),1.0,1.0,0.0217391304348,0.00114942528736,5,21,"The body freezing in place
+","Strike a chord with someone
+"
+( NNP compound NNP ),1.0,2.0,0.0217391304348,0.00229885057471,5,20,"Body shielding
+","Go ballistic
+
+Remain nameless
+"

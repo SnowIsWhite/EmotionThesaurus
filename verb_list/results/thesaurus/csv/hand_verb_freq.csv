@@ -1,0 +1,133 @@
+verb,frequency,norm,pmi,samples
+rub,7.0,0.0414201183432,1.26672549946,"Rubbing a hand through the hair
+		Rubbing a hand against the front of one's shirt
+		Rubbing the hands together
+		Rubbing the hands over one's clothing
+		Rubbing hands down one's pant legs
+		Rubbing a hand against the heart
+		Rubbing one's hands on pant legs
+"
+clasp,7.0,0.0414201183432,1.48986905077,"Clasping one's hands to the chest
+		Clasping hands to the chest
+		Clasping hands under the chin
+		Clasping the hands together in the lap
+		Clasping the hands together
+		Hands clasped loosely behind the back and gaze down
+		Clasping one's hands together
+"
+run,6.0,0.0355029585799,1.40763095254,"Running hands through one's hair or flipping the hair back
+		Running hands through the hair
+		Running hands through one's hair
+		Repeatedly running the hands through the hair
+		Running the hands through the hair, flipping hair back
+		Running a jerky hand through the hair
+"
+press,6.0,0.0355029585799,1.03788392703,"Pressing a hand against one's chest, fingers splayed out
+		Pressing hands to one's temples
+		Pressing a hand to the abdomen
+		Pressing hands against the stomach
+		Pressing one's hands to the stomach
+		Pressing hands against one's cheeks
+"
+Laying,4.0,0.0236686390533,1.097826963,"Laying a hand over the heart
+		Laying a hand on one's heart then gesturing to a person or group
+		Laying a hand on someone's back or shoulder
+		Laying a hand against the breastbone
+"
+hold,4.0,0.0236686390533,0.924555241724,"Holding the hands loosely behind the back
+		Holding hands out and weighing them in the air
+		Holding a hand up, warding others off
+		Holding a hand up, warding someone or something off
+"
+place,4.0,0.0236686390533,1.12522593719,"Placing a hand against the breastbone
+		Placing a hand on the chest
+		Placing hands on the hips
+		Placing hands in one's pockets
+"
+have,2.0,0.0118343195266,0.67155872726,"Belittling comments that remind the target who has the upper hand
+		Projecting the voice, reinforcing who has the upper hand
+"
+putt,2.0,0.0118343195266,0.642571190387,"Putting a hand over the face, closing the eyes
+		Putting one's hands over one's ears
+"
+hide,2.0,0.0118343195266,0.56033309215,"Hands hidden behind the back or in pockets
+		Hiding the hands in the pockets
+"
+raise,2.0,0.0118343195266,0.391256762106,"Raising a hand immediately to be called on
+		Raising a hand to ward off others from approaching or speaking
+"
+lift,2.0,0.0118343195266,0.534357605747,"Lifting a hand loosely, palm up in a Who cares? gesture
+		Lifting hands up and then letting them fall
+"
+wring,2.0,0.0118343195266,0.67155872726,"Rubbing the wrists or wringing the hands
+		Wringing one's hands
+"
+shove,2.0,0.0118343195266,0.67155872726,"Shoving hands in pockets
+		Shoving one's hands into pockets
+"
+fold,2.0,0.0118343195266,0.61440031342,"Folding the hands
+		Hands folded in one's lap
+"
+clutch,2.0,0.0118343195266,0.56033309215,"Clutching one's hands
+		Hands clutched together
+"
+flick,1.0,0.00591715976331,0.295946582302,"Flicking a hand in front of one's nose as if to get rid of a bad smell
+"
+slip,1.0,0.00591715976331,0.295946582302,"Slipping hands into pockets
+"
+give,1.0,0.00591715976331,0.295946582302,"Throwing hands up in an I give up gesture
+"
+limp,1.0,0.00591715976331,0.295946582302,"Limp hands and arms
+"
+sweep,1.0,0.00591715976331,0.295946582302,"Sweeping a hand across the forehead to get rid of sweat
+"
+slap,1.0,0.00591715976331,0.266093619152,"Slapping hands against the cheeks
+"
+wash,1.0,0.00591715976331,0.295946582302,"Dry washing the hands
+"
+shake,1.0,0.00591715976331,0.0312540280746,"Shaking out the hands
+"
+scrub,1.0,0.00591715976331,0.295946582302,"Scrubbing a hand over the face
+"
+hook,1.0,0.00591715976331,0.266093619152,"Hooking a hand in the other person's belt or pocket
+"
+squeeze,1.0,0.00591715976331,0.181536231124,"Squeezing the hands at one's sides
+"
+make,1.0,0.00591715976331,0.295946582302,"Holding one's elbow while the opposite hand makes a fist against the mouth
+"
+lean,1.0,0.00591715976331,0.295946582302,"Leaning back in a chair, hands behind the head
+"
+scrape,1.0,0.00591715976331,0.295946582302,"Scraping a hand through the hair
+"
+jam,1.0,0.00591715976331,0.295946582302,"Hands jammed into armpits or self-hugging
+"
+tighten,1.0,0.00591715976331,0.295946582302,"Tightening the hands into fists, then loosening them
+"
+ball,1.0,0.00591715976331,0.295946582302,"Balling the hands into fists
+"
+flap,1.0,0.00591715976331,0.295946582302,"Flapping a hand in dismissal
+"
+form,1.0,0.00591715976331,0.295946582302,"Forming hands into a steeple
+"
+wave,1.0,0.00591715976331,0.295946582302,"Waving a hand in dismissal
+"
+splay,1.0,0.00591715976331,0.295946582302,"Splaying hands out wide to stretch, then relaxing them
+"
+clench,1.0,0.00591715976331,0.237106082279,"Hands that briefly clench
+"
+weave,1.0,0.00591715976331,0.295946582302,"Weaving hands into the hair and pulling
+"
+bring,1.0,0.00591715976331,0.237106082279,"Bringing a shaky hand to the forehead
+"
+tuck,1.0,0.00591715976331,0.295946582302,"Tucking the hands behind the elbows
+"
+keep,1.0,0.00591715976331,0.237106082279,"Keeping one's hands out of the pockets
+"
+lose,1.0,0.00591715976331,0.295946582302,"Hands fluttering like they've lost track of what they should be doing
+"
+Dragging,1.0,0.00591715976331,0.237106082279,"Dragging the hands through the hair repeatedly
+"
+anchor,1.0,0.00591715976331,0.295946582302,"A hand casually anchored on the hip
+"
+clap,1.0,0.00591715976331,0.295946582302,"Clapping the hands over the ears
+"

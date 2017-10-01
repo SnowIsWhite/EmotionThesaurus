@@ -1,0 +1,9 @@
+dependency,frequency,norm,samples
+( NNP cc CC ) ( NNP conj NN ) ( NN amod JJ ),1.0,0.25,"Hot or gummy eyelids
+"
+( VBG nmod NN ) ( NN case IN ),1.0,0.25,"Heat rising behind the eyelids
+"
+( NN cc CC ) ( NN conj NN ) ( NN nmod NN ) ( NN case IN ),1.0,0.25,"Tears or heat behind the eyelids
+"
+( VBG nmod NN ) ( NN case IN ) ( NN cc CC ) ( NN conj NN ),1.0,0.25,"Rubbing at an eyelid or brow
+"

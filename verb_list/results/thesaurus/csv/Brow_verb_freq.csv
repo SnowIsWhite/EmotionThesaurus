@@ -1,0 +1,9 @@
+verb,frequency,norm,pmi,samples
+rub,1.0,0.0909090909091,0.29632386961,"Rubbing the brow as if to ward off a headache
+"
+lower,1.0,0.0909090909091,0.624827936582,"Lowering the brows
+"
+wrinkle,1.0,0.0909090909091,0.711839313572,"Wrinkling the brow
+"
+face,1.0,0.0909090909091,0.711839313572,"Brows drawing closer, face tightening
+"

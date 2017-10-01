@@ -1,0 +1,11 @@
+dependency,frequency,norm,samples
+( VBG dobj NN ) ( VBG advmod RB ) ( VBG nmod NN ) ( NN case IN ) ( VBG cc CC ) ( VBG conj VBG ) ( VBG dobj NN ) ( NN amod JJ ),1.0,0.2,"Poking a tongue lightly into the cheek and inhaling a long breath
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG nmod NN ) ( NN case IN ),1.0,0.2,"Poking one's tongue into the cheek
+"
+( NN compound NN ) ( NN dep IN ) ( IN xcomp VB ) ( VB mark TO ) ( VB cc CC ) ( VB conj VB ) ( VB dobj NN ),1.0,0.2,"The tongue darting out to touch or lick the lips
+"
+( VBG dobj NN ) ( VBG compound:prt RP ),1.0,0.2,"Sticking a tongue out
+"
+( NN amod JJ ) ( NN appos NN ) ( NN acl VBG ) ( VBG advmod RB ) ( VBG advmod RB ),1.0,0.2,"An open mouth, the tongue pushing slightly forward
+"

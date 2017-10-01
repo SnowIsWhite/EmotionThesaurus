@@ -1,0 +1,53 @@
+dependency,frequency,norm,samples
+( NN case IN ) ( NN nmod NN ) ( NN case IN ),2.0,0.0769230769231,"Leaning forward with a hand on the knee
+
+Leaning over with the hands on the knees
+"
+( NN compound NN ),2.0,0.0769230769231,"Stumbling, knees hitching
+
+Straightened legs, knees uncrossed
+"
+( VB ccomp VB ) ( VB dep VB ) ( VB advmod RB ),1.0,0.0384615384615,"Knees that bend, then straighten
+"
+( NN case IN ) ( NN cc CC ) ( NN conj NN ),1.0,0.0384615384615,"Dizziness, weakness in the legs and knees
+"
+( NN nmod NN ) ( NN case IN ),1.0,0.0384615384615,"Weakness in the knees
+"
+( VBG mark IN ) ( VBG nsubj NN ) ( VBG dobj NN ) ( NN amod JJ ) ( NN case POS ),1.0,0.0384615384615,"Sitting with knees touching the other person's
+"
+( NN amod JJ ) ( NN cc CC ) ( NN acl VBG ) ( VBG xcomp JJ ),1.0,0.0384615384615,"Knees loosening and feeling weak
+"
+( NN amod JJ ),1.0,0.0384615384615,"Buckling knees
+"
+( VBG dobj NN ) ( VBG compound:prt RP ) ( VBG nmod NN ) ( NN case TO ) ( NN nmod:poss NN ) ( NN case POS ),1.0,0.0384615384615,"Drawing knees up to the body's core
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN cc CC ) ( NN conj NN ),1.0,0.0384615384615,"Slapping one's knees or thighs
+"
+( NN case IN ) ( NN advmod RB ) ( NN dep NN ),1.0,0.0384615384615,"Weakness in limbs, especially the knees
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG advmod RB ),1.0,0.0384615384615,"Pressing one's knees together
+"
+( NNP nmod NN ) ( NN advmod RB ) ( NN advmod RB ) ( NN case IN ),1.0,0.0384615384615,"Leaning forward, elbows on knees
+"
+( VB dobj NN ),1.0,0.0384615384615,"Weak knees
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG advmod RB ) ( RB advmod RB ),1.0,0.0384615384615,"Clasping one's knees tightly together
+"
+( VBG dobj NN ),1.0,0.0384615384615,"Bouncing a knee
+"
+( NNP nmod NN ) ( NN advmod RB ) ( NN advmod NN ) ( NN case IN ) ( NN nummod CD ),1.0,0.0384615384615,"Leaning in, hand on one knee
+"
+( NN appos NN ) ( NN acl VBG ),1.0,0.0384615384615,"Stiff walking, the knees locking
+"
+( VBN nsubj NN ) ( VBN advmod RB ) ( VBN advmod RB ),1.0,0.0384615384615,"Knees locked tight together
+"
+( VB xcomp VBG ) ( VBG advmod RB ),1.0,0.0384615384615,"Knees pulling together
+"
+( VBG dobj NN ) ( VBG advmod RB ) ( RB nmod NN ) ( NN case TO ) ( VBG advcl VBG ) ( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG nmod NN ) ( NN case IN ),1.0,0.0384615384615,"Pulling the knees up to the chest, circling one's knees with the arms
+"
+( VBG dobj NN ) ( NN cc CC ) ( NN conj NN ) ( VBG advmod RB ) ( RB advmod RB ),1.0,0.0384615384615,"Holding the knees and legs tightly together
+"
+( VBG nmod NN ) ( NN case TO ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.0384615384615,"Falling to one's knees
+"
+( VBG compound:prt RP ) ( VBG nmod NN ) ( NN case IN ),1.0,0.0384615384615,"Retreating into the fetal position or curling up on the knees
+"

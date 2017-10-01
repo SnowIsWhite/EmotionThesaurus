@@ -1,0 +1,56 @@
+dependency,frequency1,frequency2,norm1,norm2,rank1,rank2,samples1,samples2
+( NN amod JJ ),6.0,5.0,0.146341463415,0.00574712643678,1,17,"Bumping shoulders
+
+Tight shoulders
+
+Drooping shoulders
+
+Slumped shoulders
+
+Quaking shoulders
+
+Hunched shoulders
+","Gather dust
+
+No hard feelings
+
+Pinch pennies
+
+Tempt fate
+
+Touch base
+"
+( NN dep NN ) ( NN nmod NN ) ( NN case IN ),2.0,1.0,0.0487804878049,0.00114942528736,2,21,"Shoulders that curl over the chest
+
+Shoulders curling over chest
+","Strike a chord with someone
+"
+( NN nmod:poss NNP ) ( NNP nummod CD ) ( NNP case POS ),1.0,14.0,0.0243902439024,0.016091954023,3,9,"Rolling one's shoulders
+","Bare one's soul
+
+Bite one's tongue
+
+Broaden one's horizons
+
+Catch one's breath
+
+Cross one's fingers
+
+Drown one's sorrows
+
+Flex one's muscles
+
+Know one's place
+
+Lose one's cool
+
+Lost one's edge
+
+Swallow one's pride
+
+Waste one's breath
+
+Watch one's mouth
+
+Zip one's lip
+"

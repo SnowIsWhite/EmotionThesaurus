@@ -1,0 +1,15 @@
+verb,frequency,norm,pmi,samples
+scratch,1.0,0.0285714285714,0.66329421741,"Scratching one's neck or cheek
+"
+expose,1.0,0.0285714285714,0.69314718056,"Lifting one's chin to expose the neck
+"
+twist,1.0,0.0285714285714,0.69314718056,"Twisting one's neck as if sore
+"
+stroke,1.0,0.0285714285714,0.578736829382,"Stroking one's own neck or arm as a surrogate
+"
+bend,1.0,0.0285714285714,0.69314718056,"Bending the neck forward
+"
+crack,1.0,0.0285714285714,0.69314718056,"Cracking the neck from side to side for intimidation
+"
+roll,1.0,0.0285714285714,0.69314718056,"Rolling the neck back and forth
+"

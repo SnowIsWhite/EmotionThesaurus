@@ -1,0 +1,5 @@
+dependency,frequency,norm,samples
+( NN cop VB ) ( NN case IN ) ( NN nmod:poss JJ ) ( JJ case POS ),1.0,0.5,"Be at each other's throats
+"
+( NN nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.5,"Have a lump in one's throat
+"

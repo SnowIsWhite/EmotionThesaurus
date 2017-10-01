@@ -1,0 +1,33 @@
+nonoverlapping dependency,frequency,norm,rank,samples
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN amod JJ ),2.0,0.0714285714286,2,"Dragging the palms down one's pant legs
+
+Rubbing hands down one's pant legs
+"
+( NN advmod RB ) ( NN dep NN ),1.0,0.0357142857143,3,"Slightly parting the legs
+"
+( NN appos NN ) ( NN nmod NN ) ( NN case IN ) ( NN cc CC ) ( NN conj NN ),1.0,0.0357142857143,3,"Dizziness, weakness in the legs and knees
+"
+( VBG cc CC ) ( VBG conj VBG ) ( VBG dobj NN ),1.0,0.0357142857143,3,"Uncrossing and re-crossing the legs
+"
+( VB advmod RB ) ( RB advmod JJ ),1.0,0.0357142857143,3,"Legs wide apart
+"
+( NN acl:relcl VBN ) ( VBN auxpass VBN ) ( VBN xcomp JJ ),1.0,0.0357142857143,3,"Legs that are planted wide
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG advmod RB ) ( RB advmod RB ) ( RB nmod NN ) ( NN case TO ) ( NN nmod:poss NN ) ( NN case POS ),1.0,0.0357142857143,3,"Bringing one's legs up close to the body's core
+"
+( VB dobj NN ) ( NN amod VBG ) ( NN appos NN ) ( NN amod JJ ) ( JJ xcomp VB ) ( VB mark TO ),1.0,0.0357142857143,3,"Leg muscles tightening, the body ready to run
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG nmod NN ) ( NN case IN ) ( NN amod JJ ),1.0,0.0357142857143,3,"Rubbing one's hands on pant legs
+"
+( VBG cc CC ) ( VBG conj VBG ) ( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.0357142857143,3,"Crossing and uncrossing one's legs
+"
+( VBG advmod RB ) ( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG nmod NN ) ( NN case IN ) ( NN cc CC ) ( NN conj NN ) ( NN amod JJ ),1.0,0.0357142857143,3,"Lightly rapping one's fingers on a leg or other surface
+"
+( VBG dobj NN ),1.0,0.0357142857143,3,"Crossing the legs
+"
+( VB advcl VBG ) ( VBG xcomp JJ ) ( VBG nmod NN ) ( NN case IN ) ( NN amod JJ ) ( VB nsubj NN ) ( VB xcomp JJ ),1.0,0.0357142857143,3,"Standing tall with good posture, legs spread wide
+"
+( VBG dep JJ ) ( VBG nmod NN ) ( NN case IN ) ( VBG cc CC ) ( VBG conj VBG ) ( VBG nmod NN ) ( NN case IN ),1.0,0.0357142857143,3,"A deliberate crossing of the legs or clasping of the hands
+"
+( VBG dobj NN ) ( NN acl VB ) ( VB mark TO ) ( VB dobj NN ),1.0,0.0357142857143,3,"Tapping the leg to settle nerves
+"

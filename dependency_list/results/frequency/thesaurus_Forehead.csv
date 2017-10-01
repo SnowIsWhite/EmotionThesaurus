@@ -1,0 +1,15 @@
+dependency,frequency,norm,samples
+( VBG dobj NN ) ( NN amod JJ ) ( VBG nmod NN ) ( NN case TO ),1.0,0.142857142857,"Bringing a shaky hand to the forehead
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ) ( NN acl VB ) ( VB mark TO ) ( VB xcomp JJ ) ( VB nmod NN ) ( NN case IN ),1.0,0.142857142857,"Sweeping a hand across the forehead to get rid of sweat
+"
+( VBG nmod NN ) ( NN case IN ) ( NN cc CC ) ( NN conj NN ),1.0,0.142857142857,"Rubbing at the forehead or temples
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN cc CC ) ( NN conj NN ),1.0,0.142857142857,"Rubbing one's forehead or eyebrows
+"
+( NN case IN ) ( NN cc CC ) ( NN conj NN ),1.0,0.142857142857,"Beads of sweat on the lip or forehead
+"
+( NN case IN ) ( NN conj NN ) ( NN cc CC ) ( NN conj NN ),1.0,0.142857142857,"A sheen of sweat on the cheeks, chin, and forehead
+"
+( NN amod JJ ),1.0,0.142857142857,"Forehead wrinkling
+"

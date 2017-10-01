@@ -1,0 +1,33 @@
+dependency,frequency,norm,samples
+( NN amod JJ ) ( NN compound NN ),2.0,0.125,"A hard, distinctive jaw line
+
+A sharp, defined jaw line
+"
+( NN compound NN ),2.0,0.125,"A set jaw
+
+A jutting jaw
+"
+( VBN nmod NN ) ( NN case IN ),1.0,0.0625,"Pain in the jaw
+"
+( VB nmod NN ) ( NN case IN ) ( NN cc CC ) ( NN conj NN ) ( NN amod JJ ) ( VB xcomp VBG ) ( VBG dobj NN ),1.0,0.0625,"Tightness in the jaw and facial muscles, causing discomfort
+"
+( NN amod JJ ) ( NN compound NN ) ( NN appos NN ) ( NN amod JJ ),1.0,0.0625,"A hard jaw line, a jutting chin
+"
+( NNP nmod NN ) ( NN case IN ) ( NNP nmod NN ) ( NN case IN ) ( NN amod VBG ),1.0,0.0625,"Pain in jaw from clenching teeth
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.0625,"Scratching one's jaw
+"
+( NN case IN ) ( NN cc CC ) ( NN conj NN ),1.0,0.0625,"Stiffness in the neck and jaw
+"
+( VBG dobj NN ),1.0,0.0625,"Clenching the jaw
+"
+( NN amod JJ ),1.0,0.0625,"A tight jaw
+"
+( VBG dobj NN ) ( NN cc CC ) ( NN conj NN ) ( NN nmod NN ) ( NN case IN ),1.0,0.0625,"Rubbing the jaw or back of the neck
+"
+( NN case IN ) ( NN compound NN ),1.0,0.0625,"Skimming fingertips along the jaw line
+"
+( NNP compound NNP ),1.0,0.0625,"Loose jaw
+"
+( NNP nmod NN ) ( NN case IN ) ( NN nmod NN ) ( NN case IN ) ( NN compound VBG ) ( VBG cc CC ) ( VBG conj VBG ),1.0,0.0625,"Pain in the jaw from clenching or grinding teeth
+"

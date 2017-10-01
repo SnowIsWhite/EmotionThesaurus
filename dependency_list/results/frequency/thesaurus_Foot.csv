@@ -1,0 +1,51 @@
+dependency,frequency,norm,samples
+( NN amod JJ ),2.0,0.08,"Feet shuffling
+
+Shuffling feet
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ),2.0,0.08,"Drumming feet against the floor
+
+Jittering a foot against the floor
+"
+( VBG cc CC ) ( VBG conj VBG ) ( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG nmod NN ) ( NN case TO ) ( NN amod JJ ),1.0,0.04,"Swinging or tapping one's foot to an easy beat
+"
+( VBG dobj NN ) ( VBG advmod RB ),1.0,0.04,"Narrowing one's stance, bringing the feet together
+"
+( VB ccomp VBG ) ( VBG dep VBG ) ( VBG nmod NN ) ( NN case IN ),1.0,0.04,"Feet shuffling, kicking at the ground
+"
+( JJ nsubj NN ) ( JJ advmod RB ),1.0,0.04,"Planting the feet wide apart
+"
+( NN cc CC ) ( NN conj NN ) ( NN acl VBG ) ( VBG dobj NN ),1.0,0.04,"Feet and torso facing the advantage
+"
+( NNP cc CC ) ( NNP conj NN ),1.0,0.04,"Torso and feet pointing toward the loved one
+"
+( NN nmod:poss CD ) ( CD case POS ) ( NN cc CC ) ( NN conj NN ),1.0,0.04,"Pointing one's torso and feet toward the subject
+"
+( NN advmod RB ) ( NN cc CC ) ( NN conj NN ),1.0,0.04,"Still hands and feet
+"
+( NN compound NN ),1.0,0.04,"A tapping foot
+"
+( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN cc CC ) ( NN conj NN ),1.0,0.04,"Staring down at one's hands or feet
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG nmod NN ) ( NN case IN ) ( NN amod JJ ),1.0,0.04,"Planting one's feet in a wide stance
+"
+( NN amod VBG ) ( NN ccomp VBZ ) ( VBZ advmod RB ) ( VBZ advmod RB ),1.0,0.04,"A swinging foot that suddenly goes still
+"
+( VB ccomp VB ) ( VB cc CC ) ( VB conj VB ),1.0,0.04,"Feet that bounce or tap
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG nmod NN ) ( NN case IN ),1.0,0.04,"Drumming one's feet against the floor
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.04,"Shuffling one's feet
+"
+( VBG cc CC ) ( VBG conj VBG ) ( VBG nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.04,"Swaying or rocking on one's feet
+"
+( VBG dobj NN ),1.0,0.04,"Bouncing a foot
+"
+( VBG compound:prt RP ) ( VBG nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.04,"Staring down at one's feet
+"
+( VB xcomp VBG ) ( VBG advmod RB ),1.0,0.04,"Feet pointing forward
+"
+( VBG nmod NN ) ( NN case IN ) ( VBG nmod NN ) ( NN case TO ),1.0,0.04,"Bouncing from foot to foot
+"
+( NN cc CC ) ( NN conj NN ),1.0,0.04,"Body and feet pointed forward
+"

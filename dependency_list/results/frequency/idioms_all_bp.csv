@@ -1,0 +1,151 @@
+dependency,frequency,norm,samples
+( NN nmod:poss NNP ) ( NNP nummod CD ) ( NNP case POS ),4.0,0.0533333333333,"Zip one's lip
+
+Watch one's mouth
+
+Flex one's muscles
+
+Bite one's tongue
+"
+( VB dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN nmod NN ) ( NN case IN ),4.0,0.0533333333333,"Have one's foot in the door
+
+Bury one's head in the sand
+
+Have one's head in the clouds
+
+Have one's eye on something
+"
+( NN nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),3.0,0.04,"Have a gleam in one's eye
+
+Have a lump in one's throat
+
+Have a chip on one's shoulder
+"
+( VB dobj NN ) ( NN amod JJ ),3.0,0.04,"Keep a straight face
+
+Get the upper hand
+
+Have a sweet tooth
+"
+( NN case IN ) ( NN nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),3.0,0.04,"Know something like the back of one's hand
+
+Have eyes in the back of one's head
+
+Off the top of one's head
+"
+( VB compound:prt RP ) ( VB nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),2.0,0.0266666666667,"Blow up in one's face
+
+Get back on one's feet
+"
+( VB dobj NN ) ( VB nmod NN ) ( NN case IN ) ( NN nmod:poss NN ) ( NN case POS ),2.0,0.0266666666667,"Put words into someone's mouth
+
+Wipe the grin off someone's face
+"
+( VB dobj NN ) ( VB nmod NN ) ( NN case IN ),2.0,0.0266666666667,"Go hand in hand
+
+Hit the nail on the head
+"
+( JJ nsubj NN ) ( NN nmod:poss PRP$ ),2.0,0.0266666666667,"Get your hands dirty
+
+Keep your eyes open
+"
+( NN case IN ) ( NN nmod NN ) ( NN case TO ),2.0,0.0266666666667,"From head to toe
+
+From head to toe
+"
+( NN nmod:poss NN ) ( NN amod JJ ) ( NN case POS ),2.0,0.0266666666667,"Twist someone's arm
+
+Catch someone's eye
+"
+( VBN nsubjpass NN ) ( NN nmod:poss NN ) ( NN case POS ) ( VBN auxpass VBN ),1.0,0.0133333333333,"Someone's hands are tied
+"
+( VB nmod NN ) ( NN case IN ) ( NN amod JJ ),1.0,0.0133333333333,"Put on a brave face
+"
+( NN cop VB ) ( NN case IN ) ( NN nmod:poss JJ ) ( JJ case POS ),1.0,0.0133333333333,"Be at each other's throats
+"
+( VB dobj NN ) ( NN amod JJ ) ( NN nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.0133333333333,"Have a good head on one's shoulders
+"
+( VB dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN amod JJ ) ( VB xcomp VB ) ( VB mark TO ) ( VB dobj NN ),1.0,0.0133333333333,"Give one's right arm to do something
+"
+( VB nmod NN ) ( NN case IN ) ( NN compound NN ) ( NN cc CC ) ( NN conj NN ),1.0,0.0133333333333,"Wait on someone hand and foot
+"
+( JJ advmod RB ) ( JJ nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.0133333333333,"Fall flat on one's face
+"
+( NN amod JJ ) ( NN nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.0133333333333,"Have a good head on one's shoulders
+"
+( VB advmod RB ) ( VB dobj NN ) ( NN nmod NN ) ( NN case IN ),1.0,0.0133333333333,"Only have eyes for someone
+"
+( VB compound:prt RP ) ( VB nmod NN ) ( NN case IN ),1.0,0.0133333333333,"Get out of hand
+"
+( NN cop VB ) ( NN case IN ) ( NN amod JJ ),1.0,0.0133333333333,"Be in the public eye
+"
+( NN dep NN ) ( NN cc CC ) ( NN conj NN ),1.0,0.0133333333333,"Cost an arm and a leg
+"
+( VB dobj NN ) ( VB nmod NN ) ( NN case IN ) ( NN amod JJ ),1.0,0.0133333333333,"Welcome someone with open arms
+"
+( VB dobj CD ) ( CD case POS ) ( VB advmod NN ) ( NN case IN ),1.0,0.0133333333333,"Stick one's neck out
+"
+( NN cop VB ) ( NN case IN ) ( NN nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.0133333333333,"Be on the tip of one's tongue
+"
+( NN cop VB ) ( NN acl VB ) ( VB mark TO ) ( VB compound:prt RP ),1.0,0.0133333333333,"Be a shoulder to cry on
+"
+( VBN nsubj NN ),1.0,0.0133333333333,"Face the music
+"
+( VB xcomp JJ ) ( JJ nsubj NN ) ( JJ xcomp VB ) ( VB mark TO ),1.0,0.0133333333333,"Find something hard to stomach
+"
+( VB dobj NN ) ( NN amod JJ ) ( VB nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.0133333333333,"Leave a bad taste in one's mouth
+"
+( VB iobj NN ) ( VB dobj NN ) ( NN amod JJ ),1.0,0.0133333333333,"Give someone the cold shoulder
+"
+( NN nmod NN ) ( NN case IN ) ( NN compound NN ),1.0,0.0133333333333,"Lie through ones teeth
+"
+( VB dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VB advmod RB ),1.0,0.0133333333333,"Put one's foot down
+"
+( VB dobj NN ) ( NN nmod:poss PRP$ ) ( VB compound:prt RP ),1.0,0.0133333333333,"Keep your head down
+"
+( VB dobj NN ),1.0,0.0133333333333,"Lend a hand
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.0133333333333,"Drag one's feet
+"
+( NN cop VB ) ( NN nmod NN ) ( NN case IN ) ( NN amod JJ ),1.0,0.0133333333333,"Be a sight for sore eyes
+"
+( VB dobj NN ) ( VB advmod RB ),1.0,0.0133333333333,"Knock heads together
+"
+( NN cop VB ) ( NN case IN ) ( NN nmod NN ) ( NN case IN ),1.0,0.0133333333333,"Be like a slap in the face
+"
+( NN nmod:poss NN ) ( NN case POS ) ( NN nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.0133333333333,"Have someone's blood on one's hands
+"
+( VB dobj NN ) ( VB nmod NN ) ( NN case TO ) ( NN nmod:poss NN ) ( NN case POS ),1.0,0.0133333333333,"Hold a gun to someone's head
+"
+( NN case IN ) ( NN compound NN ) ( NN cc CC ) ( NN conj NN ),1.0,0.0133333333333,"Wait on someone hand and foot
+"
+( JJ cop VB ) ( JJ nmod NN ) ( NN case IN ),1.0,0.0133333333333,"Be easy on the eye
+"
+( VB dobj NN ) ( NN nmod:poss NN ) ( NN case POS ) ( VB advmod RB ),1.0,0.0133333333333,"Bite someone's head off
+"
+( VB dobj PRP ) ( VB nmod NN ) ( NN case IN ),1.0,0.0133333333333,"Shoot oneself in the foot
+"
+( VB compound:prt RP ) ( VB nmod NN ) ( NN case IN ) ( NN amod JJ ),1.0,0.0133333333333,"Get off on the wrong foot
+"
+( VB dobj NN ) ( VB compound:prt RP ),1.0,0.0133333333333,"Go belly up
+"
+( VB dobj NN ) ( NN nmod NN ) ( NN case IN ) ( NN nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.0133333333333,"Have eyes in the back of one's head
+"
+( VB advmod NN ) ( NN cc CC ) ( NN conj NN ),1.0,0.0133333333333,"Fight tooth and nail
+"
+( NN cop VB ) ( NN nmod NN ) ( NN case IN ) ( NN nmod:poss NN ) ( NN case POS ),1.0,0.0133333333333,"Be the apple of someone's eye
+"
+( VB nmod NN ) ( NN case IN ) ( VB nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN advmod JJ ),1.0,0.0133333333333,"Go into something with one's eyes open
+"
+( VBN aux VB ) ( VBN nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.0133333333333,"Have butterflies in one's stomach
+"
+( VB nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.0133333333333,"Think on one's feet
+"
+( NN compound NN ) ( NN nmod NN ) ( NN case IN ),1.0,0.0133333333333,"Fall head over heels
+"
+( NN cop VB ) ( NN compound:prt RP ) ( NN case IN ) ( NN nmod NN ) ( NN case IN ),1.0,0.0133333333333,"Be up in arms about something
+"
+( VB dobj NN ) ( NN nummod CD ) ( NN amod JJ ),1.0,0.0133333333333,"Have two left feet
+"
+( NN cc CC ) ( NN conj NN ),1.0,0.0133333333333,"Cost an arm and a leg
+"

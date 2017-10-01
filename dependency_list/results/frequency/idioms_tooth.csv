@@ -1,0 +1,7 @@
+dependency,frequency,norm,samples
+( VB dobj NN ) ( NN amod JJ ),1.0,0.333333333333,"Have a sweet tooth
+"
+( VB advmod NN ) ( NN cc CC ) ( NN conj NN ),1.0,0.333333333333,"Fight tooth and nail
+"
+( NN nmod NN ) ( NN case IN ) ( NN compound NN ),1.0,0.333333333333,"Lie through ones teeth
+"

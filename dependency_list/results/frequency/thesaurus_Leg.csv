@@ -1,0 +1,57 @@
+dependency,frequency,norm,samples
+( NN cc CC ) ( NN conj NN ),7.0,0.25,"Rubbing the arms or legs
+
+Crossing the arms or legs
+
+Holding the knees and legs tightly together
+
+Crossing and uncrossing arms or legs
+
+Pulling arms and legs in toward the core
+
+Keeping arms and legs in close to the body
+
+Crossing and uncrossing the arms or legs
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN amod JJ ),2.0,0.0714285714286,"Dragging the palms down one's pant legs
+
+Rubbing hands down one's pant legs
+"
+( NN amod JJ ),2.0,0.0714285714286,"Restless legs
+
+Wobbly legs
+"
+( NN advmod RB ) ( NN dep NN ),1.0,0.0357142857143,"Slightly parting the legs
+"
+( NN appos NN ) ( NN nmod NN ) ( NN case IN ) ( NN cc CC ) ( NN conj NN ),1.0,0.0357142857143,"Dizziness, weakness in the legs and knees
+"
+( VBG cc CC ) ( VBG conj VBG ) ( VBG dobj NN ),1.0,0.0357142857143,"Uncrossing and re-crossing the legs
+"
+( VB advmod RB ) ( RB advmod JJ ),1.0,0.0357142857143,"Legs wide apart
+"
+( NN acl:relcl VBN ) ( VBN auxpass VBN ) ( VBN xcomp JJ ),1.0,0.0357142857143,"Legs that are planted wide
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG advmod RB ) ( RB advmod RB ) ( RB nmod NN ) ( NN case TO ) ( NN nmod:poss NN ) ( NN case POS ),1.0,0.0357142857143,"Bringing one's legs up close to the body's core
+"
+( VB dobj NN ) ( NN amod VBG ) ( NN appos NN ) ( NN amod JJ ) ( JJ xcomp VB ) ( VB mark TO ),1.0,0.0357142857143,"Leg muscles tightening, the body ready to run
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ),1.0,0.0357142857143,"Patting a leg in comfort
+"
+( NN compound NN ),1.0,0.0357142857143,"Sitting together so the legs touch
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG nmod NN ) ( NN case IN ) ( NN amod JJ ),1.0,0.0357142857143,"Rubbing one's hands on pant legs
+"
+( VBG cc CC ) ( VBG conj VBG ) ( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.0357142857143,"Crossing and uncrossing one's legs
+"
+( VBG advmod RB ) ( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG nmod NN ) ( NN case IN ) ( NN cc CC ) ( NN conj NN ) ( NN amod JJ ),1.0,0.0357142857143,"Lightly rapping one's fingers on a leg or other surface
+"
+( VBG dobj NN ),1.0,0.0357142857143,"Crossing the legs
+"
+( VB advcl VBG ) ( VBG xcomp JJ ) ( VBG nmod NN ) ( NN case IN ) ( NN amod JJ ) ( VB nsubj NN ) ( VB xcomp JJ ),1.0,0.0357142857143,"Standing tall with good posture, legs spread wide
+"
+( NN nmod NN ) ( NN case IN ),1.0,0.0357142857143,"Weakness in legs
+"
+( VBG dep JJ ) ( VBG nmod NN ) ( NN case IN ) ( VBG cc CC ) ( VBG conj VBG ) ( VBG nmod NN ) ( NN case IN ),1.0,0.0357142857143,"A deliberate crossing of the legs or clasping of the hands
+"
+( VBG dobj NN ) ( NN acl VB ) ( VB mark TO ) ( VB dobj NN ),1.0,0.0357142857143,"Tapping the leg to settle nerves
+"

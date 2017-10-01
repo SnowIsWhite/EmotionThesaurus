@@ -1,0 +1,18 @@
+verb,frequency,norm,pmi,samples
+press,5.0,0.227272727273,1.25053636828,"Pressing palms lightly against the cheeks
+		Pressing palms to cheeks
+		Pressing the palms to the eyes
+		A palm pressed to the heart
+		Pressing a palm over the lips to hold back a cry
+"
+hold,2.0,0.0909090909091,0.780532739032,"Holding one's palms up and out
+		Holding a palm up to stop someone from dumping on more worry
+"
+raise,2.0,0.0909090909091,0.75805988318,"Raising one's palms
+		Raising one's palms to the sky and looking up
+"
+show,2.0,0.0909090909091,0.981203434494,"Showing one's palms and shrugging
+		Showing one's palms
+"
+Dragging,1.0,0.0454545454545,0.603909203353,"Dragging the palms down one's pant legs
+"

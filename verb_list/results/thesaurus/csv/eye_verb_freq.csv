@@ -1,0 +1,54 @@
+verb,frequency,norm,pmi,samples
+close,13.0,0.115044247788,2.12074019656,"Closing the eyes to savor the experience
+		Rubbing at the middle of one's forehead, eyes closed
+		Dropping the head, eyes closed
+		Putting a hand over the face, closing the eyes
+		Tipping the head back for a moment and closing the eyes
+		Taking a deep, pained breath and closing the eyes
+		Closing one's eyes to shut everything out
+		Closing the eyes and taking a calming breath
+		Closing one's eyes to more clearly recall the memories
+		Touching a temple while closing the eyes
+		Closing the eyes
+		Pinching the bridge of the nose, eyes closed
+		Shaking head and closing the eyes
+"
+shut,4.0,0.0353982300885,1.35774944263,"Staring but not seeing, eyes shut or crying
+		Squeezing one's eyes shut
+		Squeezing the eyes shut
+		Squeezing eyes shut
+"
+meet,3.0,0.0265486725664,1.16277676828,"Looking down, unable to meet someone's eyes
+		Not meeting the requester's eyes
+		An inability to meet another's eyes
+"
+look,2.0,0.0176991150442,0.875094695831,"Exhaling while the eyes look up
+		Head down as the eyes look up
+"
+squeeze,2.0,0.0176991150442,0.819524844676,"Pinching the bridge of the nose and squeezing the eyes tight
+		Pinching the bridge of the nose and tightly squeezing the eyes
+"
+lock,1.0,0.00884955752212,0.498617124596,"Eyes shining, locked on the source of relief
+"
+water,1.0,0.00884955752212,0.528470087746,"Watering eyes that display an inward focus
+"
+heavenward,1.0,0.00884955752212,0.528470087746,"Eyes going up, looking heavenward
+"
+hide,1.0,0.00884955752212,0.387391489486,"Hair hanging in face, hiding the eyes
+"
+narrow,1.0,0.00884955752212,0.528470087746,"Eyes narrowed, as if in confusion
+"
+recall,1.0,0.00884955752212,0.528470087746,"Eyes brightening as memories are recalled
+"
+draw,1.0,0.00884955752212,0.469629587723,"A sleek walk that draws the eye
+"
+lit,1.0,0.00884955752212,0.528470087746,"Eyes squinting, lit with an inner glow or twinkle of mischief
+"
+cut,1.0,0.00884955752212,0.528470087746,"Cutting the eyes toward the source
+"
+appear,1.0,0.00884955752212,0.528470087746,"Eyes appear red
+"
+glossy,1.0,0.00884955752212,0.528470087746,"Eyes that are bright, glossy
+"
+fill,1.0,0.00884955752212,0.528470087746,"Eyes that are soft, filled with an inner glow
+"

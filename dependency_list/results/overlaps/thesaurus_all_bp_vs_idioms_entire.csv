@@ -1,0 +1,1095 @@
+dependency,frequency1,frequency2,norm1,norm2,rank1,rank2,samples1,samples2
+( NN compound NN ),56.0,2.0,0.051376146789,0.00229885057471,1,20,"A slack mouth
+
+A downturned mouth
+
+A pinched mouth
+
+A thinning mouth
+
+An upturned face
+
+A flushed face
+
+Holding a hand close to the face while speaking
+
+Floundering hand movements
+
+A corded neck
+
+A bent neck
+
+Sweeping arm gestures
+
+Flexing the fingers or arm muscles
+
+Sitting together so the legs touch
+
+A tapping foot
+
+A tilted-back head
+
+A bowed head
+
+A hanging head
+
+Letting the head fall back
+
+Mimicking body language
+
+Open body posture
+
+Rising body temperature
+
+Crossing one's arms, showing closed body posture
+
+Arms crossing one's chest, closed body posture
+
+Body odor
+
+Raised body temperature
+
+Body mimicking that of the rival
+
+Crumpled body posture
+
+Flaccid yet unwelcoming body language
+
+A set jaw
+
+A jutting jaw
+
+Avoiding eye contact
+
+Firm eye contact
+
+Breaking eye contact
+
+Fiddling with a ring or button to avoid eye contact
+
+Making eye contact with others, confidence
+
+Breaking eye contact and shrugging
+
+Darting eye movements
+
+A smirk or eye roll
+
+Rubbing the back of the neck without making eye contact
+
+Speaking at the air rather than make eye contact with others
+
+A scratchy throat
+
+Making a Hmmm noise or throat clearing
+
+A trembling chin
+
+A jutting chin
+
+Stumbling, knees hitching
+
+Straightened legs, knees uncrossed
+
+A belly laugh
+
+A knotted belly
+
+A roiling stomach
+
+The chest caving
+
+An aching chest
+
+A puffed-out chest
+
+A thrust-out chest
+
+A lowering brow
+
+A wrinkled brow
+
+A furrowed brow
+","Strike gold
+
+Talk shop
+"
+( NN amod JJ ),51.0,5.0,0.0467889908257,0.00574712643678,2,17,"A dry mouth
+
+A gaping mouth
+
+Flapping hands
+
+Trembling hands
+
+Hands moistening
+
+Twitching hands
+
+Sweaty hands
+
+Clammy hands
+
+Crossed arms
+
+Restless legs
+
+Wobbly legs
+
+Feet shuffling
+
+Shuffling feet
+
+Hollowed cheeks
+
+A tight jaw
+
+Protruding eyes
+
+Narrowing eyes
+
+Narrowed eyes
+
+Vacant eyes
+
+Squinting eyes
+
+Widening eyes
+
+Eyes widening
+
+Half-lidded eyes
+
+Teary eyes
+
+Wide eyes
+
+Bloodshot eyes
+
+Watering eyes
+
+Dull eyes
+
+Eyebrows raising
+
+Raised eyebrows
+
+Throat clearing
+
+Throat bobbing
+
+A high chin
+
+Forehead wrinkling
+
+Buckling knees
+
+Bumping shoulders
+
+Tight shoulders
+
+Drooping shoulders
+
+Slumped shoulders
+
+Quaking shoulders
+
+Hunched shoulders
+
+Fluttery stomach
+
+A nervous stomach
+
+A sensitive stomach
+
+Clenching teeth
+
+Muscles quivering
+
+Tight muscles
+
+Muscles bunching
+
+Tense muscles
+
+Sweaty palms
+
+Sweaty palms
+","Gather dust
+
+No hard feelings
+
+Pinch pennies
+
+Tempt fate
+
+Touch base
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ),51.0,1.0,0.0467889908257,0.00114942528736,2,21,"Tapping a fist against the lips
+
+Pursing the lips in thought
+
+Scrubbing a hand over the face
+
+Laying a hand over the heart
+
+Rubbing a hand through the hair
+
+Running hands through the hair
+
+Placing a hand against the breastbone
+
+Forming hands into a steeple
+
+Pressing hands against the stomach
+
+Shoving hands in pockets
+
+Scrubbing a hand over the face
+
+Placing a hand on the chest
+
+Clasping hands under the chin
+
+Placing hands on the hips
+
+Hiding the hands in the pockets
+
+Tucking the hands behind the elbows
+
+Scraping a hand through the hair
+
+Rubbing a hand against the heart
+
+Laying a hand against the breastbone
+
+Balling the hands into fists
+
+Flapping a hand in dismissal
+
+Waving a hand in dismissal
+
+Slapping hands against the cheeks
+
+Clapping the hands over the ears
+
+Slipping hands into pockets
+
+Folding the arms across the chest
+
+Curling the arms over the head
+
+Folding the arms over the stomach
+
+Crossing the arms over the chest
+
+Pinning the arms against the stomach
+
+Swinging the arms while walking
+
+Wrapping arms around self
+
+Bending forward, laying head on arms
+
+Patting a leg in comfort
+
+Drumming feet against the floor
+
+Jittering a foot against the floor
+
+Curling the arms over the head
+
+Lacing fingers behind the head
+
+Bending forward, laying head on arms
+
+Dragging nails down the cheeks
+
+Propping a cheek on a fist
+
+Slapping hands against the cheeks
+
+Cutting the eyes toward the source
+
+Pinching the skin at the throat
+
+Clasping hands under the chin
+
+Folding the arms over the stomach
+
+Pressing hands against the stomach
+
+Pinning the arms against the stomach
+
+Folding the arms across the chest
+
+Crossing the arms over the chest
+
+Placing a hand on the chest
+","Drag someone through the mud
+"
+( NN nmod NN ) ( NN case IN ),39.0,2.0,0.0357798165138,0.00229885057471,3,20,"Pressing a palm over the lips to hold back a cry
+
+Biting the inside of the lip
+
+Holding one's elbow while the opposite hand makes a fist against the mouth
+
+Pressing a fist against the mouth and puffing out the cheeks
+
+A reddening of the face
+
+Covering the hands with the face
+
+A tightness in the face
+
+Holding the head in the hands
+
+Covering the face with hands
+
+Covering the face with the hands
+
+Covering the mouth with a hand
+
+Rubbing the back of the neck
+
+Touching the base of the neck
+
+Scratching or rubbing the back of the neck
+
+Rubbing the back of the neck without making eye contact
+
+Weakness in legs
+
+Leaning back in a chair, hands behind the head
+
+A shake of the head
+
+Tugging a hat down low or pulling a hood over the head
+
+Tossing one's hair back, a shake of the head
+
+Gripping the sides of the head as if to cover the ears
+
+A jolt through the body
+
+A flush that creeps across the cheeks
+
+Biting the inside of the cheek
+
+A tightening under the eyes
+
+Circles under the eyes
+
+Thickness in throat
+
+Tsking or making a noise in the throat
+
+Weakness in the knees
+
+A flutter in the belly
+
+Shoulders that curl over the chest
+
+A tightening in the chest
+
+Lightness in the chest
+
+Heat that radiates through the chest
+
+Shoulders curling over chest
+
+Tightness in the chest
+
+Rubbing or pressing a fist against the chest
+
+A lightness in the chest
+
+Breaths that catch in the chest
+","Fall through the cracks
+
+No bed of roses
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ),18.0,1.0,0.0165137614679,0.00114942528736,5,21,"Biting one's lip
+
+Licking one's lips
+
+Pursing one's lips
+
+A hand covering one's mouth
+
+Wringing one's hands
+
+Clutching one's hands
+
+Crossing one's arms
+
+Shuffling one's feet
+
+Lowering one's head
+
+Shaking one's head
+
+Arms clutching one's body as if to hold it together
+
+Biting one's cheek
+
+Scratching one's jaw
+
+Grinding one's teeth
+
+Clenching one's teeth
+
+Showing one's palms
+
+Rubbing at or massaging one's chest as if pained
+
+Showing one's palms
+","Drag one's feet
+"
+( VBG nmod NN ) ( NN case IN ),16.0,1.0,0.0146788990826,0.00114942528736,6,21,"Biting at lips
+
+Color draining from the face
+
+Heat and tingling in face
+
+A deliberate crossing of the legs or clasping of the hands
+
+Rigid posture, cords twanging in the neck
+
+Warmth radiating throughout the body
+
+Visible tremors coursing through the body
+
+Warmth spreading through the body
+
+Widening of the eyes
+
+Tingling in the stomach
+
+Hands clutching at stomach
+
+Fists tight, fingernails biting into the palms
+
+Tingling in the chest
+
+Racing heartbeat, drumming in the chest
+
+Fists tight, fingernails biting into the palms
+
+Heat rising behind the eyelids
+","Chomping at the bit
+"
+( NN amod JJ ) ( NN compound NN ),15.0,1.0,0.0137614678899,0.00114942528736,7,21,"Lethargic hand movements
+
+Fluttery hand movements
+
+Sharp hand movements
+
+Jerky head movements
+
+Closed body posture
+
+Rigid body posture
+
+Closed body language
+
+Full body tremors
+
+A hard, distinctive jaw line
+
+A sharp, defined jaw line
+
+Gaze ping-ponging, avoiding direct eye contact
+
+Strong eye contact
+
+Direct or intense eye contact
+
+Direct, probing eye contact
+
+Avoiding direct eye contact
+","Blow something sky-high
+"
+( NN cc CC ) ( NN conj NN ),14.0,1.0,0.0128440366972,0.00114942528736,8,21,"Squeezing a shoulder or hand
+
+Limbering up shoulders and neck as if readying to fight
+
+Limp hands and arms
+
+Rubbing the arms or legs
+
+Crossing the arms or legs
+
+Holding the knees and legs tightly together
+
+Crossing and uncrossing arms or legs
+
+Pulling arms and legs in toward the core
+
+Keeping arms and legs in close to the body
+
+Crossing and uncrossing the arms or legs
+
+Body and feet pointed forward
+
+Trembling lips and chin
+
+Rubbing the lips or chin
+
+Clutching the throat or chest
+","Sink or swim
+"
+( NNP compound NNP ),11.0,2.0,0.0100917431193,0.00229885057471,10,20,"Lips parting
+
+Mouth drying
+
+Mouth slackening
+
+Dry mouth
+
+Face tightening
+
+Head shaking
+
+Body shielding
+
+Loose jaw
+
+Eye rolling
+
+Palms hidden
+
+Palms hidden
+","Go ballistic
+
+Remain nameless
+"
+( VB dobj NN ),7.0,68.0,0.00642201834862,0.0781609195402,14,1,"Covering the mouth
+
+Covering the face
+
+Closing the eyes
+
+Raising the eyebrows
+
+Weak knees
+
+Slack muscles
+
+Weak muscles
+","Beat the system
+
+Bite the dust
+
+Break the ice
+
+Build a bridge
+
+Call the shots
+
+Cause a stir
+
+Crack the whip
+
+Cry wolf
+
+Cut the cord
+
+Do something for all you're worth
+
+Do the trick
+
+Draw the line
+
+Drop a bombshell
+
+Fit the bill
+
+Fly the coop
+
+Get a grip
+
+Get a headstart
+
+Get an earful
+
+Get the message
+
+Get the picture
+
+Get the sack
+
+Go bananas
+
+Go the distance
+
+Grab the headlines
+
+Have a brainstorm
+
+Have the munchies
+
+Hit the books
+
+Hit the hay
+
+Hit the jackpot
+
+Hit the mark
+
+Hit the sack
+
+Hold all the aces
+
+Join the club
+
+Know the score
+
+Learn the ropes
+
+Lend a hand
+
+Lend an ear
+
+Look the part
+
+Make a killing
+
+Make a splash
+
+Name names
+
+Pass the torch
+
+Pave the way
+
+Pay the price
+
+Play ball
+
+Play chicken
+
+Play the field
+
+Pull some strings
+
+Reinvent the wheel
+
+Rock the boat
+
+Scratch the surface
+
+See the light
+
+Set the stage
+
+Shoot the breeze
+
+Smell a rat
+
+Soften the blow
+
+Steal the show
+
+Sweep the board
+
+Take a beating
+
+Take a raincheck
+
+Take the cake
+
+Take the plunge
+
+Test the waters
+
+Throw a fit
+
+Tip the balance
+
+Turn the tables
+
+Upset the applecart
+
+Wield the axe
+"
+( NN compound NNP ),7.0,1.0,0.00642201834862,0.00114942528736,14,21,"Body tremors
+
+Cold eyes
+
+Eye contact dropping
+
+Wet eyes
+
+Chin tremors
+
+Open palms
+
+Open palms
+","Cut corners
+"
+( NN nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),6.0,1.0,0.00550458715596,0.00114942528736,15,21,"Rubbing the back of one's neck
+
+A gleam in one's eye
+
+Feeling a pulse in one's throat
+
+Making a noise in one's throat
+
+Tenseness in one's stomach
+
+A tingling in one's chest
+","Quake in one's boots
+"
+( NN dep NN ) ( NN nmod NN ) ( NN case IN ),5.0,1.0,0.0045871559633,0.00114942528736,16,21,"Arms hanging at the sides
+
+The body freezing in place
+
+Eyes prickling with tears
+
+Shoulders that curl over the chest
+
+Shoulders curling over chest
+","Strike a chord with someone
+"
+( NNP dep NN ) ( NN nmod NN ) ( NN case IN ),5.0,3.0,0.0045871559633,0.00344827586207,16,19,"Covering the mouth with a hand
+
+Covering the face with hands
+
+Covering the face with the hands
+
+Covering the hands with the face
+
+Holding the head in the hands
+","Blow the whistle on something
+
+Burn the candle at both ends
+
+Pat someone on the back
+"
+( VB dobj NN ) ( VB advmod RB ),3.0,3.0,0.00275229357798,0.00344827586207,18,19,"Lips parting slightly
+
+Eyebrows that squish together
+
+Baring the teeth slightly
+","Get something straight
+
+Knock heads together
+
+Meet someone halfway
+"
+( VB dobj NN ) ( NN nmod:poss CD ) ( CD case POS ),3.0,16.0,0.00275229357798,0.0183908045977,18,7,"Raising one's eyebrows
+
+Raising one's palms
+
+Raising one's palms
+","Count one's blessings
+
+Do one's homework
+
+Hedge one's bets
+
+Leave one's mark
+
+Lick one's chops
+
+Lick one's wounds
+
+Lose one's marbles
+
+Make one's bed
+
+Meet one's match
+
+Pay one's dues
+
+Rack one's brain
+
+Recharge one's batteries
+
+Rest one's case
+
+Spill one's guts
+
+Spread one's wings
+
+Stand one's ground
+"
+( NNP dep NN ),3.0,4.0,0.00275229357798,0.00459770114943,18,18,"Rolling the neck
+
+Rolling the eyes
+
+Clearing the throat
+","Cross the line
+
+Miss the boat
+
+Miss the bus
+
+Miss the point
+"
+( NN dep NN ) ( NN cc CC ) ( NN conj NN ),3.0,1.0,0.00275229357798,0.00114942528736,18,21,"Hands that clench and unclench
+
+Closing the eyes and sighing
+
+Eyes that sparkle and gleam
+","Cost an arm and a leg
+"
+( NN nmod:poss NNP ) ( NNP nummod CD ) ( NNP case POS ),3.0,14.0,0.00275229357798,0.016091954023,18,9,"Rolling one's shoulders
+
+Holding one's stomach
+
+Baring one's teeth
+","Bare one's soul
+
+Bite one's tongue
+
+Broaden one's horizons
+
+Catch one's breath
+
+Cross one's fingers
+
+Drown one's sorrows
+
+Flex one's muscles
+
+Know one's place
+
+Lose one's cool
+
+Lost one's edge
+
+Swallow one's pride
+
+Waste one's breath
+
+Watch one's mouth
+
+Zip one's lip
+"
+( VB xcomp JJ ),2.0,2.0,0.00183486238532,0.00229885057471,19,20,"Lip biting
+
+Stomach hardening
+","Come clean
+
+Go pear-shaped
+"
+( VB mark TO ) ( VB dobj NN ),2.0,2.0,0.00183486238532,0.00229885057471,19,20,"Using the hair to hide the face
+
+Lifting one's chin to expose the neck
+","To go ape
+
+To mean business
+"
+( NN compound NN ) ( NN nmod NN ) ( NN case IN ),2.0,3.0,0.00183486238532,0.00344827586207,19,19,"Hugging one's shoulders, chin resting on the chest
+
+Hugging one's shoulders, chin resting on the chest
+","Fall head over heels
+
+Rake someone over the coals
+
+Score points with someone
+"
+( NNP cc CC ) ( NNP conj NN ) ( NN amod JJ ),2.0,1.0,0.00183486238532,0.00114942528736,19,21,"Wet or red eyes
+
+Hot or gummy eyelids
+","Wine and dine someone
+"
+( VBG mark IN ) ( VBG dobj NN ),2.0,1.0,0.00183486238532,0.00114942528736,19,21,"Touching a temple while closing the eyes
+
+Cocking the head while raising the eyebrows
+","Without missing a beat
+"
+( VB dobj NN ) ( NN amod JJ ),1.0,29.0,0.000917431192661,0.0333333333333,20,4,"Muscles losing tension
+","Be/get a rude awakening
+
+Come full circle
+
+Do a double take
+
+Drive a hard bargain
+
+Extend the olive branch
+
+Fight a losing battle
+
+Get the upper hand
+
+Give a back-handed compliment
+
+Go cold turkey
+
+Go the extra mile
+
+Have a clean break
+
+Have a hidden agenda
+
+Have a knee-jerk reaction
+
+Have a one-track mind
+
+Have a silver lining
+
+Have a sneaking suspicion
+
+Have a sweet tooth
+
+Have a thick skin
+
+Have the last laugh
+
+Hit the hard stuff
+
+Keep a low profile
+
+Keep a straight face
+
+Keep an open mind
+
+Live a charmed life
+
+Make the first move
+
+Need fresh blood
+
+Reach the boiling point
+
+Share common ground
+
+Win brownie points
+"
+( VB dobj NN ) ( VB nmod NN ) ( NN case IN ),1.0,42.0,0.000917431192661,0.048275862069,20,2,"Visible tension in the muscles
+","Blow the lid off something
+
+Bore the pants off someone
+
+Bounce ideas off someone
+
+Catch someone in the act
+
+Catch someone off guard
+
+Do battle with someone
+
+Do something against the clock
+
+Do something around the clock
+
+Do something by the book
+
+Do something from scratch
+
+Do something on the spot
+
+Drink someone under the table
+
+Eat someone for breakfast
+
+Fit someone like a glove
+
+Get a handle on something
+
+Get a slap on the wrist
+
+Go hand in hand
+
+Have something down pat
+
+Hear something through the grapevine
+
+Hit the nail on the head
+
+Keep someone in the dark
+
+Keep something at bay
+
+Leave someone in the lurch
+
+Let someone off the hook
+
+Make no bones about something
+
+Nip something in the bud
+
+Open doors for someone
+
+Place something on a pedestal
+
+Play something by ear
+
+Pull rank on someone
+
+Put a damper on something
+
+Put someone on the spot
+
+Put something on the map
+
+Read someone like a book
+
+Run something into the ground
+
+Shout something from the rooftops
+
+Take something by storm
+
+Take the edge off something
+
+Throw someone off balance
+
+Treat someone like dirt
+
+Watch someone like a hawk
+
+Write the book on something
+"
+( NN case IN ) ( NN nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,1.0,0.000917431192661,0.00114942528736,20,21,"Rubbing at the back of one's neck
+","Off the top of one's head
+"
+( NN nmod NN ) ( NN case IN ) ( NN nmod:poss NN ) ( NN case POS ),1.0,1.0,0.000917431192661,0.00114942528736,20,21,"Jabbing a finger in someone's face
+","Rain on someone's parade
+"
+( VB compound:prt RP ) ( VB nmod NN ) ( NN case IN ) ( NN amod JJ ),1.0,1.0,0.000917431192661,0.00114942528736,20,21,"Hands up in a defensive stance
+","Get off on the wrong foot
+"
+( VB dobj NN ) ( NN amod VBG ),1.0,1.0,0.000917431192661,0.00114942528736,20,21,"Soft head shaking
+","Do a vanishing act
+"
+( VB compound:prt RP ) ( VB dobj NN ),1.0,16.0,0.000917431192661,0.0183908045977,20,7,"A smile that has a genuine build and lights up the face
+","Beat around the bush
+
+Clear away the cobwebs
+
+Fall off the wagon
+
+Get off the ground
+
+Get over the hump
+
+Go down the drain
+
+Go off the record
+
+Hold down the fort
+
+Lay down the law
+
+Let off steam
+
+Move up the ladder
+
+Pick up the tab
+
+Pull out all the stops
+
+Put down roots
+
+Put out feelers
+
+Set up shop
+"
+( VB dobj NN ) ( NN cc CC ) ( NN conj NN ),1.0,1.0,0.000917431192661,0.00114942528736,20,21,"Limp hands and arms
+","Play cat and mouse
+"

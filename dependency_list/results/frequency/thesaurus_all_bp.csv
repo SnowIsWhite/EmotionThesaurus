@@ -1,0 +1,2181 @@
+dependency,frequency,norm,samples
+( NN compound NN ),56.0,0.051376146789,"A slack mouth
+
+A downturned mouth
+
+A pinched mouth
+
+A thinning mouth
+
+An upturned face
+
+A flushed face
+
+Holding a hand close to the face while speaking
+
+Floundering hand movements
+
+A corded neck
+
+A bent neck
+
+Sweeping arm gestures
+
+Flexing the fingers or arm muscles
+
+Sitting together so the legs touch
+
+A tapping foot
+
+A tilted-back head
+
+A bowed head
+
+A hanging head
+
+Letting the head fall back
+
+Mimicking body language
+
+Open body posture
+
+Rising body temperature
+
+Crossing one's arms, showing closed body posture
+
+Arms crossing one's chest, closed body posture
+
+Body odor
+
+Raised body temperature
+
+Body mimicking that of the rival
+
+Crumpled body posture
+
+Flaccid yet unwelcoming body language
+
+A set jaw
+
+A jutting jaw
+
+Avoiding eye contact
+
+Firm eye contact
+
+Breaking eye contact
+
+Fiddling with a ring or button to avoid eye contact
+
+Making eye contact with others, confidence
+
+Breaking eye contact and shrugging
+
+Darting eye movements
+
+A smirk or eye roll
+
+Rubbing the back of the neck without making eye contact
+
+Speaking at the air rather than make eye contact with others
+
+A scratchy throat
+
+Making a Hmmm noise or throat clearing
+
+A trembling chin
+
+A jutting chin
+
+Stumbling, knees hitching
+
+Straightened legs, knees uncrossed
+
+A belly laugh
+
+A knotted belly
+
+A roiling stomach
+
+The chest caving
+
+An aching chest
+
+A puffed-out chest
+
+A thrust-out chest
+
+A lowering brow
+
+A wrinkled brow
+
+A furrowed brow
+"
+( NN amod JJ ),51.0,0.0467889908257,"A dry mouth
+
+A gaping mouth
+
+Flapping hands
+
+Trembling hands
+
+Hands moistening
+
+Twitching hands
+
+Sweaty hands
+
+Clammy hands
+
+Crossed arms
+
+Restless legs
+
+Wobbly legs
+
+Feet shuffling
+
+Shuffling feet
+
+Hollowed cheeks
+
+A tight jaw
+
+Protruding eyes
+
+Narrowing eyes
+
+Narrowed eyes
+
+Vacant eyes
+
+Squinting eyes
+
+Widening eyes
+
+Eyes widening
+
+Half-lidded eyes
+
+Teary eyes
+
+Wide eyes
+
+Bloodshot eyes
+
+Watering eyes
+
+Dull eyes
+
+Eyebrows raising
+
+Raised eyebrows
+
+Throat clearing
+
+Throat bobbing
+
+A high chin
+
+Forehead wrinkling
+
+Buckling knees
+
+Bumping shoulders
+
+Tight shoulders
+
+Drooping shoulders
+
+Slumped shoulders
+
+Quaking shoulders
+
+Hunched shoulders
+
+Fluttery stomach
+
+A nervous stomach
+
+A sensitive stomach
+
+Clenching teeth
+
+Muscles quivering
+
+Tight muscles
+
+Muscles bunching
+
+Tense muscles
+
+Sweaty palms
+
+Sweaty palms
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ),51.0,0.0467889908257,"Tapping a fist against the lips
+
+Pursing the lips in thought
+
+Scrubbing a hand over the face
+
+Laying a hand over the heart
+
+Rubbing a hand through the hair
+
+Running hands through the hair
+
+Placing a hand against the breastbone
+
+Forming hands into a steeple
+
+Pressing hands against the stomach
+
+Shoving hands in pockets
+
+Scrubbing a hand over the face
+
+Placing a hand on the chest
+
+Clasping hands under the chin
+
+Placing hands on the hips
+
+Hiding the hands in the pockets
+
+Tucking the hands behind the elbows
+
+Scraping a hand through the hair
+
+Rubbing a hand against the heart
+
+Laying a hand against the breastbone
+
+Balling the hands into fists
+
+Flapping a hand in dismissal
+
+Waving a hand in dismissal
+
+Slapping hands against the cheeks
+
+Clapping the hands over the ears
+
+Slipping hands into pockets
+
+Folding the arms across the chest
+
+Curling the arms over the head
+
+Folding the arms over the stomach
+
+Crossing the arms over the chest
+
+Pinning the arms against the stomach
+
+Swinging the arms while walking
+
+Wrapping arms around self
+
+Bending forward, laying head on arms
+
+Patting a leg in comfort
+
+Drumming feet against the floor
+
+Jittering a foot against the floor
+
+Curling the arms over the head
+
+Lacing fingers behind the head
+
+Bending forward, laying head on arms
+
+Dragging nails down the cheeks
+
+Propping a cheek on a fist
+
+Slapping hands against the cheeks
+
+Cutting the eyes toward the source
+
+Pinching the skin at the throat
+
+Clasping hands under the chin
+
+Folding the arms over the stomach
+
+Pressing hands against the stomach
+
+Pinning the arms against the stomach
+
+Folding the arms across the chest
+
+Crossing the arms over the chest
+
+Placing a hand on the chest
+"
+( NN nmod NN ) ( NN case IN ),39.0,0.0357798165138,"Pressing a palm over the lips to hold back a cry
+
+Biting the inside of the lip
+
+Holding one's elbow while the opposite hand makes a fist against the mouth
+
+Pressing a fist against the mouth and puffing out the cheeks
+
+A reddening of the face
+
+Covering the hands with the face
+
+A tightness in the face
+
+Holding the head in the hands
+
+Covering the face with hands
+
+Covering the face with the hands
+
+Covering the mouth with a hand
+
+Rubbing the back of the neck
+
+Touching the base of the neck
+
+Scratching or rubbing the back of the neck
+
+Rubbing the back of the neck without making eye contact
+
+Weakness in legs
+
+Leaning back in a chair, hands behind the head
+
+A shake of the head
+
+Tugging a hat down low or pulling a hood over the head
+
+Tossing one's hair back, a shake of the head
+
+Gripping the sides of the head as if to cover the ears
+
+A jolt through the body
+
+A flush that creeps across the cheeks
+
+Biting the inside of the cheek
+
+A tightening under the eyes
+
+Circles under the eyes
+
+Thickness in throat
+
+Tsking or making a noise in the throat
+
+Weakness in the knees
+
+A flutter in the belly
+
+Shoulders that curl over the chest
+
+A tightening in the chest
+
+Lightness in the chest
+
+Heat that radiates through the chest
+
+Shoulders curling over chest
+
+Tightness in the chest
+
+Rubbing or pressing a fist against the chest
+
+A lightness in the chest
+
+Breaths that catch in the chest
+"
+( VBG dobj NN ),36.0,0.0330275229358,"Wetting the lips
+
+Tilting one's head to the side and pursing the lips
+
+Pursing the lips
+
+Drawing the mouth into a straight line and biting the lip
+
+Licking the lips
+
+Opening and closing the mouth
+
+Turning away and covering the mouth
+
+Hiding the face
+
+Rubbing the wrists or wringing the hands
+
+Dry washing the hands
+
+Folding the hands
+
+Crossing the arms
+
+Crossing the legs
+
+Bouncing a foot
+
+Shaking the head
+
+Cocking the head
+
+Making preparations or conditioning the body
+
+Spots of color entering the cheeks
+
+Clenching the jaw
+
+Putting a hand over the face, closing the eyes
+
+Tipping the head back for a moment and closing the eyes
+
+Taking a deep, pained breath and closing the eyes
+
+Hair hanging in face, hiding the eyes
+
+Shaking head and closing the eyes
+
+Pinching the bridge of the nose and tightly squeezing the eyes
+
+Touching the throat
+
+Rubbing the chin
+
+Lifting the chin
+
+Bouncing a knee
+
+Clutching the stomach
+
+Holding the stomach
+
+Bearing the teeth
+
+Gritting the teeth
+
+Hitching chest
+
+Lowering the brows
+
+Wrinkling the brow
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ),18.0,0.0165137614679,"Biting one's lip
+
+Licking one's lips
+
+Pursing one's lips
+
+A hand covering one's mouth
+
+Wringing one's hands
+
+Clutching one's hands
+
+Crossing one's arms
+
+Shuffling one's feet
+
+Lowering one's head
+
+Shaking one's head
+
+Arms clutching one's body as if to hold it together
+
+Biting one's cheek
+
+Scratching one's jaw
+
+Grinding one's teeth
+
+Clenching one's teeth
+
+Showing one's palms
+
+Rubbing at or massaging one's chest as if pained
+
+Showing one's palms
+"
+( VBG nmod NN ) ( NN case IN ),16.0,0.0146788990826,"Biting at lips
+
+Color draining from the face
+
+Heat and tingling in face
+
+A deliberate crossing of the legs or clasping of the hands
+
+Rigid posture, cords twanging in the neck
+
+Warmth radiating throughout the body
+
+Visible tremors coursing through the body
+
+Warmth spreading through the body
+
+Widening of the eyes
+
+Tingling in the stomach
+
+Hands clutching at stomach
+
+Fists tight, fingernails biting into the palms
+
+Tingling in the chest
+
+Racing heartbeat, drumming in the chest
+
+Fists tight, fingernails biting into the palms
+
+Heat rising behind the eyelids
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case TO ),15.0,0.0137614678899,"Pressing a fist to the lips
+
+Pressing a fist to the mouth
+
+Pressing a hand to the abdomen
+
+Clasping hands to the chest
+
+Tilting the head to the side
+
+Pressing palms to cheeks
+
+Pressing the palms to the eyes
+
+Dropping the chin to the chest
+
+Pressing palms to cheeks
+
+Pressing the palms to the eyes
+
+Clasping hands to the chest
+
+Clutching an item to the chest
+
+Dropping the chin to the chest
+
+Pressing palms to cheeks
+
+Pressing the palms to the eyes
+"
+( NN amod JJ ) ( NN compound NN ),15.0,0.0137614678899,"Lethargic hand movements
+
+Fluttery hand movements
+
+Sharp hand movements
+
+Jerky head movements
+
+Closed body posture
+
+Rigid body posture
+
+Closed body language
+
+Full body tremors
+
+A hard, distinctive jaw line
+
+A sharp, defined jaw line
+
+Gaze ping-ponging, avoiding direct eye contact
+
+Strong eye contact
+
+Direct or intense eye contact
+
+Direct, probing eye contact
+
+Avoiding direct eye contact
+"
+( NN cc CC ) ( NN conj NN ),14.0,0.0128440366972,"Squeezing a shoulder or hand
+
+Limbering up shoulders and neck as if readying to fight
+
+Limp hands and arms
+
+Rubbing the arms or legs
+
+Crossing the arms or legs
+
+Holding the knees and legs tightly together
+
+Crossing and uncrossing arms or legs
+
+Pulling arms and legs in toward the core
+
+Keeping arms and legs in close to the body
+
+Crossing and uncrossing the arms or legs
+
+Body and feet pointed forward
+
+Trembling lips and chin
+
+Rubbing the lips or chin
+
+Clutching the throat or chest
+"
+( VBG dobj NN ) ( VBG advmod RB ),12.0,0.0110091743119,"Pressing the lips together
+
+Gritting one's teeth, pressing the lips tight
+
+Pinching the lips together
+
+Pressing lips together
+
+Lip biting or pressing the lips together
+
+Rubbing the hands together
+
+Clasping the hands together
+
+Bending the neck forward
+
+Narrowing one's stance, bringing the feet together
+
+Shaking the head repeatedly
+
+Jerking the head back
+
+Pinching the bridge of the nose and squeezing the eyes tight
+"
+( NNP compound NNP ),11.0,0.0100917431193,"Lips parting
+
+Mouth drying
+
+Mouth slackening
+
+Dry mouth
+
+Face tightening
+
+Head shaking
+
+Body shielding
+
+Loose jaw
+
+Eye rolling
+
+Palms hidden
+
+Palms hidden
+"
+( NN case IN ) ( NN cc CC ) ( NN conj NN ),10.0,0.00917431192661,"Frequent touching of the face and lips
+
+Hair lifting on the nape and arms
+
+Stiffness in the neck and jaw
+
+Beads of sweat on the lip or forehead
+
+Dizziness, weakness in the legs and knees
+
+Tension in the neck and shoulders
+
+Clutching at the chest or belly
+
+Burning sensation in the chest or stomach
+
+Heaviness in the limbs or muscles
+
+Rubbing at an eyelid or brow
+"
+( NN case IN ) ( NN nmod NN ) ( NN case IN ),9.0,0.00825688073394,"Spittle building up in the corners of the mouth
+
+Stiffening hair on the nape of the neck
+
+Pain in the back of the throat
+
+Leaning forward with a hand on the knee
+
+Leaning over with the hands on the knees
+
+An empty feeling in the pit of the stomach
+
+Arms crossing in front of the chest
+
+Crossing arms in front of chest
+
+Rubbing the heel of a palm against chest
+"
+( NN amod JJ ) ( NN nmod NN ) ( NN case IN ),8.0,0.00733944954128,"A comfortable warmth in the face
+
+An overall relaxation of the body
+
+A visible flush in cheeks
+
+Dark circles under the eyes
+
+An animalistic growl in the throat
+
+A roiling heat in the belly
+
+A heavy feeling in the stomach
+
+A fluttery feeling in the chest
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),8.0,0.00733944954128,"Running hands through one's hair
+
+Squeezing the hands at one's sides
+
+Rubbing the hands over one's clothing
+
+Placing hands in one's pockets
+
+Pressing hands against one's cheeks
+
+Crossing the arms over one's chest
+
+Pressing hands against one's cheeks
+
+Crossing the arms over one's chest
+"
+( NN amod JJ ) ( NN appos NN ) ( NN amod JJ ),8.0,0.00733944954128,"Stiff posture, rigid muscles, a corded neck
+
+Happy tears, shining cheeks
+
+A beaming expression, glowing cheeks
+
+A flat look, narrowed eyes
+
+Shoulders back, straight posture
+
+A clenched jaw, gritted teeth
+
+A stiff neck, strained muscles
+
+Loud breaths, a heaving chest
+"
+( VB xcomp VBG ) ( VBG advmod RB ),7.0,0.00642201834862,"Neck bending forward
+
+Feet pointing forward
+
+Eyebrows squeezing together
+
+Eyebrows drawing together
+
+Knees pulling together
+
+Shoulders pushing back
+
+Shoulders hunching slightly
+"
+( VBG dobj NN ) ( NN cc CC ) ( NN conj NN ),7.0,0.00642201834862,"Trembling lips and chin
+
+Biting the lip or nails
+
+Rubbing the lips or chin
+
+Rubbing the arms or legs
+
+Crossing the arms or legs
+
+Clutching the throat or chest
+
+Squeezing a shoulder or hand
+"
+( VB dobj NN ),7.0,0.00642201834862,"Covering the mouth
+
+Covering the face
+
+Closing the eyes
+
+Raising the eyebrows
+
+Weak knees
+
+Slack muscles
+
+Weak muscles
+"
+( NN compound NNP ),7.0,0.00642201834862,"Body tremors
+
+Cold eyes
+
+Eye contact dropping
+
+Wet eyes
+
+Chin tremors
+
+Open palms
+
+Open palms
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG nmod NN ) ( NN case TO ),6.0,0.00550458715596,"Head tipping back, turning one's face to the sky
+
+Clasping one's hands to the chest
+
+Pressing one's hands to the stomach
+
+Cocking one's head to the side
+
+Pressing one's hands to the stomach
+
+Clasping one's hands to the chest
+"
+( VB xcomp VBG ) ( VBG nmod NN ) ( NN case IN ),6.0,0.00550458715596,"Hands moving in jerks
+
+Hands clenching into fists
+
+Hands tightening into fists
+
+Hands clutching at stomach
+
+Muscles jumping under the skin
+
+Chest bumping with others
+"
+( NN amod VBG ),6.0,0.00550458715596,"A curling lip
+
+A quivering chin
+
+A churning stomach
+
+A rolling stomach
+
+A hitching chest
+
+A furrowing brow
+"
+( NN nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),6.0,0.00550458715596,"Rubbing the back of one's neck
+
+A gleam in one's eye
+
+Feeling a pulse in one's throat
+
+Making a noise in one's throat
+
+Tenseness in one's stomach
+
+A tingling in one's chest
+"
+( VBG dobj NN ) ( VBG advmod RB ) ( VBG nmod NN ) ( NN case IN ),6.0,0.00550458715596,"Holding the hands loosely behind the back
+
+Clasping the hands together in the lap
+
+Pressing palms lightly against the cheeks
+
+Looking others directly in the eye
+
+Pressing palms lightly against the cheeks
+
+Pressing palms lightly against the cheeks
+"
+( VBG advmod RB ) ( VBG dobj NN ),5.0,0.0045871559633,"Frequently moistening the lips
+
+Gently biting the lip
+
+Repeatedly rubbing the face
+
+Minutely shaking the head
+
+Lightly touching a shoulder
+"
+( NN amod JJ ) ( NN compound NN ) ( NN appos NN ) ( NN amod JJ ),5.0,0.0045871559633,"Muted body language, lacking energy
+
+A hard jaw line, a jutting chin
+
+Steady eye contact, large pupils
+
+A hard jaw line, a jutting chin
+
+A sudden stiffening posture, rigid muscles
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN amod JJ ),5.0,0.0045871559633,"Rubbing hands down one's pant legs
+
+Dragging the palms down one's pant legs
+
+Rubbing hands down one's pant legs
+
+Dragging the palms down one's pant legs
+
+Dragging the palms down one's pant legs
+"
+( NN nmod:poss CD ) ( CD case POS ) ( NN cc CC ) ( NN conj NN ),5.0,0.0045871559633,"Touching one's mouth or face
+
+Pointing one's torso and feet toward the subject
+
+Scratching one's neck or cheek
+
+Rubbing one's forehead or eyebrows
+
+Slapping one's knees or thighs
+"
+( NN dep NN ) ( NN nmod NN ) ( NN case IN ),5.0,0.0045871559633,"Arms hanging at the sides
+
+The body freezing in place
+
+Eyes prickling with tears
+
+Shoulders that curl over the chest
+
+Shoulders curling over chest
+"
+( VBG advmod RB ) ( VBG nmod NN ) ( NN case IN ),5.0,0.0045871559633,"Inhaling deeply through the nose, then exhaling through the mouth
+
+Chin lowering and pulling back against the neck
+
+Rubbing absently at the arms
+
+The head pulling back as the shoulders push forward
+
+Heart thudding dully in the chest
+"
+( NNP dep NN ) ( NN nmod NN ) ( NN case IN ),5.0,0.0045871559633,"Covering the mouth with a hand
+
+Covering the face with hands
+
+Covering the face with the hands
+
+Covering the hands with the face
+
+Holding the head in the hands
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG nmod NN ) ( NN case IN ),5.0,0.0045871559633,"Shoving one's hands into pockets
+
+Pulling the knees up to the chest, circling one's knees with the arms
+
+Drumming one's feet against the floor
+
+Poking one's tongue into the cheek
+
+Poking one's tongue into the cheek
+"
+( VBG nmod NN ) ( NN case IN ) ( NN cc CC ) ( NN conj NN ),5.0,0.0045871559633,"Biting at the lips or nails
+
+A hand pressing against the throat or breastbone
+
+Rubbing at the forehead or temples
+
+Clutching at the chest or belly
+
+Rubbing at an eyelid or brow
+"
+( JJ nsubj NN ),4.0,0.00366972477064,"Pursing or pressing lips flat
+
+Digging in a purse or pocket to keep the hands busy
+
+Smoothing one's clothes or touching items to keep the hands busy
+
+Fiddling with an object to keep the hands busy
+"
+( NN amod JJ ) ( NN cc CC ) ( NN conj NN ),4.0,0.00366972477064,"A red face and neck
+
+Puffy face or eyes
+
+A red face and neck
+
+Puffy face or eyes
+"
+( VBG nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),4.0,0.00366972477064,"Rubbing at one's lips
+
+Rubbing at one's hands
+
+A lump forming in one's throat
+
+Crossing one's arms, holding onto one's shoulders
+"
+( NN dep NN ),4.0,0.00366972477064,"A face that blanches
+
+Eyes that water
+
+A chin that trembles
+
+A chest that hitches
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN cc CC ) ( NN conj NN ),4.0,0.00366972477064,"Touching one's mouth or face
+
+Scratching one's neck or cheek
+
+Rubbing one's forehead or eyebrows
+
+Slapping one's knees or thighs
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ) ( NN amod JJ ),4.0,0.00366972477064,"Licking the lip with cautious hope
+
+Pressing the lips into a fine line
+
+Tilting the head in a side-to-side rhythm
+
+Arms crossing the stomach in a protective huddle
+"
+( NN amod JJ ) ( NN nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),4.0,0.00366972477064,"A sour taste in one's mouth
+
+Dark circles under one's eyes
+
+A painful lump in one's throat
+
+A painful tightness in one's throat
+"
+( VBG compound:prt RP ) ( VBG nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN amod JJ ),4.0,0.00366972477064,"Biting down on one's bottom lip
+
+Staring down at one's empty hands
+
+Staring down at one's empty palms
+
+Staring down at one's empty palms
+"
+( NN case IN ) ( NN conj NN ) ( NN cc CC ) ( NN conj NN ),4.0,0.00366972477064,"Tension in the face, shoulders and neck
+
+Visible tension in the neck, shoulders, and arms
+
+A sheen of sweat on the cheeks, chin, and forehead
+
+Tension in the face, shoulders and neck
+"
+( NN cc CC ) ( NN conj NN ) ( NN nmod NN ) ( NN case IN ),4.0,0.00366972477064,"Rubbing the jaw or back of the neck
+
+Biting the lip or inside of the cheek
+
+Tightness or pain in the chest
+
+Tears or heat behind the eyelids
+"
+( VB dobj NN ) ( VB advmod RB ),3.0,0.00275229357798,"Lips parting slightly
+
+Eyebrows that squish together
+
+Baring the teeth slightly
+"
+( VB dobj NN ) ( NN nmod:poss CD ) ( CD case POS ),3.0,0.00275229357798,"Raising one's eyebrows
+
+Raising one's palms
+
+Raising one's palms
+"
+( NN amod VBG ) ( NN cc CC ) ( NN conj NN ),3.0,0.00275229357798,"Trembling chin and lips
+
+Trembling chin and lips
+
+Chest pain or numbness
+"
+( NN case IN ) ( NN compound NN ),3.0,0.00275229357798,"Skimming fingertips along the jaw line
+
+A lack of eye contact
+
+Gripping a fistful of shirt at the chest level
+"
+( VBG cc CC ) ( VBG conj VBG ) ( VBG dobj NN ),3.0,0.00275229357798,"Uncrossing and re-crossing the legs
+
+Cocking or tilting the head
+
+Stroking or rubbing an eyebrow
+"
+( NNP dep NN ),3.0,0.00275229357798,"Rolling the neck
+
+Rolling the eyes
+
+Clearing the throat
+"
+( NN dep NN ) ( NN cc CC ) ( NN conj NN ),3.0,0.00275229357798,"Hands that clench and unclench
+
+Closing the eyes and sighing
+
+Eyes that sparkle and gleam
+"
+( VBG dobj NN ) ( VBG compound:prt RP ) ( VBG nmod NN ) ( NN case IN ),3.0,0.00275229357798,"Pushing the hair out of the face
+
+Propping the head up with a fist
+
+Slanting the body away from an accuser
+"
+( NN nmod:poss NNP ) ( NNP nummod CD ) ( NNP case POS ),3.0,0.00275229357798,"Rolling one's shoulders
+
+Holding one's stomach
+
+Baring one's teeth
+"
+( NN amod JJ ) ( NN appos NN ),3.0,0.00275229357798,"Closed eyes, the head tipped back
+
+Heavy arms, the shoulders pulled low
+
+Stomach hardening, nausea
+"
+( VB xcomp VBG ) ( VBG compound:prt RP ),3.0,0.00275229357798,"Head tilting away
+
+Eyebrows gathering in
+
+Brows pulling in
+"
+( VB dobj NN ) ( VB advmod RB ) ( VB dep VB ) ( VB compound:prt RP ) ( VB ccomp VBZ ) ( VBZ advmod FW ) ( FW compound FW ) ( VBZ nsubj WP ) ( VB dobj NN ),3.0,0.00275229357798,"Lifting a hand loosely, palm up in a Who cares? gesture
+
+Lifting a hand loosely, palm up in a Who cares? gesture
+
+Lifting a hand loosely, palm up in a Who cares? gesture
+"
+( VBG dobj NN ) ( NN amod JJ ) ( VBG nmod NN ) ( NN case IN ),3.0,0.00275229357798,"Bouncing a curled knuckle against the mouth
+
+Running a jerky hand through the hair
+
+Making odd noises in the throat
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG nmod NN ) ( NN case IN ) ( NN amod JJ ),3.0,0.00275229357798,"Rubbing one's hands on pant legs
+
+Rubbing one's hands on pant legs
+
+Planting one's feet in a wide stance
+"
+( VBG dobj NN ) ( VBG cc CC ) ( VBG conj VBG ),3.0,0.00275229357798,"Tilting the head and pausing
+
+Quirking an eyebrow and smiling
+
+Stroking the throat and grimacing
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case TO ) ( NN nmod:poss CD ) ( CD case POS ),3.0,0.00275229357798,"Pressing hands to one's temples
+
+Clutching arms to one's chest
+
+Clutching arms to one's chest
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG advmod RB ),3.0,0.00275229357798,"Clasping one's hands together
+
+Touching one's fingertips together
+
+Pressing one's knees together
+"
+( VBN nsubj NN ) ( VBN nmod NN ) ( NN case IN ),3.0,0.00275229357798,"Arms crossed over the chest
+
+Sobs trapped in throat
+
+Arms crossed over the chest
+"
+( NN nmod NN ) ( NN case IN ) ( NN cc CC ) ( NN conj NN ),3.0,0.00275229357798,"Tremors in the hands and fingers
+
+Stiffness in the neck and jaw
+
+Tightness in the eyes or expression
+"
+( NN nmod NN ) ( NN case IN ) ( NN nmod NN ) ( NN case IN ),3.0,0.00275229357798,"Rubbing the heel of a palm against chest
+
+A feeling of expansion in the chest
+
+Rubbing the heel of a palm against chest
+"
+( NN nmod:poss CD ) ( CD case POS ) ( NN nmod NN ) ( NN case IN ),3.0,0.00275229357798,"Holding one's head with the hands
+
+Holding one's head in hands
+
+Feeling one's pulse in the throat
+"
+( VBG nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG cc CC ) ( VBG conj JJ ),2.0,0.00183486238532,"Clutching at one's arms or stomach
+
+Clutching at one's arms or stomach
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG advmod CC ) ( CC case IN ) ( CC case IN ),2.0,0.00183486238532,"Holding one's palms up and out
+
+Holding one's palms up and out
+"
+( NN advmod RB ) ( RB nmod:npmod NN ) ( NN advmod RB ) ( NN case IN ),2.0,0.00183486238532,"Hands up, palms toward the aggressor
+
+Hands up, palms toward the aggressor
+"
+( VB xcomp JJ ),2.0,0.00183486238532,"Lip biting
+
+Stomach hardening
+"
+( NNP nmod NN ) ( NN case IN ) ( NNP nmod NN ) ( NN case IN ) ( NN amod VBG ),2.0,0.00183486238532,"Pain in jaw from clenching teeth
+
+Pain in jaw from clenching teeth
+"
+( VBG cc CC ) ( VBG conj VBG ) ( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ),2.0,0.00183486238532,"Crossing and uncrossing one's legs
+
+Stroking or pinching one's throat
+"
+( VB mark TO ) ( VB dobj NN ),2.0,0.00183486238532,"Using the hair to hide the face
+
+Lifting one's chin to expose the neck
+"
+( VBZ nsubj NN ),2.0,0.00183486238532,"Hands that tremble
+
+Hands that fidget
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ) ( NN nmod:poss NN ) ( NN case POS ),2.0,0.00183486238532,"Putting an arm around someone's shoulders
+
+Putting an arm around someone's shoulders
+"
+( NN advmod RB ) ( NN cc CC ) ( NN conj NN ),2.0,0.00183486238532,"Still hands and feet
+
+Still hands and feet
+"
+( NNP dep VBG ) ( VBG xcomp JJ ),2.0,0.00183486238532,"Mouth going dry
+
+Mouth falling open
+"
+( VBN nsubj NN ) ( NN acl VBG ) ( VBG advmod RBR ) ( VBN xcomp VBG ),2.0,0.00183486238532,"Brows drawing closer, face tightening
+
+Brows drawing closer, face tightening
+"
+( VB nsubj NN ),2.0,0.00183486238532,"Arms crossed
+
+Squeezing the eyes shut
+"
+( NN amod JJ ) ( NN appos NN ) ( NN compound NN ),2.0,0.00183486238532,"Saggy posture, bent neck
+
+Shoulders curling, a bent spine
+"
+( NN compound NN ) ( NN appos NN ) ( NN advmod RB ),2.0,0.00183486238532,"Eyes widening, yet brows are furrowed
+
+Eyes widening, yet brows are furrowed
+"
+( VBN nsubj NN ) ( NN amod JJ ) ( VBN cc CC ) ( VBN conj VBN ) ( VBN dobj NN ),2.0,0.00183486238532,"A deliberate eyebrow raise and head tilt
+
+A deliberate eyebrow raise and head tilt
+"
+( VBG compound:prt RP ) ( VBG nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),2.0,0.00183486238532,"Staring down at one's hands
+
+Staring down at one's feet
+"
+( VBG nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG advcl VBN ) ( VBN mark RB ) ( RB mwe IN ) ( VBN nsubj PRP ) ( VBN dobj NN ),2.0,0.00183486238532,"Staring at one's palms as if they hold the answers
+
+Staring at one's palms as if they hold the answers
+"
+( VBZ nsubj NN ) ( NN acl VBG ) ( VBG advmod RB ) ( VBZ dobj NN ),2.0,0.00183486238532,"Lips pulling back, baring the teeth
+
+Lips pulling back, baring the teeth
+"
+( VBG dobj NN ) ( NN cc RB ) ( RB dep IN ) ( NN conj JJ ),2.0,0.00183486238532,"Holding the stomach as if pained
+
+Rubbing the chest as if pained
+"
+( VBG cc CC ) ( VBG conj VBG ) ( VBG nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),2.0,0.00183486238532,"Biting or chewing on one's lip
+
+Swaying or rocking on one's feet
+"
+( NNP dep NN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN nmod NN ) ( NN case IN ),2.0,0.00183486238532,"Holding one's head with the hands
+
+Holding one's head in hands
+"
+( NN nmod:poss CD ) ( CD case POS ) ( NN nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),2.0,0.00183486238532,"Covering one's face with one's hands
+
+Holding one's head in one's hands
+"
+( VBG dobj NN ) ( NN amod JJ ) ( VBG nmod NN ) ( NN case TO ),2.0,0.00183486238532,"Bringing a shaky hand to the forehead
+
+Bringing a shaky hand to the forehead
+"
+( NN dep VBG ) ( VBG compound:prt RP ) ( VBG nmod NN ) ( NN case IN ),2.0,0.00183486238532,"Arms tucking in at the sides
+
+Body angling away from suspect
+"
+( NN amod JJ ) ( NN cc CC ) ( NN conj NN ) ( NN amod JJ ),2.0,0.00183486238532,"Bottom lip or chin trembling
+
+Bottom lip or chin trembling
+"
+( VB mark TO ) ( VB dobj NN ) ( NN nmod:poss CD ) ( CD case POS ),2.0,0.00183486238532,"Hands repeatedly rising to touch one's face
+
+Using hair to hide one's face
+"
+( NN amod JJ ) ( JJ amod JJ ),2.0,0.00183486238532,"Lips pressing tight
+
+Eyes dull, lifeless
+"
+( JJ advmod RB ) ( JJ nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN amod JJ ),2.0,0.00183486238532,"Nails biting into one's own palms
+
+Nails biting into one's own palms
+"
+( VBG nmod NN ) ( NN case IN ) ( NN nmod:poss NN ) ( NN case POS ),2.0,0.00183486238532,"Hugging, grabbing onto someone's arm and holding it
+
+Grabbing onto a friend's arm
+"
+( VBN mark IN ) ( VBN nsubj NN ) ( VBN compound:prt RP ),2.0,0.00183486238532,"Exhaling while the eyes look up
+
+Head down as the eyes look up
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG cc CC ) ( VBG conj VBG ),2.0,0.00183486238532,"Showing one's palms and shrugging
+
+Showing one's palms and shrugging
+"
+( VBG dobj NN ) ( VBG nmod IN ),2.0,0.00183486238532,"Sucking the cheeks in
+
+Shoulders curling forward, caving the chest in
+"
+( VB dobj NN ) ( NN amod VBG ) ( NN appos NN ) ( NN amod JJ ) ( JJ xcomp VB ) ( VB mark TO ),2.0,0.00183486238532,"Leg muscles tightening, the body ready to run
+
+Leg muscles tightening, the body ready to run
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG nmod NN ) ( NN case TO ) ( VBG cc CC ) ( VBG conj VBG ) ( VBG compound:prt RP ),2.0,0.00183486238532,"Raising one's palms to the sky and looking up
+
+Raising one's palms to the sky and looking up
+"
+( VB mark TO ) ( VB dobj NN ) ( VB nmod NN ) ( NN case IN ),2.0,0.00183486238532,"Trying to cover body with hands
+
+Trying to cover body with hands
+"
+( VBG dobj NN ) ( VBG compound:prt RP ),2.0,0.00183486238532,"Thrusting the chest out
+
+Sticking a tongue out
+"
+( VBN advmod NN ),2.0,0.00183486238532,"A high chin, neck exposed
+
+A high chin and exposed neck
+"
+( JJ advmod RB ) ( JJ nmod NN ) ( NN case TO ),2.0,0.00183486238532,"Arms tight to the body
+
+Arms tight to the body
+"
+( NN compound NN ) ( NN nmod NN ) ( NN case IN ),2.0,0.00183486238532,"Hugging one's shoulders, chin resting on the chest
+
+Hugging one's shoulders, chin resting on the chest
+"
+( VBG dobj NN ) ( NN cc CC ) ( NN conj NN ) ( NN nmod NN ) ( NN case IN ),2.0,0.00183486238532,"Biting the lip or inside of the cheek
+
+Rubbing the jaw or back of the neck
+"
+( VB ccomp VB ) ( VB cc CC ) ( VB conj VB ),2.0,0.00183486238532,"Lips that flatten or curl
+
+Feet that bounce or tap
+"
+( NNP amod JJ ) ( JJ cc CC ) ( JJ conj JJ ),2.0,0.00183486238532,"Raised or wiggling eyebrows
+
+Hunched or rounded shoulders
+"
+( NNP cc CC ) ( NNP conj NN ) ( NN amod JJ ),2.0,0.00183486238532,"Wet or red eyes
+
+Hot or gummy eyelids
+"
+( VBG dobj NN ) ( VBG advmod RB ) ( VBG nmod NN ) ( NN case IN ) ( VBG cc CC ) ( VBG conj VBG ) ( VBG dobj NN ) ( NN amod JJ ),2.0,0.00183486238532,"Poking a tongue lightly into the cheek and inhaling a long breath
+
+Poking a tongue lightly into the cheek and inhaling a long breath
+"
+( VB advcl VBG ) ( VB nsubj NN ) ( VB nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),2.0,0.00183486238532,"Listening, arms crossed over one's chest
+
+Listening, arms crossed over one's chest
+"
+( VBG nmod NN ) ( NN case TO ) ( NN nmod:poss CD ) ( CD case POS ),2.0,0.00183486238532,"Falling to one's knees
+
+Chin lowering to one's chest
+"
+( NN dep VBG ) ( VBG compound:prt RP ) ( VBG nmod PRP ) ( PRP case IN ),2.0,0.00183486238532,"Body collapsing in on itself
+
+The body crumpling in on itself
+"
+( VBG dobj NN ) ( NN nmod NN ) ( NN case IN ) ( VBG advcl VB ) ( VB mark TO ) ( VB compound:prt RP ) ( VB dobj NN ),2.0,0.00183486238532,"Pressing a palm over the lips to hold back a cry
+
+Pressing a palm over the lips to hold back a cry
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN nmod NN ) ( NN case IN ),2.0,0.00183486238532,"Shaking one's head in denial
+
+Tilting one's body toward the source
+"
+( VB compound:prt RP ) ( VB nmod NN ) ( NN case IN ) ( NN nmod NN ) ( NN case IN ),2.0,0.00183486238532,"Leaning forward with a hand on the knee
+
+Leaning over with the hands on the knees
+"
+( VBG mark IN ) ( VBG dobj NN ),2.0,0.00183486238532,"Touching a temple while closing the eyes
+
+Cocking the head while raising the eyebrows
+"
+( VBG compound:prt RP ) ( VBG dobj NN ),2.0,0.00183486238532,"Shaking out the hands
+
+Pressing a fist against the mouth and puffing out the cheeks
+"
+( VBN nsubj NNP ) ( VBN nmod NN ) ( NN case IN ),2.0,0.00183486238532,"Covering face with hands
+
+Covering face with hands
+"
+( NN amod JJ ) ( NN amod JJ ) ( NN nmod NN ) ( NN case IN ),2.0,0.00183486238532,"A slow, disbelieving shake of the head
+
+A fluttery, empty feeling in the stomach
+"
+( NN amod JJ ) ( JJ cc CC ) ( JJ conj JJ ),2.0,0.00183486238532,"A shiny or rosy face
+
+A hardening or clenching stomach
+"
+( VBZ nsubj WP ) ( VBZ dobj NN ) ( NN amod JJ ),2.0,0.00183486238532,"Belittling comments that remind the target who has the upper hand
+
+Projecting the voice, reinforcing who has the upper hand
+"
+( VBG cc CC ) ( VBG conj VBG ) ( VBG dobj NN ) ( NN cc CC ) ( NN conj NN ),2.0,0.00183486238532,"Crossing and uncrossing arms or legs
+
+Crossing and uncrossing the arms or legs
+"
+( VBG cc CC ) ( VBG conj VBG ) ( VBG dobj NN ) ( NN amod JJ ),2.0,0.00183486238532,"Rubbing or pinching the bottom lip
+
+Licking or biting the bottom lip
+"
+( NNP compound NNP ) ( NNP nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),2.0,0.00183486238532,"Head resting on one's hand
+
+Head resting on one's hand
+"
+( VBN nsubj NN ) ( VBN nmod NN ) ( NN case TO ),2.0,0.00183486238532,"A palm pressed to the heart
+
+A palm pressed to the heart
+"
+( NN dep NN ) ( NN dep NN ),2.0,0.00183486238532,"A hand that cups the mouth
+
+A hand that cups the mouth
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ) ( NN acl VB ) ( VB mark TO ) ( VB xcomp JJ ) ( VB nmod NN ) ( NN case IN ),2.0,0.00183486238532,"Sweeping a hand across the forehead to get rid of sweat
+
+Sweeping a hand across the forehead to get rid of sweat
+"
+( NNP dep NN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),2.0,0.00183486238532,"Covering one's face with one's hands
+
+Holding one's head in one's hands
+"
+( VBG cc CC ) ( VBG conj VBG ) ( VBG nmod NN ) ( NN case IN ) ( NN amod JJ ),2.0,0.00183486238532,"Licking or sucking on the bottom lip
+
+Pinching or tugging on the bottom lip
+"
+( VBG dobj NN ) ( NN cc CC ) ( NN conj NN ) ( VBG nmod NN ) ( NN case IN ) ( VBG nmod NN ) ( NN case TO ),2.0,0.00183486238532,"Keeping arms and legs in close to the body
+
+Keeping arms and legs in close to the body
+"
+( NN amod JJ ) ( NN nmod NN ) ( NN case TO ),2.0,0.00183486238532,"An ugly twist to the mouth
+
+A grim twist to the mouth
+"
+( VBG dobj NN ) ( VBG compound:prt RP ) ( VBG advcl VB ) ( VB mark TO ) ( VB dobj NN ) ( VB advcl VBG ) ( VBG mark IN ) ( VBG nmod NN ) ( NN case IN ) ( NN amod JJR ),2.0,0.00183486238532,"Holding a palm up to stop someone from dumping on more worry
+
+Holding a palm up to stop someone from dumping on more worry
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG nmod NN ) ( NN case TO ) ( NN nmod:poss CD ) ( CD case POS ),2.0,0.00183486238532,"Touching one's fingertips to one's lips
+
+Touching one's fingertips to one's lips
+"
+( VBZ xcomp VBG ) ( VBG dobj NN ) ( NN appos NN ) ( VBZ nsubj VB ),2.0,0.00183486238532,"Hands touching the lips, mouth, face
+
+Hands touching the lips, mouth, face
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG cc CC ) ( VBG conj VBG ) ( VBG advmod RB ) ( VBG dobj PRP ),1.0,0.000917431192661,"Cocking one's head and then shaking it
+"
+( VB dep VBN ) ( VBN nmod NN ) ( NN case IN ) ( NN amod JJ ) ( JJ advmod RB ),1.0,0.000917431192661,"Head tilted while mentally weighing evidence
+"
+( NN cc CC ) ( NN conj NN ) ( NN acl VBG ) ( VBG dobj NN ),1.0,0.000917431192661,"Feet and torso facing the advantage
+"
+( VBG nmod NN ) ( NN case TO ),1.0,0.000917431192661,"A hand flying to the chest
+"
+( NN compound NN ) ( NN dep VBG ) ( VBG compound:prt RP ),1.0,0.000917431192661,"Body temperature jumping up
+"
+( NNP cc CC ) ( NNP conj NN ),1.0,0.000917431192661,"Torso and feet pointing toward the loved one
+"
+( NNP dep VBG ) ( VBG cc CC ) ( VBG conj VBG ) ( VBG advmod RB ) ( VBG nmod NN ) ( NN case IN ),1.0,0.000917431192661,"Chin lowering and pulling back against the neck
+"
+( VB compound:prt RP ) ( VB nmod NN ) ( NN case IN ) ( VB dobj NN ) ( NN nmod NN ) ( NN case IN ),1.0,0.000917431192661,"Leaning back in a chair, hands behind the head
+"
+( VB xcomp VBG ) ( VBG advmod RB ) ( VBG xcomp VB ) ( VB mark TO ) ( VB dobj NN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.000917431192661,"Hands repeatedly rising to touch one's face
+"
+( NN appos NN ) ( NN nmod NN ) ( NN case IN ) ( NN cc CC ) ( NN conj NN ),1.0,0.000917431192661,"Dizziness, weakness in the legs and knees
+"
+( VBG neg RB ) ( VBG dobj NN ) ( NN nmod:poss NN ) ( NN case POS ),1.0,0.000917431192661,"Not meeting the requester's eyes
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ) ( NN nmod NN ) ( NN case IN ),1.0,0.000917431192661,"Crossing arms in front of chest
+"
+( VBG advmod RB ) ( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG nmod NN ) ( NN case IN ) ( NN cc CC ) ( NN conj NN ) ( NN amod JJ ),1.0,0.000917431192661,"Lightly rapping one's fingers on a leg or other surface
+"
+( NN amod JJ ) ( NN dep VBG ) ( VBG mark IN ) ( VBG ccomp VBG ) ( VBG dep VBG ),1.0,0.000917431192661,"A sore throat from pleading, crying, begging
+"
+( NN cc CC ) ( NN conj NN ) ( NN acl VBG ) ( VBG nmod NN ) ( NN case IN ),1.0,0.000917431192661,"Muscles and veins straining against skin
+"
+( VB nsubj NN ) ( VB advmod RB ) ( VB nmod NN ) ( NN case IN ) ( VB cc CC ) ( VB conj VBN ) ( VBN compound:prt RP ),1.0,0.000917431192661,"Hands clasped loosely behind the back and gaze down
+"
+( NN compound NN ) ( NN appos NN ) ( NN amod JJ ),1.0,0.000917431192661,"Body odor, cold sweats
+"
+( VB xcomp NN ),1.0,0.000917431192661,"Eyes that glow
+"
+( VBN nsubj NN ) ( VBN advmod RB ) ( VBN nmod NN ) ( NN case IN ),1.0,0.000917431192661,"A hand casually anchored on the hip
+"
+( VB dobj NN ) ( NN amod JJ ),1.0,0.000917431192661,"Muscles losing tension
+"
+( VBN ccomp VBG ) ( VBG dobj NN ) ( VBG cc CC ) ( VBG conj VBG ) ( VBG advmod RB ),1.0,0.000917431192661,"Face going slack and paling slightly
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN amod JJ ) ( NN cc CC ) ( NN conj NN ) ( NN nmod NN ) ( NN case IN ),1.0,0.000917431192661,"Stroking one's own neck or arm as a surrogate
+"
+( VB mark TO ) ( VB dobj NN ) ( NN case POS ),1.0,0.000917431192661,"An inability to meet another's eyes
+"
+( VB mark IN ) ( VB mark IN ) ( VB mark TO ) ( VB dobj CD ) ( CD case POS ) ( VB advmod NN ),1.0,0.000917431192661,"Lifting the shoulders as if to hide one's neck
+"
+( VB mark TO ) ( VB dobj NN ) ( NN nmod:poss NN ) ( NN case POS ),1.0,0.000917431192661,"Looking down, unable to meet someone's eyes
+"
+( VB xcomp VBG ) ( VBG compound:prt RP ) ( VBG nmod NN ) ( NN case IN ) ( NN amod JJ ),1.0,0.000917431192661,"Teeth biting down on the bottom lip
+"
+( VB xcomp VBG ) ( VBG nmod NN ) ( NN case TO ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.000917431192661,"Hands dropping to one's sides
+"
+( VBZ nsubj JJ ) ( JJ appos NN ) ( NN acl VBN ) ( VBN nmod NN ) ( NN case IN ),1.0,0.000917431192661,"Arms straight, hands locked into fists
+"
+( VBN nsubj NN ) ( NN acl VBG ) ( VBG nmod PRP ) ( PRP case IN ) ( VBN aux VBN ) ( VBN dobj NN ) ( NN acl VBG ) ( VBG mark IN ) ( VBG dobj WP ) ( VBG nsubj PRP ) ( VBG aux MD ) ( VBG aux VB ),1.0,0.000917431192661,"Hands fluttering like they've lost track of what they should be doing
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ) ( VBG cc CC ) ( VBG conj VBG ) ( VBG dobj PRP ) ( VBG nmod NN ) ( NN case TO ),1.0,0.000917431192661,"Forming a steeple with hands and pressing them to lips
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ) ( VBG cc RB ) ( RB mwe IN ) ( VBG conj VBG ) ( VBG dobj NN ) ( NN compound NN ),1.0,0.000917431192661,"Turning the body at an angle instead of facing the subject head-on
+"
+( NN amod JJ ) ( NN compound NN ) ( NN appos NN ) ( NN advmod RB ) ( NN amod JJ ),1.0,0.000917431192661,"Strong eye contact, very little blinking
+"
+( VB nsubj NN ) ( NN acl VBG ) ( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VB dobj NN ) ( NN compound NN ),1.0,0.000917431192661,"Arms crossing one's chest, closed body posture
+"
+( VBG nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN amod JJ ),1.0,0.000917431192661,"Hand splaying across one's upper chest
+"
+( VB nsubj NNP ) ( VB compound:prt RP ),1.0,0.000917431192661,"Chest thrust out
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG advmod RB ) ( RB advmod RB ) ( RB nmod NN ) ( NN case TO ) ( NN nmod:poss NN ) ( NN case POS ),1.0,0.000917431192661,"Bringing one's legs up close to the body's core
+"
+( NN compound NN ) ( NN conj NN ) ( NN cc CC ) ( NN conj NN ),1.0,0.000917431192661,"Gaping, stuttering, mouth opening and closing
+"
+( NN amod VBN ) ( NN nmod NN ) ( NN case IN ),1.0,0.000917431192661,"An excited flutter in the belly
+"
+( NNP compound NNP ) ( NNP appos NNP ),1.0,0.000917431192661,"Nodding, eyes glowing
+"
+( VBG dobj NN ) ( VBG compound:prt RP ) ( VBG advmod JJ ) ( JJ nmod NN ) ( NN case TO ) ( VBG advcl VBG ) ( VBG advmod RB ) ( VBG dobj PRP ),1.0,0.000917431192661,"Splaying hands out wide to stretch, then relaxing them
+"
+( VBG nmod NN ) ( NN case IN ) ( NN amod JJ ),1.0,0.000917431192661,"Tucking in the upper lip
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG cc CC ) ( VBG conj VBG ) ( VBG dobj NN ) ( VBG advmod RB ),1.0,0.000917431192661,"Running hands through one's hair or flipping the hair back
+"
+( NN amod JJ ) ( NN compound NN ) ( NN cc CC ) ( NN conj NN ) ( NN amod JJ ),1.0,0.000917431192661,"An exaggerated eye roll or upward glance
+"
+( VBG dobj NN ) ( NN nmod:poss NN ) ( NN case POS ) ( VBG nmod NN ) ( NN case IN ) ( NN nmod NN ) ( NN case IN ) ( NN nmod:poss PRP$ ),1.0,0.000917431192661,"Using a friend's shoulder as a shelf for your elbow
+"
+( RB nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.000917431192661,"Pulling books or packages tightly against one's chest
+"
+( VB xcomp VBG ) ( VBG advmod RB ) ( VBG nmod NN ) ( NN case IN ) ( NN amod JJ ),1.0,0.000917431192661,"Lips pressing together in a slight grimace
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ) ( NN amod JJ ) ( VBG cc CC ) ( VBG conj VBG ) ( VBG dobj NN ),1.0,0.000917431192661,"Drawing the mouth into a straight line and biting the lip
+"
+( NN acl:relcl JJ ) ( JJ cop VBN ) ( JJ advmod RB ),1.0,0.000917431192661,"Lips that are slightly parted
+"
+( JJ dep NN ) ( JJ advmod RB ) ( JJ nmod NN ) ( NN case IN ) ( NN cc CC ) ( NN conj RB ) ( RB amod VBG ),1.0,0.000917431192661,"Hands almost curling into fists and then straightening
+"
+( VBN nsubj NN ) ( VBN cop VBN ) ( VBN cc CC ) ( VBN conj RB ),1.0,0.000917431192661,"Shoulders are lowered and loose
+"
+( VBG dobj NN ) ( NN nmod:poss NN ) ( NN case POS ) ( NN acl VB ) ( VB mark TO ) ( VB dobj PRP ) ( VB advcl VBG ) ( VBG mark IN ),1.0,0.000917431192661,"Wrenching an enemy's arm to stop them from leaving
+"
+( NN compound NN ) ( NN dep IN ) ( IN xcomp VB ) ( VB mark TO ) ( VB cc CC ) ( VB conj VB ) ( VB dobj NN ),1.0,0.000917431192661,"The tongue darting out to touch or lick the lips
+"
+( NN compound NN ) ( NN compound NN ),1.0,0.000917431192661,"A wide stance, chest thrust out
+"
+( VBZ dobj NN ),1.0,0.000917431192661,"Blowing out a breath that rattles the lips
+"
+( VB xcomp VBG ) ( VBG nmod NN ) ( NN case TO ),1.0,0.000917431192661,"Hands falling to the sides
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN amod JJ ) ( VBG nmod NN ) ( NN case IN ),1.0,0.000917431192661,"Rubbing one's upper arms for comfort
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ) ( VBG cc CC ) ( VBG conj VBG ),1.0,0.000917431192661,"Weaving hands into the hair and pulling
+"
+( VBG advmod RB ) ( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ),1.0,0.000917431192661,"Repeatedly running the hands through the hair
+"
+( NNP dep NN ) ( NN nmod NN ) ( NN case IN ) ( NN appos NN ) ( NN nmod:poss NN ) ( NN amod JJ ) ( NN case POS ) ( NN amod JJ ),1.0,0.000917431192661,"Holding hands behind the back, gripping one's own wrist
+"
+( VBG dobj NN ) ( VBG advcl VBZ ) ( VBZ mark IN ) ( VBZ nsubj NN ) ( NN advmod RB ),1.0,0.000917431192661,"Compressing the lips while someone else speaks
+"
+( NN dep NN ) ( NN acl IN ),1.0,0.000917431192661,"A chest that caves in
+"
+( NN advmod RB ) ( NN dep NN ),1.0,0.000917431192661,"Slightly parting the legs
+"
+( VB advmod RB ) ( VB cc CC ) ( VB conj RB ),1.0,0.000917431192661,"Shoulders straight and back
+"
+( VB nsubj NN ) ( NN acl VBG ) ( VBG compound:prt RP ) ( VBG advcl VBG ),1.0,0.000917431192661,"Eyes going up, looking heavenward
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ) ( NN compound NN ),1.0,0.000917431192661,"Skimming fingertips along the jaw line
+"
+( NN compound NN ) ( NN dep VBZ ) ( VBZ cc CC ) ( VBZ conj VBZ ),1.0,0.000917431192661,"Body posture that loosens or collapses
+"
+( VB nsubj NN ) ( VB dep RB ) ( RB dep IN ) ( VB mark RB ) ( RB mwe IN ) ( VB mark TO ) ( VB dobj NN ),1.0,0.000917431192661,"Holding the arms out wide as if to hug the world
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case TO ) ( VBG cc CC ) ( VBG conj VBG ) ( VBG compound:prt RP ) ( VBG dobj NN ) ( NN amod JJ ),1.0,0.000917431192661,"Tilting the head to the ceiling and letting out a heavy sigh
+"
+( NN advmod RB ) ( NN compound NN ) ( NN compound NN ),1.0,0.000917431192661,"Sending someone a long, pained look and then breaking eye contact
+"
+( VBN nsubj NN ) ( NN amod JJ ),1.0,0.000917431192661,"A slight head shake
+"
+( NN dep VBG ) ( VBG nmod NN ) ( NN case TO ),1.0,0.000917431192661,"A hand flying to the chest
+"
+( VB dobj NN ) ( VB nmod NN ) ( NN case IN ),1.0,0.000917431192661,"Visible tension in the muscles
+"
+( NNP compound NNP ) ( NNP appos NN ) ( NNP dep NN ),1.0,0.000917431192661,"Facial tics, muscles that jump
+"
+( NN amod JJ ) ( NN cc CC ) ( NN acl VBN ) ( VBN advmod NN ),1.0,0.000917431192661,"A high chin and exposed neck
+"
+( VBG dobj NN ) ( VBG cc CC ) ( VBG conj VBG ) ( VBG dobj NN ) ( NN amod JJ ),1.0,0.000917431192661,"Closing the eyes and taking a calming breath
+"
+( NN compound NN ) ( NN dep VBZ ) ( VBZ dobj NN ) ( NN cc CC ) ( NN conj NN ) ( NN nmod:poss PRP$ ),1.0,0.000917431192661,"A hand flap that dismisses the person or their idea
+"
+( VBN nsubjpass NN ) ( NN acl VBG ) ( VBG nmod NN ) ( NN case IN ) ( VBN auxpass VBN ),1.0,0.000917431192661,"Eyes brightening as memories are recalled
+"
+( NNP appos NN ) ( NN amod JJ ),1.0,0.000917431192661,"Feverish, over-bright eyes
+"
+( NN cc CC ) ( NN conj NN ) ( NN compound NN ),1.0,0.000917431192661,"Flexing the fingers or arm muscles
+"
+( NN case IN ) ( NN compound NN ) ( NN cc CC ) ( NN conj NN ),1.0,0.000917431192661,"Biting the inside of the cheek or bottom lip
+"
+( VB advcl VBG ) ( VBG nmod NN ) ( NN case IN ) ( NN nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ) ( VB nsubj NN ),1.0,0.000917431192661,"Rubbing at the middle of one's forehead, eyes closed
+"
+( NN case IN ) ( NN nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.000917431192661,"Rubbing at the back of one's neck
+"
+( VBG dobj NN ) ( NN compound NN ) ( VBG nmod NN ) ( NN case TO ),1.0,0.000917431192661,"Drawing the limbs close to the body
+"
+( VBN xcomp VBG ) ( VBN nsubj NN ) ( NN amod JJ ) ( JJ amod JJ ),1.0,0.000917431192661,"Face turning ashen, white, pallid
+"
+( NN nmod NN ) ( NN case IN ) ( NN nmod:poss NN ) ( NN case POS ),1.0,0.000917431192661,"Jabbing a finger in someone's face
+"
+( VB dep VBN ) ( VBN nmod NN ) ( NN case TO ),1.0,0.000917431192661,"Head cocked to the side
+"
+( VBG compound:prt RP ) ( VBG nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN cc CC ) ( NN conj NN ),1.0,0.000917431192661,"Staring down at one's hands or feet
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ) ( VBG nmod NN ) ( NN case TO ) ( VBG advcl VBG ) ( VBG dobj NN ),1.0,0.000917431192661,"Tilting the head from side to side, weighing choices
+"
+( NN compound NN ) ( NN nmod NN ) ( NN case CC ) ( NN acl VBG ),1.0,0.000917431192661,"The mouth opening, but no words forming
+"
+( VB xcomp VBG ) ( VBG advmod RB ) ( VBG advcl VBG ) ( VBG dobj NN ) ( VBG nmod IN ),1.0,0.000917431192661,"Shoulders curling forward, caving the chest in
+"
+( VBN nsubj NNP ) ( NNP acl VBG ) ( VBG advmod RB ) ( VBN xcomp VBG ) ( VBG compound:prt RP ),1.0,0.000917431192661,"Head tilting back, gaze looking up
+"
+( VBG nmod NN ) ( NN case IN ) ( NN nmod:poss NN ) ( NN case POS ) ( VBG advcl RB ) ( RB case IN ) ( RB advcl JJ ) ( JJ case IN ),1.0,0.000917431192661,"Holding onto someone's hand for longer than necessary
+"
+( NN acl VBG ) ( NN nmod NN ) ( NN case IN ) ( NN acl VB ) ( VB mark TO ) ( VB cc CC ) ( VB conj VB ),1.0,0.000917431192661,"A deliberate lowering of the head to study or stare
+"
+( NN case IN ) ( NN appos NN ) ( NN amod JJ ) ( JJ cc CC ) ( JJ conj JJ ),1.0,0.000917431192661,"Covering the mouth with a hand, eyes wide and shining
+"
+( VBG dobj NN ) ( NN nmod NN ) ( NN case IN ) ( VBG dep VBG ) ( VBG dobj NN ),1.0,0.000917431192661,"Putting a hand over the face, closing the eyes
+"
+( NN nmod NN ) ( NN case IN ) ( NN nummod CD ),1.0,0.000917431192661,"Cupping an elbow with one hand while tapping the lips with the other
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN nmod NN ) ( NN advmod RB ) ( NN case IN ),1.0,0.000917431192661,"Keeping one's hands out of the pockets
+"
+( VBZ nsubj NNP ) ( VBZ dobj NN ) ( VBZ compound:prt RP ),1.0,0.000917431192661,"Body posture that perks up
+"
+( VB xcomp VBG ) ( VBG advmod RB ) ( VBG parataxis VBG ) ( VBG advmod RB ),1.0,0.000917431192661,"Hands clenching briefly, then releasing
+"
+( VBN nsubj NN ) ( VBN nmod NN ) ( NN case IN ) ( NN cc CC ) ( NN conj NN ) ( NN case IN ),1.0,0.000917431192661,"Hands hidden behind the back or in pockets
+"
+( NN case IN ) ( NN nmod:poss NN ) ( NN case POS ) ( NN cc CC ) ( NN conj NN ),1.0,0.000917431192661,"Laying a hand on someone's back or shoulder
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG cc CC ) ( VBG conj VBG ) ( VBG dobj NN ) ( NN amod JJ ),1.0,0.000917431192661,"Raising one's eyebrows and giving a glassy stare
+"
+( VB compound:prt RP ) ( VB nmod NN ) ( NN case IN ) ( NN amod JJ ),1.0,0.000917431192661,"Hands up in a defensive stance
+"
+( VBG dobj NN ) ( VBG advmod RB ) ( RB nmod NN ) ( NN case TO ) ( VBG advcl VBG ) ( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG nmod NN ) ( NN case IN ),1.0,0.000917431192661,"Pulling the knees up to the chest, circling one's knees with the arms
+"
+( NN amod JJ ) ( NN nmod NN ) ( NN case VBG ),1.0,0.000917431192661,"A curling lip, showing the teeth
+"
+( NN case IN ) ( NN appos NN ) ( NN acl VBN ) ( VBN compound:prt RP ),1.0,0.000917431192661,"Holding elbows wide from the body, chest thrust out
+"
+( NN case TO ) ( NN compound NN ) ( NN compound NN ),1.0,0.000917431192661,"Holding a hand close to the face while speaking
+"
+( VBG compound:prt RP ) ( VBG dobj NN ) ( NN cc CC ) ( NN conj NN ) ( VBG dep VBG ) ( VBG dobj NN ) ( NN amod JJ ),1.0,0.000917431192661,"Flinging out the arms and legs, taking a wide stance
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN dep VBG ) ( VBG advmod RB ) ( VBG nmod NN ) ( NN case TO ) ( NN cc CC ) ( NN conj NN ),1.0,0.000917431192661,"Laying a hand on one's heart then gesturing to a person or group
+"
+( NN compound NN ) ( NN appos NN ) ( NN nmod NN ) ( NN case IN ),1.0,0.000917431192661,"Clasping the hands tightly, a whitening of the knuckles
+"
+( NN dep NN ) ( NN nmod NN ) ( NN case IN ) ( NN appos NN ),1.0,0.000917431192661,"A mouth that curls with dislike, sneering
+"
+( VB dobj NN ) ( NN acl VB ) ( VB mark TO ) ( VB dobj NN ) ( VB advcl VBG ) ( VBG advmod RB ) ( VBG dobj JJR ) ( JJR nmod PRP ) ( PRP case IN ),1.0,0.000917431192661,"Opening the mouth to say something, then thinking better of it
+"
+( NN case IN ) ( NN appos NN ),1.0,0.000917431192661,"Falling against someone, shoulder to shoulder
+"
+( VBG dobj NN ) ( VBG compound:prt RP ) ( VBG cc CC ) ( VBG conj VBG ) ( VBG advmod RB ) ( VBG dobj PRP ) ( VBG nmod:tmod NN ),1.0,0.000917431192661,"Lifting hands up and then letting them fall
+"
+( VBZ nsubj NN ) ( NN compound NNP ) ( NN amod JJ ) ( NN nmod CD ) ( CD case IN ) ( VBZ xcomp VB ) ( VB mark TO ) ( VB dobj NN ) ( NN amod JJ ) ( VB advcl VB ) ( VB mark TO ),1.0,0.000917431192661,"Rapid lip movement as one tries to find the right thing to say
+"
+( NNP dep NN ) ( NN nmod NN ) ( NN case IN ) ( NN appos NN ) ( NN amod JJ ) ( JJ cc CC ) ( JJ conj JJ ),1.0,0.000917431192661,"Covering the mouth with a hand, eyes wide and shining
+"
+( VBG dep VBG ) ( VBG dep VBG ) ( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ) ( NN nmod:poss PRP$ ),1.0,0.000917431192661,"Hugging, holding, pulling someone against your shoulder
+"
+( NN appos NN ) ( NN acl VBG ) ( VBG xcomp VB ) ( VB mark TO ),1.0,0.000917431192661,"Lowering the head, the neck appearing to shrink
+"
+( VB nsubj NN ) ( NN acl VBG ) ( VB nmod NN ) ( NN case IN ) ( NN amod NN ) ( NN cc CC ) ( NN conj JJ ) ( NN nmod NN ) ( NN case IN ),1.0,0.000917431192661,"Eyes squinting, lit with an inner glow or twinkle of mischief
+"
+( NN case TO ) ( NN cc CC ) ( NN conj NN ),1.0,0.000917431192661,"A hand fluttering to the lips or neck
+"
+( NN amod JJ ) ( JJ dep JJ ) ( NN nmod NN ) ( NN case IN ) ( NN amod JJ ) ( JJ advmod RB ),1.0,0.000917431192661,"Eyes wide, rounded, with very few blinks
+"
+( NN conj NN ) ( NN cc CC ) ( NN conj NN ),1.0,0.000917431192661,"Tense arms, shoulders, or face
+"
+( VBG dep JJ ) ( VBG nmod NN ) ( NN case IN ) ( VBG cc CC ) ( VBG conj VBG ) ( VBG nmod NN ) ( NN case IN ),1.0,0.000917431192661,"A deliberate crossing of the legs or clasping of the hands
+"
+( VB dobj NN ) ( NN acl VB ) ( VB mark TO ) ( VB compound:prt RP ) ( VB dobj NN ) ( VB advcl VBG ) ( VBG mark IN ) ( VBG cc CC ) ( VBG conj VBG ),1.0,0.000917431192661,"Raising a hand to ward off others from approaching or speaking
+"
+( VBG dobj NN ) ( NN nmod NN ) ( NN case IN ) ( NN acl VB ) ( VB mark TO ) ( VB xcomp JJ ),1.0,0.000917431192661,"Lifting the chin in an attempt to look confident
+"
+( VB advmod RB ) ( VB dep VB ),1.0,0.000917431192661,"Head up, alert
+"
+( VBG dobj NN ) ( NN acl VB ) ( VB mark TO ) ( VB compound:prt RP ) ( VB nmod NN ) ( NN case IN ),1.0,0.000917431192661,"Lowering the chin to look down on someone
+"
+( NN nsubj NN ) ( NN acl VBG ) ( VBG nmod CD ) ( CD case IN ) ( NN cop VBZ ),1.0,0.000917431192661,"Arms hanging at one's sides
+"
+( VBG dobj NN ) ( VBG compound:prt RP ) ( VBG dep VBG ) ( VBG dobj NN ) ( VBG compound:prt RP ),1.0,0.000917431192661,"Holding a hand up, warding others off
+"
+( VB nsubj NNP ) ( VB nmod NN ) ( NN case TO ) ( VB xcomp VBG ) ( VBG dobj NN ) ( NN amod JJ ),1.0,0.000917431192661,"Chin dipping to the chest, adopting a slumped posture
+"
+( VBG nmod NN ) ( NN case IN ) ( VBG nmod NN ) ( NN case TO ),1.0,0.000917431192661,"Bouncing from foot to foot
+"
+( VBG dobj NN ) ( NN cc CC ) ( NN conj NN ) ( VBG nmod NN ) ( NN case IN ) ( NN case IN ),1.0,0.000917431192661,"Pulling arms and legs in toward the core
+"
+( VB nsubj NN ) ( NN cc CC ) ( NN conj NN ) ( VB advmod RB ),1.0,0.000917431192661,"Body and feet pointed forward
+"
+( VBN dobj NN ) ( NN compound NN ),1.0,0.000917431192661,"Rigid and defined forearm muscles
+"
+( NN appos NN ) ( NN amod VBG ),1.0,0.000917431192661,"Clenched jaw, grinding teeth
+"
+( NNP nmod NN ) ( NN advmod RB ) ( NN advmod NN ) ( NN case IN ) ( NN nummod CD ),1.0,0.000917431192661,"Leaning in, hand on one knee
+"
+( VB ccomp VBG ) ( VBG dep VBG ) ( VBG nmod NN ) ( NN case IN ),1.0,0.000917431192661,"Feet shuffling, kicking at the ground
+"
+( VB xcomp VBG ) ( VBG cc CC ) ( VBG conj VBG ) ( VBG advmod RB ),1.0,0.000917431192661,"Eyebrows lowering and pinching together
+"
+( VB dobj NN ) ( NN amod JJ ) ( VB advcl VBG ) ( VBG mark RB ) ( RB mwe IN ) ( VBG nsubj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN amod JJ ) ( VBG aux VBZ ) ( VBG dobj NN ),1.0,0.000917431192661,"Violently rolling shoulders as if one's own clothing is creating discomfort
+"
+( VB dobj NN ) ( NN amod VBG ),1.0,0.000917431192661,"Soft head shaking
+"
+( NN acl VBG ) ( VBG nmod NN ) ( NN case IN ) ( NN nmod NN ) ( NN case IN ),1.0,0.000917431192661,"Arms crossing in front of the chest
+"
+( NN compound NN ) ( NN cc CC ) ( NN conj NN ),1.0,0.000917431192661,"Closing eyes and squealing
+"
+( NNP compound NNP ) ( NNP appos NN ),1.0,0.000917431192661,"Eyes squinting, tightening
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ) ( NN appos NN ) ( NN amod VBG ) ( NN advmod RB ),1.0,0.000917431192661,"Running the hands through the hair, flipping hair back
+"
+( VBG mark IN ) ( VBG dobj NN ) ( VBG nmod JJ ) ( JJ case IN ),1.0,0.000917431192661,"Cupping an elbow with one hand while tapping the lips with the other
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG advcl VBG ) ( VBG mark IN ),1.0,0.000917431192661,"Crossing one's arms while observing
+"
+( NN amod VBG ) ( NN ccomp VBZ ) ( VBZ advmod RB ) ( VBZ advmod RB ),1.0,0.000917431192661,"A swinging foot that suddenly goes still
+"
+( NN amod JJ ) ( NN compound NN ) ( NN appos NNP ),1.0,0.000917431192661,"Flighty hand movements, fidgeting
+"
+( VBG nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN cc CC ) ( NN conj NN ),1.0,0.000917431192661,"Scratching at one's cheek or temple
+"
+( VBN nsubj NN ) ( NN acl VBG ) ( VBG advmod RB ) ( VBG nmod NN ) ( NN case IN ) ( VBN advmod RB ),1.0,0.000917431192661,"The head pulling back as the shoulders push forward
+"
+( VB advmod RB ) ( RB advmod JJ ),1.0,0.000917431192661,"Legs wide apart
+"
+( VB advmod RB ) ( VB nsubj NN ),1.0,0.000917431192661,"Deliberately raised eyebrows
+"
+( JJ advmod RB ) ( JJ cc CC ) ( JJ conj VBG ),1.0,0.000917431192661,"Eyes wide and glowing
+"
+( VB nsubj NN ) ( VB advmod RB ),1.0,0.000917431192661,"Hands clutched together
+"
+( VBG dobj NN ) ( NN nmod:poss NN ) ( NN case POS ) ( VBG nmod NN ) ( NN case TO ) ( NN acl JJ ) ( JJ case IN ),1.0,0.000917431192661,"Squeezing someone's arm to the point of bruising
+"
+( NN dep VBG ) ( VBG conj VBG ) ( VBG compound:prt RP ) ( VBG cc CC ) ( VBG conj VBG ),1.0,0.000917431192661,"Eyes shining, glossing over, and softening
+"
+( VB xcomp VBG ) ( VBG compound:prt RP ) ( VBG advmod RB ),1.0,0.000917431192661,"Head flinching back slightly
+"
+( VB nsubj NN ) ( VB xcomp JJ ),1.0,0.000917431192661,"Lips pressed flat
+"
+( VB compound:prt RP ) ( VB dobj NN ),1.0,0.000917431192661,"A smile that has a genuine build and lights up the face
+"
+( VBG dobj NN ) ( VBG compound:prt RP ) ( VBG cc CC ) ( VBG conj VBG ) ( VBG dobj PRP ) ( VBG nmod NN ) ( NN case IN ),1.0,0.000917431192661,"Holding hands out and weighing them in the air
+"
+( VB xcomp VBG ) ( VBG nmod NN ) ( NN case IN ) ( NN amod JJ ),1.0,0.000917431192661,"Lips pressing into a white slash
+"
+( VBG dobj NN ) ( VBG cc CC ) ( VBG conj VBG ) ( VBG dobj NN ),1.0,0.000917431192661,"Shaking head and closing the eyes
+"
+( NN acl:relcl NN ) ( NN cop VBZ ) ( NN advmod RB ) ( NN case IN ),1.0,0.000917431192661,"A body that's constantly in motion
+"
+( VB ccomp VB ) ( VB dep VB ) ( VB advmod RB ),1.0,0.000917431192661,"Knees that bend, then straighten
+"
+( NN amod JJ ) ( NN appos NN ) ( NN amod JJ ) ( NN amod JJ ),1.0,0.000917431192661,"A slack expression, wet, dull eyes
+"
+( VBN mark IN ) ( VBN advmod RB ) ( VBN compound:prt RP ) ( VBN nmod NN ) ( NN case IN ),1.0,0.000917431192661,"Breath that temporarily bottles up in the chest
+"
+( VBZ dep VB ) ( VB nmod NN ) ( NN case IN ),1.0,0.000917431192661,"Eyes that fill with tears
+"
+( VBG compound:prt RP ) ( VBG nmod NN ) ( NN case IN ) ( NN acl VBN ) ( VBN nmod NN ) ( NN nmod NN ) ( NN case IN ) ( NN dep PRP ),1.0,0.000917431192661,"Looking up with hands raised in the why me? position
+"
+( RB nmod NN ) ( NN case IN ),1.0,0.000917431192661,"Crossing the arms tightly over the chest
+"
+( VBG dobj NN ) ( VBG compound:prt RP ) ( VBG conj VBG ) ( VBG advmod RB ) ( VBG dobj NN ) ( VBG cc CC ) ( VBG conj VBG ) ( VBG dobj PRP ),1.0,0.000917431192661,"Blowing cheeks out, then swallowing the air or releasing it
+"
+( NN case IN ) ( NN advmod RB ) ( NN dep NN ),1.0,0.000917431192661,"Weakness in limbs, especially the knees
+"
+( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN cc CC ) ( NN conj NN ),1.0,0.000917431192661,"Staring down at one's hands or feet
+"
+( JJ dep NN ) ( NN nmod:poss NNP ) ( NNP nummod CD ) ( NNP case POS ) ( NN cc CC ) ( NN conj RB ),1.0,0.000917431192661,"Covering one's face and then peeking
+"
+( VBG dobj NN ) ( VBG advcl VBG ) ( VBG mark IN ) ( VBG dobj NN ),1.0,0.000917431192661,"Cocking the head while raising the eyebrows
+"
+( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN cc CC ) ( NN conj NN ) ( NN amod JJ ),1.0,0.000917431192661,"Chewing at one's lips or inner cheek and making them bleed
+"
+( VBG advmod RB ) ( VBG compound:prt RP ) ( VBG dobj NN ) ( VBG cc CC ) ( VBG conj NN ) ( NN case IN ) ( NN amod JJ ),1.0,0.000917431192661,"Always looking over the shoulder or around the next corner
+"
+( NN acl:relcl VBN ) ( VBN xcomp JJ ),1.0,0.000917431192661,"Eyes that appear wet
+"
+( NN case IN ) ( NN acl VB ) ( VB mark TO ) ( NN dep VBG ) ( VBG advmod RB ) ( VBG xcomp JJ ),1.0,0.000917431192661,"Opening the mouth to criticize, then stopping short
+"
+( VBG compound:prt RP ) ( VBG dobj NN ) ( NN cc CC ) ( NN conj NN ) ( VBG cc RB ) ( RB dep IN ) ( VBG conj VBG ) ( VBG xcomp VB ) ( VB mark TO ),1.0,0.000917431192661,"Limbering up shoulders and neck as if readying to fight
+"
+( NN dep NN ) ( NN amod JJ ) ( JJ cc CC ) ( JJ conj JJ ),1.0,0.000917431192661,"Eyes that look dark or serious
+"
+( VBG dep VBG ) ( VBG dobj NN ),1.0,0.000917431192661,"Muttering, shaking the head
+"
+( VBG dobj NN ) ( NN acl VB ) ( VB mark TO ) ( VB conj VB ) ( VB cc CC ) ( VB conj VB ),1.0,0.000917431192661,"Using the body to nudge, push, or block
+"
+( NN dep NN ) ( NN amod JJ ),1.0,0.000917431192661,"A pouty bottom lip
+"
+( NN case IN ) ( NN nmod NN ) ( NN case IN ) ( NN compound VBG ) ( VBG cc CC ) ( VBG conj VBG ),1.0,0.000917431192661,"Pain in the jaw from clenching or grinding teeth
+"
+( VBG dobj NN ) ( NN acl VB ) ( VB mark TO ) ( VB dobj NN ),1.0,0.000917431192661,"Tapping the leg to settle nerves
+"
+( VBG dobj NN ) ( VBG compound:prt RP ) ( VBG dep VBG ) ( VBG dobj NN ) ( NN cc CC ) ( NN conj NN ) ( VBG compound:prt RP ),1.0,0.000917431192661,"Holding a hand up, warding someone or something off
+"
+( VBZ mark IN ) ( VBZ nsubj NN ) ( NN amod JJ ) ( VBZ dobj NN ) ( NN nmod NN ) ( NN case IN ),1.0,0.000917431192661,"Holding one's elbow while the opposite hand makes a fist against the mouth
+"
+( JJ appos NN ) ( NN acl VBN ) ( VBN nmod NN ) ( NN case IN ),1.0,0.000917431192661,"Arms straight, hands locked into fists
+"
+( VB advcl VBG ) ( VBG dobj NN ) ( NN nmod NN ) ( NN case IN ) ( VB nsubj NN ),1.0,0.000917431192661,"Pinching the bridge of the nose, eyes closed
+"
+( VBG ccomp NN ) ( NN cop VBZ ) ( NN cc CC ) ( NN conj NN ),1.0,0.000917431192661,"Clasping another's hand or forearm
+"
+( NN dep NN ) ( NN conj NN ) ( NN cc CC ) ( NN conj NN ),1.0,0.000917431192661,"Eyes that dance, sparkle, or shine
+"
+( VBG dobj NN ) ( VBG advcl JJ ) ( JJ case IN ),1.0,0.000917431192661,"Stretching the arms out wide
+"
+( NN acl:relcl VBZ ) ( VBZ xcomp JJ ),1.0,0.000917431192661,"A stomach that feels hard
+"
+( VB dobj NN ) ( VB advmod RB ) ( RB cc CC ) ( RB conj RB ),1.0,0.000917431192661,"Rolling the neck back and forth
+"
+( NN acl VBG ) ( VBG xcomp JJ ),1.0,0.000917431192661,"The mouth falling open
+"
+( VBG dobj NN ) ( VBG advmod RB ) ( VBG nmod NN ) ( NN case IN ) ( VBG cc CC ) ( VBG conj VBG ) ( VBG dobj NN ),1.0,0.000917431192661,"Tipping the head back for a moment and closing the eyes
+"
+( VBG dobj NN ) ( NN compound NNP ) ( VBG nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.000917431192661,"Making an X motion with one's hands
+"
+( VB nsubj NNP ) ( NNP compound NNP ) ( VB dobj NN ),1.0,0.000917431192661,"Fingers touching parted lips
+"
+( VB xcomp VBG ) ( VBG advmod RB ) ( VBG advcl VBG ) ( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG nmod NN ) ( NN case TO ),1.0,0.000917431192661,"Head tipping back, turning one's face to the sky
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ) ( VBG advcl VBG ) ( VBG advmod RB ) ( VBG dobj PRP ),1.0,0.000917431192661,"Tightening the hands into fists, then loosening them
+"
+( NNP dep VBG ) ( VBG nmod NN ) ( NN case TO ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.000917431192661,"Chin lowering to one's chest
+"
+( VB dobj NN ) ( VB cc CC ) ( VB conj VB ),1.0,0.000917431192661,"Shoulders that drop or curl
+"
+( VB dobj NN ) ( VB xcomp VB ) ( VB mark TO ) ( VB dobj NN ),1.0,0.000917431192661,"Closing the eyes to savor the experience
+"
+( VB advmod RB ) ( VB xcomp VBG ) ( VBG compound:prt RP ) ( VBG nmod NN ) ( NN case IN ),1.0,0.000917431192661,"Hands up, backing away with a shudder
+"
+( VB advcl VBG ) ( VBG xcomp JJ ) ( VBG nmod NN ) ( NN case IN ) ( NN amod JJ ) ( VB nsubj NN ) ( VB xcomp JJ ),1.0,0.000917431192661,"Standing tall with good posture, legs spread wide
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN compound NN ) ( VBG nmod NN ) ( NN case IN ),1.0,0.000917431192661,"Tapping one's index finger against the lip
+"
+( VBN nsubj NN ) ( NN amod JJ ) ( JJ amod JJ ),1.0,0.000917431192661,"A slow, disbelieving head shake
+"
+( NN nsubj NN ) ( NN nmod NN ) ( NN case IN ) ( NN acl VBG ) ( VBG nmod CD ) ( CD case IN ) ( NN cop VBZ ) ( NN cc CC ) ( NN conj NN ),1.0,0.000917431192661,"A sensation of hair raising on one's arms and nape
+"
+( VBZ advcl VBG ) ( VBG cc CC ) ( VBG conj VBG ) ( VBZ nsubj NN ) ( VBZ advmod RB ),1.0,0.000917431192661,"Flinching or starting, the body jumping slightly
+"
+( NN compound NNP ) ( NN appos NN ) ( NN advmod RB ),1.0,0.000917431192661,"Perfect posture, shoulders back, exposed neck
+"
+( NN nmod:poss CD ) ( CD case POS ) ( NN amod JJ ) ( NN cc CC ) ( NN conj NN ) ( NN nmod NN ) ( NN case IN ),1.0,0.000917431192661,"Stroking one's own neck or arm as a surrogate
+"
+( VBG compound:prt RP ) ( VBG dobj NN ) ( VBG cc CC ) ( VBG conj VBG ) ( VBG advmod RB ) ( VBG dep VBG ) ( VBG xcomp VB ) ( VB mark TO ) ( VB xcomp JJ ),1.0,0.000917431192661,"Scrunching up the face and then releasing, trying to regain calm
+"
+( VBZ nsubj NN ) ( NN amod JJ ) ( JJ amod JJ ),1.0,0.000917431192661,"Hands that shake, nervous twitching
+"
+( VBN nsubj NN ) ( VBN advmod NN ),1.0,0.000917431192661,"Hands that briefly clench
+"
+( VBN nsubj NN ) ( VBN xcomp VBG ),1.0,0.000917431192661,"Vigorous head shaking
+"
+( VBG nmod NN ) ( NN case TO ) ( NN cc CC ) ( NN conj NN ),1.0,0.000917431192661,"A hand fluttering to the lips or neck
+"
+( NN acl:relcl VBN ),1.0,0.000917431192661,"Cheeks that burn
+"
+( VBG dobj NN ) ( VBG compound:prt RP ) ( VBG nmod NN ) ( NN case IN ) ( NN compound NN ),1.0,0.000917431192661,"Holding arms up in a victory V
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN acl VB ) ( VB mark TO ) ( VB dobj NN ),1.0,0.000917431192661,"Lifting one's chin to expose the neck
+"
+( NN dep RB ) ( NN acl:relcl VB ) ( VB aux MD ) ( VB neg RB ),1.0,0.000917431192661,"Fidgety hands that won't settle
+"
+( NN appos NN ) ( NN acl VBG ) ( VBG compound:prt RP ) ( VBG nmod NN ) ( NN case IN ),1.0,0.000917431192661,"Eyes narrowing, eyebrows pulling down in concentration
+"
+( NN nsubj NN ) ( NN amod VBG ) ( NN cop VBZ ) ( NN case IN ) ( NN dep NN ) ( NN mark IN ) ( NN case IN ),1.0,0.000917431192661,"Shaking one's head as if in denial
+"
+( VBG dobj NN ) ( NN cc CC ) ( NN conj NN ) ( VBG advmod RB ) ( RB advmod RB ),1.0,0.000917431192661,"Holding the knees and legs tightly together
+"
+( NN amod VBN ) ( NN cc CC ) ( NN conj VBN ) ( VBN nsubj NNP ),1.0,0.000917431192661,"A raised eyebrow and a See? look
+"
+( VBN nsubj VBN ) ( VBN advmod RB ) ( VBN nmod NN ) ( NN case IN ),1.0,0.000917431192661,"Increased sweat, particularly on the hands
+"
+( VBG dobj NN ) ( NN compound NNP ) ( VBG nmod NN ) ( NN case IN ),1.0,0.000917431192661,"Making a Hmmm noise in the throat
+"
+( VBZ dep JJ ) ( JJ nmod NN ) ( NN case IN ) ( VBZ nsubj RB ) ( RB advmod RB ) ( RB appos JJ ),1.0,0.000917431192661,"Speed-talking with others, heads close together, gossipy
+"
+( VBG dobj NN ) ( NN nmod NN ) ( NN case IN ) ( NN nmod:poss NN ) ( NN amod JJ ) ( NN case POS ) ( NN cc CC ) ( NN conj NN ),1.0,0.000917431192661,"Hooking a hand in the other person's belt or pocket
+"
+( VB dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN acl VB ) ( VB mark TO ) ( VB advmod RB ) ( RB advmod RBR ) ( VB dobj NN ),1.0,0.000917431192661,"Closing one's eyes to more clearly recall the memories
+"
+( VB nsubj NN ) ( VB nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.000917431192661,"Hands folded in one's lap
+"
+( NN amod VBG ) ( NN appos NN ) ( NN amod JJ ) ( JJ xcomp VB ) ( VB mark TO ),1.0,0.000917431192661,"Leg muscles tightening, the body ready to run
+"
+( NN amod JJ ) ( NN nmod NN ) ( NN case IN ) ( NN cc CC ) ( NN conj NN ),1.0,0.000917431192661,"Frequent touching of the face and lips
+"
+( VBG mark IN ) ( VBG nsubj NN ) ( VBG aux VBZ ),1.0,0.000917431192661,"Feeling like the head is spinning
+"
+( NN case IN ) ( NN nmod NN ) ( NN case IN ) ( NN nmod NN ) ( NN case IN ),1.0,0.000917431192661,"Grabbing at the sides of the head in an I can't believe it gesture
+"
+( VB ccomp VB ) ( VB dobj JJ ),1.0,0.000917431192661,"Hands that go limp
+"
+( VB mark TO ) ( VB cc CC ) ( VB conj VB ) ( VB dobj NN ),1.0,0.000917431192661,"The tongue darting out to touch or lick the lips
+"
+( VB xcomp VBG ) ( VBG compound:prt RP ) ( VBG nmod NN ) ( NN case IN ) ( VBG xcomp VB ) ( VB mark TO ) ( VB advmod RB ),1.0,0.000917431192661,"Head tipping back on the neck to look skyward
+"
+( NN amod JJ ) ( NN nmod NN ) ( NN case IN ) ( NN amod JJ ),1.0,0.000917431192661,"A dry throat from rushed breathing
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG cc RB ) ( RB dep IN ) ( VBG conj VBG ),1.0,0.000917431192661,"Twisting one's neck as if sore
+"
+( VBN nsubj NN ) ( VBN advmod RB ) ( VBN advmod RB ),1.0,0.000917431192661,"Knees locked tight together
+"
+( VB xcomp VBG ) ( VBG xcomp JJ ),1.0,0.000917431192661,"Throat growing thick
+"
+( VBG nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG cc CC ) ( VBG conj NN ),1.0,0.000917431192661,"Rubbing at one's nose or mouth
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case TO ) ( NN amod VBG ),1.0,0.000917431192661,"Pressing fingers to smiling lips
+"
+( VBN nmod NN ) ( NN case IN ) ( NN cc CC ) ( NN conj NN ),1.0,0.000917431192661,"Tension in the neck and shoulders
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.000917431192661,"Putting one's hands over one's ears
+"
+( NN dep VBG ) ( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.000917431192661,"A hand covering one's mouth
+"
+( NN acl:relcl VBZ ) ( VBZ xcomp VB ) ( VB mark TO ),1.0,0.000917431192661,"A face that seems to shine
+"
+( VB advcl VBG ) ( VBG cc RB ) ( RB cc CC ) ( VBG conj VBG ) ( VB nsubj NN ) ( VB cc CC ) ( VB conj VBZ ),1.0,0.000917431192661,"Staring but not seeing, eyes shut or crying
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG advmod RB ) ( RB advmod RB ),1.0,0.000917431192661,"Clasping one's knees tightly together
+"
+( VBG dobj NN ) ( VBG compound:prt RP ) ( VBG cc CC ) ( VBG conj VBG ),1.0,0.000917431192661,"Tilting the chin down and frowning
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG nmod NN ) ( NN case TO ) ( VBG cc CC ) ( VBG conj VBG ) ( VBG dobj NN ),1.0,0.000917431192661,"Tilting one's head to the side and pursing the lips
+"
+( VBZ nsubj NN ) ( NN acl:relcl JJ ) ( JJ cop VBN ),1.0,0.000917431192661,"Eyes that are bright, glossy
+"
+( VB nsubj NN ) ( NN compound NNP ) ( NN appos NN ) ( NN advmod RB ) ( VB advmod NN ),1.0,0.000917431192661,"Perfect posture, shoulders back, exposed neck
+"
+( JJ nsubj NN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.000917431192661,"Keeping one's hands free
+"
+( VBG mark IN ) ( VBG nsubj NN ) ( VBG dobj NN ) ( NN amod JJ ) ( NN case POS ),1.0,0.000917431192661,"Sitting with knees touching the other person's
+"
+( NN acl:relcl VB ) ( VB aux VBN ) ( VB neg RB ) ( VB xcomp VB ) ( VB mark TO ) ( VB advmod RB ) ( RB advmod RB ),1.0,0.000917431192661,"Eyes that don't seem to blink often enough
+"
+( VBG cc CC ) ( VBG conj VBG ) ( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG nmod NN ) ( NN case TO ) ( NN amod JJ ),1.0,0.000917431192661,"Swinging or tapping one's foot to an easy beat
+"
+( NN acl:relcl VBN ) ( VBN auxpass VBN ) ( VBN xcomp JJ ),1.0,0.000917431192661,"Legs that are planted wide
+"
+( RB nmod:npmod NN ),1.0,0.000917431192661,"Hands up, palms toward the aggressor
+"
+( NN dep VBG ) ( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ) ( NN amod JJ ),1.0,0.000917431192661,"Arms crossing the stomach in a protective huddle
+"
+( NN amod JJ ) ( NN cc CC ) ( NN acl VBG ) ( VBG xcomp JJ ),1.0,0.000917431192661,"Knees loosening and feeling weak
+"
+( NN advmod RB ) ( NN advmod NN ) ( NN case IN ) ( NN nummod CD ),1.0,0.000917431192661,"Leaning in, hand on one knee
+"
+( VBG cc CC ) ( VBG conj VBG ) ( VBG dobj NN ) ( VBG nmod NN ) ( NN case TO ),1.0,0.000917431192661,"Tipping or turning the head to the side
+"
+( NN dep NN ) ( NN compound NN ),1.0,0.000917431192661,"Eyes that blink infrequently
+"
+( NN acl:relcl VBN ) ( VBN dobj JJ ) ( JJ amod JJ ) ( JJ amod JJ ),1.0,0.000917431192661,"Eyes that appear cold, dead, flat
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ) ( VBG nmod NN ) ( NN case TO ) ( NN nmod NN ) ( NN case IN ),1.0,0.000917431192661,"Cracking the neck from side to side for intimidation
+"
+( JJ nsubj NN ) ( NN acl VBG ) ( VBG nmod CD ) ( CD case IN ) ( JJ cop VBZ ),1.0,0.000917431192661,"Hands curling around one's middle
+"
+( NN acl:relcl JJ ) ( JJ cop VBN ) ( JJ advmod RB ) ( JJ xcomp JJ ),1.0,0.000917431192661,"Eyes that are cold, hard, flinty
+"
+( VBG dobj NN ) ( NN nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.000917431192661,"Pressing a hand against one's chest, fingers splayed out
+"
+( NNP nmod NN ) ( NN case IN ) ( NN nmod NN ) ( NN case IN ) ( NN compound VBG ) ( VBG cc CC ) ( VBG conj VBG ),1.0,0.000917431192661,"Pain in the jaw from clenching or grinding teeth
+"
+( NN dep VBG ) ( VBG compound:prt RP ),1.0,0.000917431192661,"The mouth turning down
+"
+( VB dobj NN ) ( VB xcomp VBN ) ( VBN advmod RB ) ( VBN mark TO ) ( VBN auxpass VB ) ( VBN compound:prt RP ),1.0,0.000917431192661,"Raising a hand immediately to be called on
+"
+( VB nmod NN ) ( NN case IN ) ( NN cc CC ) ( NN conj NN ) ( NN amod JJ ) ( VB xcomp VBG ) ( VBG dobj NN ),1.0,0.000917431192661,"Tightness in the jaw and facial muscles, causing discomfort
+"
+( VBZ nsubj NN ) ( VBZ compound:prt RP ),1.0,0.000917431192661,"The chin dipping down
+"
+( VB dobj NN ) ( NN cc CC ) ( NN conj NN ),1.0,0.000917431192661,"Limp hands and arms
+"
+( VBZ nsubj NN ) ( NN amod VBG ),1.0,0.000917431192661,"Hands gripping elbows
+"
+( NNP dep VBG ) ( VBG advmod RB ),1.0,0.000917431192661,"Chin poking forward
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ) ( NN nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.000917431192661,"Rubbing a hand against the front of one's shirt
+"
+( VBN nsubj NN ) ( VBN xcomp JJ ),1.0,0.000917431192661,"Eyes appear red
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ) ( NN advmod RB ),1.0,0.000917431192661,"Dragging the hands through the hair repeatedly
+"
+( JJ nsubj NN ) ( JJ advmod RB ),1.0,0.000917431192661,"Planting the feet wide apart
+"
+( VB nsubj NN ) ( NN acl VBG ) ( VBG xcomp NN ) ( VB dobj NN ),1.0,0.000917431192661,"The mouth becoming moist, increased saliva
+"
+( VBG compound:prt RP ) ( VBG nmod NN ) ( NN case IN ),1.0,0.000917431192661,"Retreating into the fetal position or curling up on the knees
+"
+( VBG dobj NN ) ( VBG compound:prt RP ) ( VBG nmod NN ) ( NN case TO ) ( NN nmod:poss NN ) ( NN case POS ),1.0,0.000917431192661,"Drawing knees up to the body's core
+"
+( VBG mark IN ) ( VBG dobj NN ) ( VBG advmod RB ),1.0,0.000917431192661,"Sidelong glances while keeping the head still
+"
+( NN compound NN ) ( NN nmod NN ) ( NN case IN ) ( NN cc CC ) ( NN conj NN ),1.0,0.000917431192661,"Burning sensation in the chest or stomach
+"
+( VB nmod NN ) ( NN case IN ) ( VB cc CC ) ( VB conj VB ),1.0,0.000917431192661,"Pain in the ribs or stomach
+"
+( NNP nmod NN ) ( NN advmod RB ) ( NN advmod RB ) ( NN case IN ),1.0,0.000917431192661,"Leaning forward, elbows on knees
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ) ( NN nmod:poss NN ) ( NN case POS ) ( NN cc CC ) ( NN conj NN ),1.0,0.000917431192661,"Laying a hand on someone's back or shoulder
+"
+( VBZ nsubj NN ) ( NN appos NN ) ( NN acl VBG ) ( VBG compound:prt RP ) ( VBG nmod NN ) ( NN case IN ),1.0,0.000917431192661,"Eyes narrowing, eyebrows pulling down in concentration
+"
+( NN nmod NN ) ( NN case IN ) ( NN nmod NN ) ( NN case IN ) ( NN cc CC ) ( NN conj NN ),1.0,0.000917431192661,"Beads of sweat on the lip or forehead
+"
+( VBG compound:prt RP ) ( VBG nmod NN ) ( NN case IN ) ( VBG xcomp VB ) ( VB mark TO ) ( VB advmod RB ),1.0,0.000917431192661,"Head tipping back on the neck to look skyward
+"
+( VBG cc CC ) ( VBG conj VBG ) ( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN amod JJ ),1.0,0.000917431192661,"Touching or stroking one's own throat
+"
+( VB xcomp VBG ) ( VBG nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN amod JJ ),1.0,0.000917431192661,"Hand splaying across one's upper chest
+"
+( VBG dobj NN ) ( VBG advcl VB ) ( VB mark IN ) ( VB mark IN ) ( VB mark TO ) ( VB compound:prt RP ) ( VB dobj NN ),1.0,0.000917431192661,"Rubbing the brow as if to ward off a headache
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN dep RP ) ( NN nmod NN ) ( NN case IN ),1.0,0.000917431192661,"Laying one's head down on the table
+"
+( NN dep VBG ) ( VBG advmod RB ) ( VBG conj VBG ) ( VBG cc CC ) ( VBG conj VBG ),1.0,0.000917431192661,"The lips pressing together, pursing, or flattening
+"
+( NN amod JJ ) ( NN appos NNP ),1.0,0.000917431192661,"Throat clearing, swallowing
+"
+( VBZ nsubj NN ) ( NN acl:relcl VBZ ) ( VBZ nmod NN ) ( NN case CC ) ( VBZ compound:prt RP ),1.0,0.000917431192661,"A mouth that opens but nothing comes out
+"
+( VBG dep NN ) ( VBG cc CC ) ( VBG conj JJ ),1.0,0.000917431192661,"Shoulders dropping or slumping
+"
+( NN appos NN ) ( NN amod JJ ),1.0,0.000917431192661,"An expressionless, unsmiling face
+"
+( JJ dep NN ) ( JJ advcl VBG ) ( VBG mark IN ),1.0,0.000917431192661,"Arms swinging while walking
+"
+( VB compound:prt RP ) ( VB advcl VBN ) ( VBN mark IN ) ( VBN nsubj NN ) ( VBN compound:prt RP ),1.0,0.000917431192661,"Head down as the eyes look up
+"
+( NN case TO ) ( NN nmod NN ) ( NN case IN ),1.0,0.000917431192661,"Pressing fists to the sides of the head
+"
+( VBG cc CC ) ( VBG conj VBG ) ( VBG nmod NN ) ( NN case IN ),1.0,0.000917431192661,"Biting or chewing at the lip
+"
+( NN dep VBG ) ( VBG nmod NN ) ( NN case TO ) ( NN cc CC ) ( NN conj NN ),1.0,0.000917431192661,"A hand fluttering to the lips or neck
+"
+( VBZ nsubj NN ) ( NN acl VBG ) ( VBG nmod NN ) ( NN case TO ),1.0,0.000917431192661,"Arms falling to sides, lifeless
+"
+( VB nsubj NN ) ( VB dep IN ) ( IN advmod RB ) ( IN nmod NN ) ( NN case IN ),1.0,0.000917431192661,"Eyes narrowed, as if in confusion
+"
+( VBN nmod NN ) ( NN case IN ),1.0,0.000917431192661,"Pain in the jaw
+"
+( VBG dobj NN ) ( VBG cc CC ) ( VBG conj VBG ) ( VBG dobj NN ) ( NN amod VBG ),1.0,0.000917431192661,"Raising the eyebrows and offering a questioning gaze
+"
+( VBZ advmod RB ) ( VBZ nsubj NN ),1.0,0.000917431192661,"Unconsciously parting the lips
+"
+( VB advcl VBG ) ( VBG dobj NN ) ( VB nsubj NN ),1.0,0.000917431192661,"Dropping the head, eyes closed
+"
+( NN cc CC ) ( NN conj NN ) ( NN nmod:poss NN ) ( NN amod JJ ) ( NN case POS ),1.0,0.000917431192661,"Closing or curling one's hands inward
+"
+( NN appos NN ) ( NN acl VBG ),1.0,0.000917431192661,"Stiff walking, the knees locking
+"
+( VBG compound:prt RP ) ( VBG nmod NN ) ( NN case IN ) ( NN amod JJ ),1.0,0.000917431192661,"Teeth biting down on the bottom lip
+"
+( VBG advmod RB ) ( VBG compound:prt RP ) ( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.000917431192661,"Subconsciously thrusting out one's chest
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ) ( VBG advcl VB ) ( VB mark TO ) ( VB dobj NN ),1.0,0.000917431192661,"Punching fists against thighs to release frustration
+"
+( VB ccomp VBG ) ( VBG cc CC ) ( VBG conj VBG ) ( VBG advmod RB ),1.0,0.000917431192661,"Eyebrows furrowing and then releasing
+"
+( VBG dobj NN ) ( VBG xcomp JJ ) ( JJ mark TO ) ( JJ cop VB ),1.0,0.000917431192661,"Buzzing the lips to be rude
+"
+( NN dep NN ) ( NN nmod NN ) ( NN case IN ) ( NN amod JJ ),1.0,0.000917431192661,"Shoulders that quake with repressed sobs
+"
+( VBG nmod NN ) ( NN case IN ) ( NN nmod NN ) ( NN case IN ) ( NN amod JJ ),1.0,0.000917431192661,"Speaking through the teeth with forced restraint
+"
+( VBG dobj NN ) ( NN acl:relcl VBN ) ( VBN dobj NN ) ( NN amod JJ ),1.0,0.000917431192661,"Watering eyes that display an inward focus
+"
+( NN dep RB ) ( NN compound NN ),1.0,0.000917431192661,"Steady eye contact
+"
+( VBN xcomp VBG ) ( VBG dobj JJ ) ( VBN cc CC ) ( VBN conj JJ ) ( JJ advmod RB ),1.0,0.000917431192661,"Eyes appearing damp and overly bright
+"
+( VBG advmod RB ) ( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.000917431192661,"Slowly shaking one's head
+"
+( VB nsubj NN ) ( VB nmod NN ) ( NN case IN ) ( NN cc CC ) ( NN conj NN ),1.0,0.000917431192661,"Hands jammed into armpits or self-hugging
+"
+( VBG compound:prt RP ) ( VBG nmod NN ) ( NN case IN ) ( NN amod VBN ),1.0,0.000917431192661,"Backing away with raised hands
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG cc CC ) ( VBG conj VBG ) ( VBG compound:prt RP ),1.0,0.000917431192661,"Rubbing one's arms and looking around
+"
+( VB nsubj NN ) ( NN acl:relcl JJ ) ( JJ cop VBN ) ( VB nmod NN ) ( NN case IN ) ( NN amod JJ ),1.0,0.000917431192661,"Eyes that are soft, filled with an inner glow
+"
+( VB mark TO ) ( VB dobj NN ) ( NN cc CC ) ( NN conj NN ),1.0,0.000917431192661,"Pulling up a collar to cover the mouth and nose
+"
+( JJ nsubj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN amod JJ ) ( JJ advmod RB ) ( JJ advmod RB ),1.0,0.000917431192661,"Elbows pressing into the sides, making one's body as small as possible
+"
+( VB ccomp VBG ) ( VBG nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG conj VBG ) ( VBG dobj PRP ) ( VBG advmod RB ) ( VBG cc CC ) ( VBG conj VBG ) ( VBG advmod RB ),1.0,0.000917431192661,"Hands carving through one's hair, holding it back and then releasing
+"
+( VBN nsubj NN ) ( VBN nmod NN ) ( NN case IN ) ( NN appos NN ),1.0,0.000917431192661,"Arms hang at the sides, slack
+"
+( VB nsubj NN ) ( NN nmod:poss NN ) ( NN amod JJ ) ( NN case POS ),1.0,0.000917431192661,"Squeezing one's eyes shut
+"
+( NN acl VBG ) ( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN acl VB ) ( VB mark IN ) ( VB mark IN ) ( VB mark TO ) ( VB dobj PRP ) ( VB advmod RB ),1.0,0.000917431192661,"Arms clutching one's body as if to hold it together
+"
+( VBG nmod NN ) ( NN case IN ) ( NN acl VBN ) ( VBN nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG conj VBG ) ( VBG xcomp JJ ) ( VBG cc CC ) ( VBG conj VBG ) ( VBG compound:prt RP ),1.0,0.000917431192661,"Standing with hands tucked in one's armpits, thumbs visible and pointing up
+"
+( VBG nmod NN ) ( NN case IN ) ( NN nummod CD ) ( NN acl VBG ) ( VBG dobj JJ ) ( VBG nmod NN ) ( NN case IN ),1.0,0.000917431192661,"Standing with one arm holding the other at the elbow
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ) ( NN nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG advcl VB ) ( VB mark RB ) ( RB mwe IN ) ( VB mark TO ) ( VB xcomp JJ ) ( VB nmod NN ) ( NN case IN ) ( NN amod JJ ),1.0,0.000917431192661,"Flicking a hand in front of one's nose as if to get rid of a bad smell
+"
+( RB dep RB ),1.0,0.000917431192661,"Shoulders back
+"
+( NN compound NN ) ( NN dep VBN ) ( VBN mark IN ) ( VBN parataxis VBG ) ( VBG dobj NN ),1.0,0.000917431192661,"The body sagging while seated, lacking tension
+"
+( VB dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN acl VB ) ( VB mark TO ) ( VB dobj NN ) ( VB compound:prt RP ),1.0,0.000917431192661,"Closing one's eyes to shut everything out
+"
+( VBZ nsubj NN ) ( NN acl VBG ) ( VBG compound:prt RP ) ( VBZ xcomp VBG ) ( VBG nmod NN ) ( NN case IN ),1.0,0.000917431192661,"Shoulders drawing up, elbows tucking into the sides
+"
+( VB nsubj NN ) ( VB advmod RB ) ( RB nmod NN ) ( NN case IN ) ( VB compound:prt RP ) ( VB dobj NN ),1.0,0.000917431192661,"Throwing hands up in an I give up gesture
+"
+( VB nsubj NN ) ( NN amod VBG ),1.0,0.000917431192661,"Squeezing eyes shut
+"
+( NN amod JJ ) ( NN dep VBG ) ( VBG dobj NN ) ( VBG advmod RB ),1.0,0.000917431192661,"A single shoulder shrug that breaks quickly
+"
+( VB advmod RB ) ( RB advmod RB ) ( VB nsubj NN ) ( VB nmod NN ) ( NN case IN ) ( NN nmod NN ) ( NN case IN ),1.0,0.000917431192661,"Leaning back, an arm hooked over the back of a chair
+"
+( NN nsubj NN ) ( NN amod VBG ) ( NN nmod CD ) ( CD case IN ) ( NN cop VBZ ),1.0,0.000917431192661,"Rising color in one's cheeks
+"
+( NN amod JJ ) ( NN appos NN ) ( NN acl VBG ) ( VBG advmod RB ) ( VBG advmod RB ),1.0,0.000917431192661,"An open mouth, the tongue pushing slightly forward
+"
+( VB nmod NN ) ( NN case IN ) ( VB nmod NN ) ( NN case IN ) ( NN nmod NN ) ( NN case IN ) ( VB xcomp VBG ) ( VBG advcl JJ ) ( JJ mark IN ) ( JJ nsubj NN ) ( JJ cop VBN ),1.0,0.000917431192661,"Leaning in awkwardly with hands in the pockets, asking if things are okay
+"
+( NN cc CC ) ( NN conj NN ) ( NN amod JJ ) ( NN nmod NN ) ( NN case IN ),1.0,0.000917431192661,"A grimace and a slight shake of the head
+"
+( NN cc CC ) ( NN conj NN ) ( NN amod VBG ),1.0,0.000917431192661,"Hunched posture and a drooping head
+"
+( NNP compound NNP ) ( NNP cc CC ) ( NNP acl VBG ) ( VBG advmod RB ),1.0,0.000917431192661,"Shoulders slumping or curling forward
+"
+( VBG dobj NN ) ( NN nmod NN ) ( NN case IN ) ( VBG cc RB ) ( RB cc CC ) ( VBG conj VBG ) ( VBG dobj NN ),1.0,0.000917431192661,"Shaking the head in disapproval but not saying anything
+"
+( NN amod JJ ) ( NN cc CC ) ( NN conj NN ) ( NN nmod NN ) ( NN case IN ),1.0,0.000917431192661,"Making a slight growl or noise in the throat
+"
+( VBG dobj PRP ) ( VBG nmod NN ) ( NN case TO ),1.0,0.000917431192661,"Forming a steeple with hands and pressing them to lips
+"
+( NN dep NN ) ( NN compound NN ) ( NN nmod NN ) ( NN case IN ),1.0,0.000917431192661,"Arms hanging limply at the sides
+"
+( NN nmod:poss CD ) ( CD case POS ) ( NN compound NN ),1.0,0.000917431192661,"Tipping one's head side to side, weighing an idea or choice
+"
+( NN nmod NN ) ( NN case IN ) ( NN compound NN ) ( NN cc CC ) ( NN conj NN ),1.0,0.000917431192661,"Biting the inside of the cheek or bottom lip
+"
+( NN dep VBG ) ( VBG nmod NN ) ( NN case IN ) ( NN cc CC ) ( NN conj NN ),1.0,0.000917431192661,"A hand pressing against the throat or breastbone
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG nmod NN ) ( NN case IN ) ( NN nmod NN ) ( NN case IN ) ( NN nmod NN ) ( NN case IN ),1.0,0.000917431192661,"Stroking one's arm as a surrogate for the object of desire
+"
+( VBG dobj NN ) ( NN compound NN ) ( VBG advcl VB ) ( VB mark TO ) ( VB xcomp VB ) ( VB mark TO ) ( VB nmod NN ) ( NN case IN ),1.0,0.000917431192661,"Finding something close to hand to use as a weapon
+"
+( VBG nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN cc CC ) ( NN conj NN ) ( NN amod JJ ) ( VBG cc CC ) ( VBG conj VBG ) ( VBG ccomp VB ) ( VB nsubj PRP ),1.0,0.000917431192661,"Chewing at one's lips or inner cheek and making them bleed
+"
+( VBG dobj NN ) ( NN amod JJ ),1.0,0.000917431192661,"Lifting a single eyebrow
+"
+( VBG dobj NN ) ( VBG advmod RB ) ( RB nmod NN ) ( NN case IN ),1.0,0.000917431192661,"Crossing the arms tightly over the chest
+"
+( VB nsubj NN ) ( NN acl VBG ) ( VB nmod NN ) ( NN case IN ) ( NN nmod NN ) ( NN case IN ),1.0,0.000917431192661,"Eyes shining, locked on the source of relief
+"
+( VBG dobj NN ) ( VBG advcl VB ) ( VB mark IN ) ( VB mark IN ) ( VB mark TO ) ( VB dobj CD ) ( CD case POS ) ( VB advmod NN ),1.0,0.000917431192661,"Lifting the shoulders as if to hide one's neck
+"
+( VBZ mark IN ) ( VBZ dobj NN ),1.0,0.000917431192661,"A sleek walk that draws the eye
+"

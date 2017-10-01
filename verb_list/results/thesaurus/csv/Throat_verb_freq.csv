@@ -1,0 +1,9 @@
+verb,frequency,norm,pmi,samples
+touch,2.0,0.0666666666667,0.893970303429,"Touching or stroking one's own throat
+		Touching the throat
+"
+stroke,2.0,0.0666666666667,0.996624457489,"Stroking the throat and grimacing
+		Stroking or pinching one's throat
+"
+clutch,1.0,0.0333333333333,0.564491102299,"Clutching the throat or chest
+"

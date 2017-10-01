@@ -1,0 +1,60 @@
+verb,frequency,norm,pmi,samples
+cross,13.0,0.209677419355,2.09446484338,"Crossing one's arms while observing
+		Crossing the arms over one's chest
+		Crossing the arms or legs
+		Crossing the arms over the chest
+		Crossing the arms
+		Crossing one's arms
+		Crossing arms in front of chest
+		Crossing and uncrossing arms or legs
+		Crossing the arms tightly over the chest
+		Arms crossed over the chest
+		Arms crossed
+		Listening, arms crossed over one's chest
+		Crossing and uncrossing the arms or legs
+"
+rub,3.0,0.0483870967742,0.800879880363,"Rubbing the arms or legs
+		Rubbing one's arms and looking around
+		Rubbing one's upper arms for comfort
+"
+fold,2.0,0.0322580645161,0.841701874883,"Folding the arms across the chest
+		Folding the arms over the stomach
+"
+pin,1.0,0.0161290322581,0.523248143765,"Pinning the arms against the stomach
+"
+stroke,1.0,0.0161290322581,0.408837792587,"Stroking one's arm as a surrogate for the object of desire
+"
+close,1.0,0.0161290322581,0.169608103521,"Arms crossing one's chest, closed body posture
+"
+curl,1.0,0.0161290322581,0.523248143765,"Curling the arms over the head
+"
+putt,1.0,0.0161290322581,0.464407643742,"Putting an arm around someone's shoulders
+"
+hold,1.0,0.0161290322581,0.235566071313,"Holding arms up in a victory V
+"
+stretch,1.0,0.0161290322581,0.523248143765,"Stretching the arms out wide
+"
+Wrapping,1.0,0.0161290322581,0.523248143765,"Wrapping arms around self
+"
+hug,1.0,0.0161290322581,0.523248143765,"Holding the arms out wide as if to hug the world
+"
+fling,1.0,0.0161290322581,0.523248143765,"Flinging out the arms and legs, taking a wide stance
+"
+hang,1.0,0.0161290322581,0.523248143765,"Arms hang at the sides, slack
+"
+squeeze,1.0,0.0161290322581,0.408837792587,"Squeezing someone's arm to the point of bruising
+"
+pull,1.0,0.0161290322581,0.493395180615,"Pulling arms and legs in toward the core
+"
+hook,1.0,0.0161290322581,0.493395180615,"Leaning back, an arm hooked over the back of a chair
+"
+clutch,1.0,0.0161290322581,0.382169545505,"Clutching arms to one's chest
+"
+keep,1.0,0.0161290322581,0.464407643742,"Keeping arms and legs in close to the body
+"
+lifeless,1.0,0.0161290322581,0.523248143765,"Arms falling to sides, lifeless
+"
+wrench,1.0,0.0161290322581,0.523248143765,"Wrenching an enemy's arm to stop them from leaving
+"
+swing,1.0,0.0161290322581,0.493395180615,"Swinging the arms while walking
+"

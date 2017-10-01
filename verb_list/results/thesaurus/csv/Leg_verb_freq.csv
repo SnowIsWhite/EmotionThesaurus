@@ -1,0 +1,14 @@
+verb,frequency,norm,pmi,samples
+cross,2.0,0.0714285714286,0.723918839227,"Crossing and uncrossing one's legs
+		Crossing the legs
+"
+tap,1.0,0.0357142857143,0.66329421741,"Tapping the leg to settle nerves
+"
+Uncrossing,1.0,0.0357142857143,0.69314718056,"Uncrossing and re-crossing the legs
+"
+bring,1.0,0.0357142857143,0.634306680537,"Bringing one's legs up close to the body's core
+"
+spread,1.0,0.0357142857143,0.69314718056,"Standing tall with good posture, legs spread wide
+"
+pat,1.0,0.0357142857143,0.69314718056,"Patting a leg in comfort
+"

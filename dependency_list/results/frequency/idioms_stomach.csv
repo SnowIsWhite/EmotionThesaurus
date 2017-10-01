@@ -1,0 +1,5 @@
+dependency,frequency,norm,samples
+( VB xcomp JJ ) ( JJ nsubj NN ) ( JJ xcomp VB ) ( VB mark TO ),1.0,0.5,"Find something hard to stomach
+"
+( VBN aux VB ) ( VBN nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.5,"Have butterflies in one's stomach
+"

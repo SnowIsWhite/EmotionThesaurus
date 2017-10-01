@@ -1,0 +1,16 @@
+verb,frequency,norm,pmi,samples
+drum,2.0,0.08,1.06260545994,"Drumming feet against the floor
+		Drumming one's feet against the floor
+"
+plant,1.0,0.04,0.686993314986,"Planting one's feet in a wide stance
+"
+jitter,1.0,0.04,0.686993314986,"Jittering a foot against the floor
+"
+bounce,1.0,0.04,0.657140351836,"Bouncing a foot
+"
+bring,1.0,0.04,0.628152814963,"Narrowing one's stance, bringing the feet together
+"
+swing,1.0,0.04,0.657140351836,"Swinging or tapping one's foot to an easy beat
+"
+shuffle,1.0,0.04,0.686993314986,"Shuffling one's feet
+"

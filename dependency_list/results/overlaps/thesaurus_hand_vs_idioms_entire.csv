@@ -1,0 +1,119 @@
+dependency,frequency1,frequency2,norm1,norm2,rank1,rank2,samples1,samples2
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ),22.0,1.0,0.130177514793,0.00114942528736,1,21,"Laying a hand over the heart
+
+Rubbing a hand through the hair
+
+Running hands through the hair
+
+Placing a hand against the breastbone
+
+Forming hands into a steeple
+
+Pressing hands against the stomach
+
+Shoving hands in pockets
+
+Scrubbing a hand over the face
+
+Placing a hand on the chest
+
+Clasping hands under the chin
+
+Placing hands on the hips
+
+Hiding the hands in the pockets
+
+Tucking the hands behind the elbows
+
+Scraping a hand through the hair
+
+Rubbing a hand against the heart
+
+Laying a hand against the breastbone
+
+Balling the hands into fists
+
+Flapping a hand in dismissal
+
+Waving a hand in dismissal
+
+Slapping hands against the cheeks
+
+Clapping the hands over the ears
+
+Slipping hands into pockets
+","Drag someone through the mud
+"
+( NN amod JJ ),6.0,5.0,0.0355029585799,0.00574712643678,2,17,"Flapping hands
+
+Trembling hands
+
+Hands moistening
+
+Twitching hands
+
+Sweaty hands
+
+Clammy hands
+","Gather dust
+
+No hard feelings
+
+Pinch pennies
+
+Tempt fate
+
+Touch base
+"
+( NN nmod NN ) ( NN case IN ),4.0,2.0,0.0236686390533,0.00229885057471,4,20,"Holding the head in the hands
+
+Covering the face with hands
+
+Covering the face with the hands
+
+Covering the mouth with a hand
+","Fall through the cracks
+
+No bed of roses
+"
+( NN amod JJ ) ( NN compound NN ),3.0,1.0,0.0177514792899,0.00114942528736,5,21,"Lethargic hand movements
+
+Fluttery hand movements
+
+Sharp hand movements
+","Blow something sky-high
+"
+( NN compound NN ),2.0,2.0,0.0118343195266,0.00229885057471,6,20,"Holding a hand close to the face while speaking
+
+Floundering hand movements
+","Strike gold
+
+Talk shop
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ),2.0,1.0,0.0118343195266,0.00114942528736,6,21,"Wringing one's hands
+
+Clutching one's hands
+","Drag one's feet
+"
+( VB compound:prt RP ) ( VB nmod NN ) ( NN case IN ) ( NN amod JJ ),1.0,1.0,0.00591715976331,0.00114942528736,7,21,"Hands up in a defensive stance
+","Get off on the wrong foot
+"
+( NN cc CC ) ( NN conj NN ),1.0,1.0,0.00591715976331,0.00114942528736,7,21,"Squeezing a shoulder or hand
+","Sink or swim
+"
+( NNP dep NN ) ( NN nmod NN ) ( NN case IN ),1.0,3.0,0.00591715976331,0.00344827586207,7,19,"Covering the hands with the face
+","Blow the whistle on something
+
+Burn the candle at both ends
+
+Pat someone on the back
+"
+( NN dep NN ) ( NN cc CC ) ( NN conj NN ),1.0,1.0,0.00591715976331,0.00114942528736,7,21,"Hands that clench and unclench
+","Cost an arm and a leg
+"
+( VBG nmod NN ) ( NN case IN ),1.0,1.0,0.00591715976331,0.00114942528736,7,21,"A deliberate crossing of the legs or clasping of the hands
+","Chomping at the bit
+"
+( VB dobj NN ) ( NN cc CC ) ( NN conj NN ),1.0,1.0,0.00591715976331,0.00114942528736,7,21,"Limp hands and arms
+","Play cat and mouse
+"

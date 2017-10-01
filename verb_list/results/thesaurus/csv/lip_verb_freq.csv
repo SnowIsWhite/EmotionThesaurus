@@ -1,0 +1,50 @@
+verb,frequency,norm,pmi,samples
+press,6.0,0.0845070422535,1.28623889769,"Pressing the lips together
+		Gritting one's teeth, pressing the lips tight
+		Pressing lips together
+		Pressing the lips into a fine line
+		Lips pressed flat
+		Lip biting or pressing the lips together
+"
+bite,5.0,0.0704225352113,1.50183524337,"Biting one's lip
+		Gently biting the lip
+		Biting the lip or nails
+		Biting the lip or inside of the cheek
+		Drawing the mouth into a straight line and biting the lip
+"
+lick,4.0,0.056338028169,1.37358090785,"Licking one's lips
+		Licking the lip with cautious hope
+		Licking or biting the bottom lip
+		Licking the lips
+"
+purse,4.0,0.056338028169,1.37358090785,"Tilting one's head to the side and pursing the lips
+		Pursing the lips
+		Pursing one's lips
+		Pursing the lips in thought
+"
+rub,2.0,0.0281690140845,0.534251217109,"Rubbing or pinching the bottom lip
+		Rubbing the lips or chin
+"
+part,2.0,0.0281690140845,0.919913697921,"Unconsciously parting the lips
+		Fingers touching parted lips
+"
+moisten,1.0,0.0140845070423,0.544301552962,"Frequently moistening the lips
+"
+tap,1.0,0.0140845070423,0.514448589813,"Cupping an elbow with one hand while tapping the lips with the other
+"
+pinch,1.0,0.0140845070423,0.544301552962,"Pinching the lips together
+"
+wet,1.0,0.0140845070423,0.544301552962,"Wetting the lips
+"
+rattle,1.0,0.0140845070423,0.544301552962,"Blowing out a breath that rattles the lips
+"
+bare,1.0,0.0140845070423,0.485461052939,"Lips pulling back, baring the teeth
+"
+buzz,1.0,0.0140845070423,0.544301552962,"Buzzing the lips to be rude
+"
+touch,1.0,0.0140845070423,0.327237047725,"The tongue darting out to touch or lick the lips
+"
+tremble,1.0,0.0140845070423,0.544301552962,"Trembling lips and chin
+"
+compress,1.0,0.0140845070423,0.544301552962,"Compressing the lips while someone else speaks
+"

@@ -1,0 +1,9 @@
+verb,frequency,norm,pmi,samples
+define,1.0,0.0588235294118,0.711839313572,"Rigid and defined forearm muscles
+"
+Weak,1.0,0.0588235294118,0.681986350422,"Weak muscles
+"
+slack,1.0,0.0588235294118,0.711839313572,"Slack muscles
+"
+leg,1.0,0.0588235294118,0.711839313572,"Leg muscles tightening, the body ready to run
+"

@@ -1,0 +1,109 @@
+nonoverlapping dependency,frequency,norm,rank,samples
+( VBG dobj NN ) ( VBG advmod RB ),2.0,0.0277777777778,4,"Shaking the head repeatedly
+
+Jerking the head back
+"
+( VBG dobj NN ),2.0,0.0277777777778,4,"Shaking the head
+
+Cocking the head
+"
+( NNP dep NN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN nmod NN ) ( NN case IN ),2.0,0.0277777777778,4,"Holding one's head with the hands
+
+Holding one's head in hands
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG nmod NN ) ( NN case TO ) ( VBG cc CC ) ( VBG conj VBG ) ( VBG dobj NN ),1.0,0.0138888888889,5,"Tilting one's head to the side and pursing the lips
+"
+( VBN nsubj NN ) ( NN acl VBG ) ( VBG advmod RB ) ( VBG nmod NN ) ( NN case IN ) ( VBN advmod RB ),1.0,0.0138888888889,5,"The head pulling back as the shoulders push forward
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG cc CC ) ( VBG conj VBG ) ( VBG advmod RB ) ( VBG dobj PRP ),1.0,0.0138888888889,5,"Cocking one's head and then shaking it
+"
+( VB dep VBN ) ( VBN nmod NN ) ( NN case TO ),1.0,0.0138888888889,5,"Head cocked to the side
+"
+( NNP compound NNP ) ( NNP nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.0138888888889,5,"Head resting on one's hand
+"
+( VBG advmod RB ) ( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.0138888888889,5,"Slowly shaking one's head
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ) ( NN amod JJ ),1.0,0.0138888888889,5,"Tilting the head in a side-to-side rhythm
+"
+( VB compound:prt RP ) ( VB advcl VBN ) ( VBN mark IN ) ( VBN nsubj NN ) ( VBN compound:prt RP ),1.0,0.0138888888889,5,"Head down as the eyes look up
+"
+( VBN nsubj NN ) ( VBN xcomp VBG ),1.0,0.0138888888889,5,"Vigorous head shaking
+"
+( VBG dobj NN ) ( VBG cc CC ) ( VBG conj VBG ) ( VBG dobj NN ),1.0,0.0138888888889,5,"Shaking head and closing the eyes
+"
+( NN case IN ) ( NN nmod NN ) ( NN case IN ) ( NN nmod NN ) ( NN case IN ),1.0,0.0138888888889,5,"Grabbing at the sides of the head in an I can't believe it gesture
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ) ( VBG nmod NN ) ( NN case TO ) ( VBG advcl VBG ) ( VBG dobj NN ),1.0,0.0138888888889,5,"Tilting the head from side to side, weighing choices
+"
+( NNP dep NN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.0138888888889,5,"Holding one's head in one's hands
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case TO ) ( VBG cc CC ) ( VBG conj VBG ) ( VBG compound:prt RP ) ( VBG dobj NN ) ( NN amod JJ ),1.0,0.0138888888889,5,"Tilting the head to the ceiling and letting out a heavy sigh
+"
+( VBG mark IN ) ( VBG dobj NN ) ( VBG advmod RB ),1.0,0.0138888888889,5,"Sidelong glances while keeping the head still
+"
+( NN nsubj NN ) ( NN amod VBG ) ( NN cop VBZ ) ( NN case IN ) ( NN dep NN ) ( NN mark IN ) ( NN case IN ),1.0,0.0138888888889,5,"Shaking one's head as if in denial
+"
+( VBG advmod RB ) ( VBG dobj NN ),1.0,0.0138888888889,5,"Minutely shaking the head
+"
+( NN case TO ) ( NN nmod NN ) ( NN case IN ),1.0,0.0138888888889,5,"Pressing fists to the sides of the head
+"
+( NN cc CC ) ( NN conj NN ) ( NN amod JJ ) ( NN nmod NN ) ( NN case IN ),1.0,0.0138888888889,5,"A grimace and a slight shake of the head
+"
+( NN cc CC ) ( NN conj NN ) ( NN amod VBG ),1.0,0.0138888888889,5,"Hunched posture and a drooping head
+"
+( VBG dobj NN ) ( VBG cc CC ) ( VBG conj VBG ),1.0,0.0138888888889,5,"Tilting the head and pausing
+"
+( VB dep VBN ) ( VBN nmod NN ) ( NN case IN ) ( NN amod JJ ) ( JJ advmod RB ),1.0,0.0138888888889,5,"Head tilted while mentally weighing evidence
+"
+( VBN nsubj NNP ) ( NNP acl VBG ) ( VBG advmod RB ) ( VBN xcomp VBG ) ( VBG compound:prt RP ),1.0,0.0138888888889,5,"Head tilting back, gaze looking up
+"
+( VBN nsubj NN ) ( NN amod JJ ),1.0,0.0138888888889,5,"A slight head shake
+"
+( VBG dobj NN ) ( NN nmod NN ) ( NN case IN ) ( VBG cc RB ) ( RB cc CC ) ( VBG conj VBG ) ( VBG dobj NN ),1.0,0.0138888888889,5,"Shaking the head in disapproval but not saying anything
+"
+( VBG dobj NN ) ( VBG advcl VBG ) ( VBG mark IN ) ( VBG dobj NN ),1.0,0.0138888888889,5,"Cocking the head while raising the eyebrows
+"
+( NN acl VBG ) ( NN nmod NN ) ( NN case IN ) ( NN acl VB ) ( VB mark TO ) ( VB cc CC ) ( VB conj VB ),1.0,0.0138888888889,5,"A deliberate lowering of the head to study or stare
+"
+( VBG dobj NN ) ( VBG advmod RB ) ( VBG nmod NN ) ( NN case IN ) ( VBG cc CC ) ( VBG conj VBG ) ( VBG dobj NN ),1.0,0.0138888888889,5,"Tipping the head back for a moment and closing the eyes
+"
+( VBZ dep JJ ) ( JJ nmod NN ) ( NN case IN ) ( VBZ nsubj RB ) ( RB advmod RB ) ( RB appos JJ ),1.0,0.0138888888889,5,"Speed-talking with others, heads close together, gossipy
+"
+( VB xcomp VBG ) ( VBG advmod RB ) ( VBG advcl VBG ) ( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG nmod NN ) ( NN case TO ),1.0,0.0138888888889,5,"Head tipping back, turning one's face to the sky
+"
+( NN nmod:poss CD ) ( CD case POS ) ( NN compound NN ),1.0,0.0138888888889,5,"Tipping one's head side to side, weighing an idea or choice
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG nmod NN ) ( NN case TO ),1.0,0.0138888888889,5,"Cocking one's head to the side
+"
+( VB advmod RB ) ( VB dep VB ),1.0,0.0138888888889,5,"Head up, alert
+"
+( VBG cc CC ) ( VBG conj VBG ) ( VBG dobj NN ),1.0,0.0138888888889,5,"Cocking or tilting the head
+"
+( VBG cc CC ) ( VBG conj VBG ) ( VBG dobj NN ) ( VBG nmod NN ) ( NN case TO ),1.0,0.0138888888889,5,"Tipping or turning the head to the side
+"
+( VB xcomp VBG ) ( VBG compound:prt RP ) ( VBG nmod NN ) ( NN case IN ) ( VBG xcomp VB ) ( VB mark TO ) ( VB advmod RB ),1.0,0.0138888888889,5,"Head tipping back on the neck to look skyward
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case TO ),1.0,0.0138888888889,5,"Tilting the head to the side
+"
+( VBN nsubj NN ) ( NN amod JJ ) ( VBN cc CC ) ( VBN conj VBN ) ( VBN dobj NN ),1.0,0.0138888888889,5,"A deliberate eyebrow raise and head tilt
+"
+( NN amod JJ ) ( NN appos NN ),1.0,0.0138888888889,5,"Closed eyes, the head tipped back
+"
+( VBG dobj NN ) ( VBG compound:prt RP ) ( VBG nmod NN ) ( NN case IN ),1.0,0.0138888888889,5,"Propping the head up with a fist
+"
+( VBN nsubj NN ) ( NN amod JJ ) ( JJ amod JJ ),1.0,0.0138888888889,5,"A slow, disbelieving head shake
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN dep RP ) ( NN nmod NN ) ( NN case IN ),1.0,0.0138888888889,5,"Laying one's head down on the table
+"
+( VBG mark IN ) ( VBG nsubj NN ) ( VBG aux VBZ ),1.0,0.0138888888889,5,"Feeling like the head is spinning
+"
+( VB xcomp VBG ) ( VBG compound:prt RP ),1.0,0.0138888888889,5,"Head tilting away
+"
+( VB xcomp VBG ) ( VBG compound:prt RP ) ( VBG advmod RB ),1.0,0.0138888888889,5,"Head flinching back slightly
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN nmod NN ) ( NN case IN ),1.0,0.0138888888889,5,"Shaking one's head in denial
+"
+( VBG dep VBG ) ( VBG dobj NN ),1.0,0.0138888888889,5,"Muttering, shaking the head
+"
+( NN amod JJ ) ( NN amod JJ ) ( NN nmod NN ) ( NN case IN ),1.0,0.0138888888889,5,"A slow, disbelieving shake of the head
+"

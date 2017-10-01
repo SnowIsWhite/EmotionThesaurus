@@ -1,0 +1,9 @@
+dependency,frequency,norm,samples
+( NN cop VB ) ( NN acl VB ) ( VB mark TO ) ( VB compound:prt RP ),1.0,0.25,"Be a shoulder to cry on
+"
+( VB iobj NN ) ( VB dobj NN ) ( NN amod JJ ),1.0,0.25,"Give someone the cold shoulder
+"
+( NN nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.25,"Have a chip on one's shoulder
+"
+( NN amod JJ ) ( NN nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.25,"Have a good head on one's shoulders
+"

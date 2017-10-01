@@ -1,0 +1,227 @@
+dependency,frequency,norm,samples
+( NN amod JJ ),13.0,0.115044247788,"Protruding eyes
+
+Narrowing eyes
+
+Narrowed eyes
+
+Vacant eyes
+
+Squinting eyes
+
+Widening eyes
+
+Eyes widening
+
+Half-lidded eyes
+
+Teary eyes
+
+Wide eyes
+
+Bloodshot eyes
+
+Watering eyes
+
+Dull eyes
+"
+( NN compound NN ),10.0,0.0884955752212,"Avoiding eye contact
+
+Firm eye contact
+
+Breaking eye contact
+
+Fiddling with a ring or button to avoid eye contact
+
+Making eye contact with others, confidence
+
+Breaking eye contact and shrugging
+
+Darting eye movements
+
+A smirk or eye roll
+
+Rubbing the back of the neck without making eye contact
+
+Speaking at the air rather than make eye contact with others
+"
+( VBG dobj NN ),6.0,0.0530973451327,"Putting a hand over the face, closing the eyes
+
+Tipping the head back for a moment and closing the eyes
+
+Taking a deep, pained breath and closing the eyes
+
+Hair hanging in face, hiding the eyes
+
+Shaking head and closing the eyes
+
+Pinching the bridge of the nose and tightly squeezing the eyes
+"
+( NN amod JJ ) ( NN compound NN ),5.0,0.0442477876106,"Gaze ping-ponging, avoiding direct eye contact
+
+Strong eye contact
+
+Direct or intense eye contact
+
+Direct, probing eye contact
+
+Avoiding direct eye contact
+"
+( NN compound NNP ),3.0,0.0265486725664,"Cold eyes
+
+Eye contact dropping
+
+Wet eyes
+"
+( NN nmod NN ) ( NN case IN ),2.0,0.0176991150442,"A tightening under the eyes
+
+Circles under the eyes
+"
+( VBN mark IN ) ( VBN nsubj NN ) ( VBN compound:prt RP ),2.0,0.0176991150442,"Exhaling while the eyes look up
+
+Head down as the eyes look up
+"
+( NN dep NN ) ( NN cc CC ) ( NN conj NN ),2.0,0.0176991150442,"Closing the eyes and sighing
+
+Eyes that sparkle and gleam
+"
+( NN acl:relcl VB ) ( VB aux VBN ) ( VB neg RB ) ( VB xcomp VB ) ( VB mark TO ) ( VB advmod RB ) ( RB advmod RB ),1.0,0.00884955752212,"Eyes that don't seem to blink often enough
+"
+( VBG mark IN ) ( VBG dobj NN ),1.0,0.00884955752212,"Touching a temple while closing the eyes
+"
+( VB advcl VBG ) ( VBG dobj NN ) ( NN nmod NN ) ( NN case IN ) ( VB nsubj NN ),1.0,0.00884955752212,"Pinching the bridge of the nose, eyes closed
+"
+( VBG dobj NN ) ( NN acl:relcl VBN ) ( VBN dobj NN ) ( NN amod JJ ),1.0,0.00884955752212,"Watering eyes that display an inward focus
+"
+( VB nsubj NN ) ( NN acl:relcl JJ ) ( JJ cop VBN ) ( VB nmod NN ) ( NN case IN ) ( NN amod JJ ),1.0,0.00884955752212,"Eyes that are soft, filled with an inner glow
+"
+( NN amod JJ ) ( NN compound NN ) ( NN cc CC ) ( NN conj NN ) ( NN amod JJ ),1.0,0.00884955752212,"An exaggerated eye roll or upward glance
+"
+( NN advmod RB ) ( NN compound NN ) ( NN compound NN ),1.0,0.00884955752212,"Sending someone a long, pained look and then breaking eye contact
+"
+( NN compound NN ) ( NN cc CC ) ( NN conj NN ),1.0,0.00884955752212,"Closing eyes and squealing
+"
+( NN dep NN ) ( NN amod JJ ) ( JJ cc CC ) ( JJ conj JJ ),1.0,0.00884955752212,"Eyes that look dark or serious
+"
+( NN case IN ) ( NN appos NN ) ( NN amod JJ ) ( JJ cc CC ) ( JJ conj JJ ),1.0,0.00884955752212,"Covering the mouth with a hand, eyes wide and shining
+"
+( NN dep NN ) ( NN nmod NN ) ( NN case IN ),1.0,0.00884955752212,"Eyes prickling with tears
+"
+( VB mark TO ) ( VB dobj NN ) ( NN case POS ),1.0,0.00884955752212,"An inability to meet another's eyes
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case TO ),1.0,0.00884955752212,"Pressing the palms to the eyes
+"
+( NN amod JJ ) ( NN appos NN ) ( NN amod JJ ) ( NN amod JJ ),1.0,0.00884955752212,"A slack expression, wet, dull eyes
+"
+( VB mark TO ) ( VB dobj NN ) ( NN nmod:poss NN ) ( NN case POS ),1.0,0.00884955752212,"Looking down, unable to meet someone's eyes
+"
+( VBZ dep VB ) ( VB nmod NN ) ( NN case IN ),1.0,0.00884955752212,"Eyes that fill with tears
+"
+( NN nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.00884955752212,"A gleam in one's eye
+"
+( NN amod JJ ) ( NN cc CC ) ( NN conj NN ),1.0,0.00884955752212,"Puffy face or eyes
+"
+( NNP compound NNP ) ( NNP appos NN ),1.0,0.00884955752212,"Eyes squinting, tightening
+"
+( NN dep NN ) ( NN compound NN ),1.0,0.00884955752212,"Eyes that blink infrequently
+"
+( VBG nmod NN ) ( NN case IN ),1.0,0.00884955752212,"Widening of the eyes
+"
+( VBG dobj NN ) ( VBG advmod RB ),1.0,0.00884955752212,"Pinching the bridge of the nose and squeezing the eyes tight
+"
+( NN dep RB ) ( NN compound NN ),1.0,0.00884955752212,"Steady eye contact
+"
+( VB nsubj NN ) ( NN acl VBG ) ( VB nmod NN ) ( NN case IN ) ( NN amod NN ) ( NN cc CC ) ( NN conj JJ ) ( NN nmod NN ) ( NN case IN ),1.0,0.00884955752212,"Eyes squinting, lit with an inner glow or twinkle of mischief
+"
+( NN dep NN ) ( NN conj NN ) ( NN cc CC ) ( NN conj NN ),1.0,0.00884955752212,"Eyes that dance, sparkle, or shine
+"
+( NN nmod NN ) ( NN case IN ) ( NN cc CC ) ( NN conj NN ),1.0,0.00884955752212,"Tightness in the eyes or expression
+"
+( VB dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN acl VB ) ( VB mark TO ) ( VB advmod RB ) ( RB advmod RBR ) ( VB dobj NN ),1.0,0.00884955752212,"Closing one's eyes to more clearly recall the memories
+"
+( VB nsubj NN ) ( NN nmod:poss NN ) ( NN amod JJ ) ( NN case POS ),1.0,0.00884955752212,"Squeezing one's eyes shut
+"
+( VB nsubj NN ) ( NN acl VBG ) ( VBG compound:prt RP ) ( VBG advcl VBG ),1.0,0.00884955752212,"Eyes going up, looking heavenward
+"
+( NN amod JJ ) ( NN nmod NN ) ( NN case IN ),1.0,0.00884955752212,"Dark circles under the eyes
+"
+( NN acl:relcl JJ ) ( JJ cop VBN ) ( JJ advmod RB ) ( JJ xcomp JJ ),1.0,0.00884955752212,"Eyes that are cold, hard, flinty
+"
+( VBN xcomp VBG ) ( VBG dobj JJ ) ( VBN cc CC ) ( VBN conj JJ ) ( JJ advmod RB ),1.0,0.00884955752212,"Eyes appearing damp and overly bright
+"
+( VB nsubj NN ) ( VB dep IN ) ( IN advmod RB ) ( IN nmod NN ) ( NN case IN ),1.0,0.00884955752212,"Eyes narrowed, as if in confusion
+"
+( NN amod JJ ) ( NN compound NN ) ( NN appos NN ) ( NN advmod RB ) ( NN amod JJ ),1.0,0.00884955752212,"Strong eye contact, very little blinking
+"
+( VBZ nsubj NN ) ( NN appos NN ) ( NN acl VBG ) ( VBG compound:prt RP ) ( VBG nmod NN ) ( NN case IN ),1.0,0.00884955752212,"Eyes narrowing, eyebrows pulling down in concentration
+"
+( VBG dobj NN ) ( VBG advmod RB ) ( VBG nmod NN ) ( NN case IN ),1.0,0.00884955752212,"Looking others directly in the eye
+"
+( VBN nsubj NN ) ( VBN xcomp JJ ),1.0,0.00884955752212,"Eyes appear red
+"
+( NN amod JJ ) ( NN compound NN ) ( NN appos NN ) ( NN amod JJ ),1.0,0.00884955752212,"Steady eye contact, large pupils
+"
+( NN amod JJ ) ( JJ dep JJ ) ( NN nmod NN ) ( NN case IN ) ( NN amod JJ ) ( JJ advmod RB ),1.0,0.00884955752212,"Eyes wide, rounded, with very few blinks
+"
+( VB dobj NN ),1.0,0.00884955752212,"Closing the eyes
+"
+( VB nsubj NN ) ( NN amod VBG ),1.0,0.00884955752212,"Squeezing eyes shut
+"
+( VB advcl VBG ) ( VBG cc RB ) ( RB cc CC ) ( VBG conj VBG ) ( VB nsubj NN ) ( VB cc CC ) ( VB conj VBZ ),1.0,0.00884955752212,"Staring but not seeing, eyes shut or crying
+"
+( VBG neg RB ) ( VBG dobj NN ) ( NN nmod:poss NN ) ( NN case POS ),1.0,0.00884955752212,"Not meeting the requester's eyes
+"
+( VB advcl VBG ) ( VBG dobj NN ) ( VB nsubj NN ),1.0,0.00884955752212,"Dropping the head, eyes closed
+"
+( NN amod JJ ) ( JJ amod JJ ),1.0,0.00884955752212,"Eyes dull, lifeless
+"
+( VBG dobj NN ) ( VBG cc CC ) ( VBG conj VBG ) ( VBG dobj NN ) ( NN amod JJ ),1.0,0.00884955752212,"Closing the eyes and taking a calming breath
+"
+( NN compound NN ) ( NN appos NN ) ( NN advmod RB ),1.0,0.00884955752212,"Eyes widening, yet brows are furrowed
+"
+( NNP cc CC ) ( NNP conj NN ) ( NN amod JJ ),1.0,0.00884955752212,"Wet or red eyes
+"
+( VB dobj NN ) ( VB xcomp VB ) ( VB mark TO ) ( VB dobj NN ),1.0,0.00884955752212,"Closing the eyes to savor the experience
+"
+( NN dep NN ),1.0,0.00884955752212,"Eyes that water
+"
+( NNP compound NNP ),1.0,0.00884955752212,"Eye rolling
+"
+( VBN nsubjpass NN ) ( NN acl VBG ) ( VBG nmod NN ) ( NN case IN ) ( VBN auxpass VBN ),1.0,0.00884955752212,"Eyes brightening as memories are recalled
+"
+( NNP appos NN ) ( NN amod JJ ),1.0,0.00884955752212,"Feverish, over-bright eyes
+"
+( NN amod JJ ) ( NN nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.00884955752212,"Dark circles under one's eyes
+"
+( VB xcomp NN ),1.0,0.00884955752212,"Eyes that glow
+"
+( NN amod JJ ) ( NN appos NN ) ( NN amod JJ ),1.0,0.00884955752212,"A flat look, narrowed eyes
+"
+( JJ advmod RB ) ( JJ cc CC ) ( JJ conj VBG ),1.0,0.00884955752212,"Eyes wide and glowing
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ),1.0,0.00884955752212,"Cutting the eyes toward the source
+"
+( VBZ nsubj NN ) ( NN acl:relcl JJ ) ( JJ cop VBN ),1.0,0.00884955752212,"Eyes that are bright, glossy
+"
+( NN case IN ) ( NN compound NN ),1.0,0.00884955752212,"A lack of eye contact
+"
+( VB nsubj NN ),1.0,0.00884955752212,"Squeezing the eyes shut
+"
+( VB nsubj NN ) ( NN acl VBG ) ( VB nmod NN ) ( NN case IN ) ( NN nmod NN ) ( NN case IN ),1.0,0.00884955752212,"Eyes shining, locked on the source of relief
+"
+( VB dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN acl VB ) ( VB mark TO ) ( VB dobj NN ) ( VB compound:prt RP ),1.0,0.00884955752212,"Closing one's eyes to shut everything out
+"
+( VB advcl VBG ) ( VBG nmod NN ) ( NN case IN ) ( NN nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ) ( VB nsubj NN ),1.0,0.00884955752212,"Rubbing at the middle of one's forehead, eyes closed
+"
+( NN acl:relcl VBN ) ( VBN xcomp JJ ),1.0,0.00884955752212,"Eyes that appear wet
+"
+( NN acl:relcl VBN ) ( VBN dobj JJ ) ( JJ amod JJ ) ( JJ amod JJ ),1.0,0.00884955752212,"Eyes that appear cold, dead, flat
+"
+( NNP compound NNP ) ( NNP appos NNP ),1.0,0.00884955752212,"Nodding, eyes glowing
+"
+( NN dep VBG ) ( VBG conj VBG ) ( VBG compound:prt RP ) ( VBG cc CC ) ( VBG conj VBG ),1.0,0.00884955752212,"Eyes shining, glossing over, and softening
+"
+( NNP dep NN ),1.0,0.00884955752212,"Rolling the eyes
+"
+( VBZ mark IN ) ( VBZ dobj NN ),1.0,0.00884955752212,"A sleek walk that draws the eye
+"

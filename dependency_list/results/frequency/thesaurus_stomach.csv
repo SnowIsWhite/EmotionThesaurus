@@ -1,0 +1,57 @@
+dependency,frequency,norm,samples
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ),3.0,0.107142857143,"Folding the arms over the stomach
+
+Pressing hands against the stomach
+
+Pinning the arms against the stomach
+"
+( NN amod JJ ),3.0,0.107142857143,"Fluttery stomach
+
+A nervous stomach
+
+A sensitive stomach
+"
+( NN amod VBG ),2.0,0.0714285714286,"A churning stomach
+
+A rolling stomach
+"
+( VBG dobj NN ),2.0,0.0714285714286,"Clutching the stomach
+
+Holding the stomach
+"
+( VBG nmod NN ) ( NN case IN ),2.0,0.0714285714286,"Tingling in the stomach
+
+Hands clutching at stomach
+"
+( NN amod JJ ) ( NN nmod NN ) ( NN case IN ),1.0,0.0357142857143,"A heavy feeling in the stomach
+"
+( NN amod JJ ) ( NN appos NN ),1.0,0.0357142857143,"Stomach hardening, nausea
+"
+( VBG nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG cc CC ) ( VBG conj JJ ),1.0,0.0357142857143,"Clutching at one's arms or stomach
+"
+( VB xcomp JJ ),1.0,0.0357142857143,"Stomach hardening
+"
+( NN amod JJ ) ( NN amod JJ ) ( NN nmod NN ) ( NN case IN ),1.0,0.0357142857143,"A fluttery, empty feeling in the stomach
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG nmod NN ) ( NN case TO ),1.0,0.0357142857143,"Pressing one's hands to the stomach
+"
+( NN compound NN ),1.0,0.0357142857143,"A roiling stomach
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ) ( NN amod JJ ),1.0,0.0357142857143,"Arms crossing the stomach in a protective huddle
+"
+( NN case IN ) ( NN nmod NN ) ( NN case IN ),1.0,0.0357142857143,"An empty feeling in the pit of the stomach
+"
+( NN amod JJ ) ( JJ cc CC ) ( JJ conj JJ ),1.0,0.0357142857143,"A hardening or clenching stomach
+"
+( NN nmod:poss NNP ) ( NNP nummod CD ) ( NNP case POS ),1.0,0.0357142857143,"Holding one's stomach
+"
+( NN acl:relcl VBZ ) ( VBZ xcomp JJ ),1.0,0.0357142857143,"A stomach that feels hard
+"
+( VB nmod NN ) ( NN case IN ) ( VB cc CC ) ( VB conj VB ),1.0,0.0357142857143,"Pain in the ribs or stomach
+"
+( VBG dobj NN ) ( NN cc RB ) ( RB dep IN ) ( NN conj JJ ),1.0,0.0357142857143,"Holding the stomach as if pained
+"
+( NN nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.0357142857143,"Tenseness in one's stomach
+"
+( NN case IN ) ( NN cc CC ) ( NN conj NN ),1.0,0.0357142857143,"Burning sensation in the chest or stomach
+"

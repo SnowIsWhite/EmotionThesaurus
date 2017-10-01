@@ -1,0 +1,40 @@
+dependency,frequency1,frequency2,norm1,norm2,rank1,rank2,samples1,samples2
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ),3.0,1.0,0.0422535211268,0.00114942528736,2,21,"Biting one's lip
+
+Licking one's lips
+
+Pursing one's lips
+","Drag one's feet
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ),2.0,1.0,0.0281690140845,0.00114942528736,3,21,"Tapping a fist against the lips
+
+Pursing the lips in thought
+","Drag someone through the mud
+"
+( NN nmod NN ) ( NN case IN ),2.0,2.0,0.0281690140845,0.00229885057471,3,20,"Pressing a palm over the lips to hold back a cry
+
+Biting the inside of the lip
+","Fall through the cracks
+
+No bed of roses
+"
+( VBG nmod NN ) ( NN case IN ),1.0,1.0,0.0140845070423,0.00114942528736,4,21,"Biting at lips
+","Chomping at the bit
+"
+( VB xcomp JJ ),1.0,2.0,0.0140845070423,0.00229885057471,4,20,"Lip biting
+","Come clean
+
+Go pear-shaped
+"
+( VB dobj NN ) ( VB advmod RB ),1.0,3.0,0.0140845070423,0.00344827586207,4,19,"Lips parting slightly
+","Get something straight
+
+Knock heads together
+
+Meet someone halfway
+"
+( NNP compound NNP ),1.0,2.0,0.0140845070423,0.00229885057471,4,20,"Lips parting
+","Go ballistic
+
+Remain nameless
+"

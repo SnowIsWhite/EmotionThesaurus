@@ -1,0 +1,121 @@
+dependency,frequency,norm,samples
+( NN nmod NN ) ( NN case IN ),9.0,0.15,"Shoulders that curl over the chest
+
+A tightening in the chest
+
+Lightness in the chest
+
+Heat that radiates through the chest
+
+Shoulders curling over chest
+
+Tightness in the chest
+
+Rubbing or pressing a fist against the chest
+
+A lightness in the chest
+
+Breaths that catch in the chest
+"
+( NN compound NN ),4.0,0.0666666666667,"The chest caving
+
+An aching chest
+
+A puffed-out chest
+
+A thrust-out chest
+"
+( NN case IN ) ( NN nmod NN ) ( NN case IN ),3.0,0.05,"Arms crossing in front of the chest
+
+Crossing arms in front of chest
+
+Rubbing the heel of a palm against chest
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case TO ),3.0,0.05,"Clasping hands to the chest
+
+Clutching an item to the chest
+
+Dropping the chin to the chest
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ),3.0,0.05,"Folding the arms across the chest
+
+Crossing the arms over the chest
+
+Placing a hand on the chest
+"
+( VBG nmod NN ) ( NN case IN ),2.0,0.0333333333333,"Tingling in the chest
+
+Racing heartbeat, drumming in the chest
+"
+( NN amod JJ ) ( NN nmod NN ) ( NN case IN ),1.0,0.0166666666667,"A fluttery feeling in the chest
+"
+( VBN nsubj NN ) ( VBN nmod NN ) ( NN case IN ),1.0,0.0166666666667,"Arms crossed over the chest
+"
+( NN compound NN ) ( NN nmod NN ) ( NN case IN ) ( NN cc CC ) ( NN conj NN ),1.0,0.0166666666667,"Burning sensation in the chest or stomach
+"
+( VBG dobj NN ) ( VBG compound:prt RP ),1.0,0.0166666666667,"Thrusting the chest out
+"
+( VBG nmod NN ) ( NN case IN ) ( NN cc CC ) ( NN conj NN ),1.0,0.0166666666667,"Clutching at the chest or belly
+"
+( VBG dobj NN ) ( NN cc RB ) ( RB dep IN ) ( NN conj JJ ),1.0,0.0166666666667,"Rubbing the chest as if pained
+"
+( VBG nmod NN ) ( NN case TO ),1.0,0.0166666666667,"A hand flying to the chest
+"
+( RB nmod NN ) ( NN case IN ),1.0,0.0166666666667,"Crossing the arms tightly over the chest
+"
+( VB nsubj NNP ) ( VB compound:prt RP ),1.0,0.0166666666667,"Chest thrust out
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case TO ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.0166666666667,"Clutching arms to one's chest
+"
+( NN nmod NN ) ( NN case IN ) ( NN nmod NN ) ( NN case IN ),1.0,0.0166666666667,"A feeling of expansion in the chest
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.0166666666667,"Crossing the arms over one's chest
+"
+( NN amod JJ ) ( NN appos NN ) ( NN amod JJ ),1.0,0.0166666666667,"Loud breaths, a heaving chest
+"
+( VBG nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN amod JJ ),1.0,0.0166666666667,"Hand splaying across one's upper chest
+"
+( VBG advmod RB ) ( VBG nmod NN ) ( NN case IN ),1.0,0.0166666666667,"Heart thudding dully in the chest
+"
+( NN compound NN ) ( NN compound NN ),1.0,0.0166666666667,"A wide stance, chest thrust out
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG nmod NN ) ( NN case TO ),1.0,0.0166666666667,"Clasping one's hands to the chest
+"
+( VB xcomp VBG ) ( VBG nmod NN ) ( NN case IN ),1.0,0.0166666666667,"Chest bumping with others
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.0166666666667,"Rubbing at or massaging one's chest as if pained
+"
+( RB nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.0166666666667,"Pulling books or packages tightly against one's chest
+"
+( VBG dobj NN ),1.0,0.0166666666667,"Hitching chest
+"
+( NN case IN ) ( NN appos NN ) ( NN acl VBN ) ( VBN compound:prt RP ),1.0,0.0166666666667,"Holding elbows wide from the body, chest thrust out
+"
+( VBG dobj NN ) ( VBG nmod IN ),1.0,0.0166666666667,"Shoulders curling forward, caving the chest in
+"
+( NN nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.0166666666667,"A tingling in one's chest
+"
+( VBG advmod RB ) ( VBG compound:prt RP ) ( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.0166666666667,"Subconsciously thrusting out one's chest
+"
+( NN cc CC ) ( NN conj NN ) ( NN nmod NN ) ( NN case IN ),1.0,0.0166666666667,"Tightness or pain in the chest
+"
+( NN dep NN ),1.0,0.0166666666667,"A chest that hitches
+"
+( NN amod VBG ),1.0,0.0166666666667,"A hitching chest
+"
+( VBN mark IN ) ( VBN advmod RB ) ( VBN compound:prt RP ) ( VBN nmod NN ) ( NN case IN ),1.0,0.0166666666667,"Breath that temporarily bottles up in the chest
+"
+( VB advcl VBG ) ( VB nsubj NN ) ( VB nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.0166666666667,"Listening, arms crossed over one's chest
+"
+( VBG nmod NN ) ( NN case TO ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.0166666666667,"Chin lowering to one's chest
+"
+( NN compound NN ) ( NN nmod NN ) ( NN case IN ),1.0,0.0166666666667,"Hugging one's shoulders, chin resting on the chest
+"
+( NN dep NN ) ( NN acl IN ),1.0,0.0166666666667,"A chest that caves in
+"
+( NN case IN ) ( NN compound NN ),1.0,0.0166666666667,"Gripping a fistful of shirt at the chest level
+"
+( NN amod VBG ) ( NN cc CC ) ( NN conj NN ),1.0,0.0166666666667,"Chest pain or numbness
+"
+( NN cc CC ) ( NN conj NN ),1.0,0.0166666666667,"Clutching the throat or chest
+"

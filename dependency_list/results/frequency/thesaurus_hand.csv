@@ -1,0 +1,339 @@
+dependency,frequency,norm,samples
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ),22.0,0.130177514793,"Laying a hand over the heart
+
+Rubbing a hand through the hair
+
+Running hands through the hair
+
+Placing a hand against the breastbone
+
+Forming hands into a steeple
+
+Pressing hands against the stomach
+
+Shoving hands in pockets
+
+Scrubbing a hand over the face
+
+Placing a hand on the chest
+
+Clasping hands under the chin
+
+Placing hands on the hips
+
+Hiding the hands in the pockets
+
+Tucking the hands behind the elbows
+
+Scraping a hand through the hair
+
+Rubbing a hand against the heart
+
+Laying a hand against the breastbone
+
+Balling the hands into fists
+
+Flapping a hand in dismissal
+
+Waving a hand in dismissal
+
+Slapping hands against the cheeks
+
+Clapping the hands over the ears
+
+Slipping hands into pockets
+"
+( NN amod JJ ),6.0,0.0355029585799,"Flapping hands
+
+Trembling hands
+
+Hands moistening
+
+Twitching hands
+
+Sweaty hands
+
+Clammy hands
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),5.0,0.0295857988166,"Running hands through one's hair
+
+Squeezing the hands at one's sides
+
+Rubbing the hands over one's clothing
+
+Placing hands in one's pockets
+
+Pressing hands against one's cheeks
+"
+( NN nmod NN ) ( NN case IN ),4.0,0.0236686390533,"Holding the head in the hands
+
+Covering the face with hands
+
+Covering the face with the hands
+
+Covering the mouth with a hand
+"
+( VB xcomp VBG ) ( VBG nmod NN ) ( NN case IN ),4.0,0.0236686390533,"Hands moving in jerks
+
+Hands clenching into fists
+
+Hands tightening into fists
+
+Hands clutching at stomach
+"
+( JJ nsubj NN ),3.0,0.0177514792899,"Digging in a purse or pocket to keep the hands busy
+
+Smoothing one's clothes or touching items to keep the hands busy
+
+Fiddling with an object to keep the hands busy
+"
+( NN amod JJ ) ( NN compound NN ),3.0,0.0177514792899,"Lethargic hand movements
+
+Fluttery hand movements
+
+Sharp hand movements
+"
+( VBG dobj NN ),3.0,0.0177514792899,"Rubbing the wrists or wringing the hands
+
+Dry washing the hands
+
+Folding the hands
+"
+( NN compound NN ),2.0,0.0118343195266,"Holding a hand close to the face while speaking
+
+Floundering hand movements
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG nmod NN ) ( NN case TO ),2.0,0.0118343195266,"Clasping one's hands to the chest
+
+Pressing one's hands to the stomach
+"
+( VBG dobj NN ) ( VBG advmod RB ),2.0,0.0118343195266,"Rubbing the hands together
+
+Clasping the hands together
+"
+( VBZ nsubj WP ) ( VBZ dobj NN ) ( NN amod JJ ),2.0,0.0118343195266,"Belittling comments that remind the target who has the upper hand
+
+Projecting the voice, reinforcing who has the upper hand
+"
+( NN nmod:poss CD ) ( CD case POS ) ( NN nmod NN ) ( NN case IN ),2.0,0.0118343195266,"Holding one's head with the hands
+
+Holding one's head in hands
+"
+( NN nmod:poss CD ) ( CD case POS ) ( NN nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),2.0,0.0118343195266,"Covering one's face with one's hands
+
+Holding one's head in one's hands
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ),2.0,0.0118343195266,"Wringing one's hands
+
+Clutching one's hands
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case TO ),2.0,0.0118343195266,"Pressing a hand to the abdomen
+
+Clasping hands to the chest
+"
+( VBZ nsubj NN ),2.0,0.0118343195266,"Hands that tremble
+
+Hands that fidget
+"
+( VBG dobj NN ) ( VBG advmod RB ) ( VBG nmod NN ) ( NN case IN ),2.0,0.0118343195266,"Holding the hands loosely behind the back
+
+Clasping the hands together in the lap
+"
+( VB compound:prt RP ) ( VB nmod NN ) ( NN case IN ) ( NN nmod NN ) ( NN case IN ),2.0,0.0118343195266,"Leaning forward with a hand on the knee
+
+Leaning over with the hands on the knees
+"
+( VB dobj NN ) ( VB advmod RB ) ( VB dep VB ) ( VB compound:prt RP ) ( VB ccomp VBZ ) ( VBZ advmod FW ) ( FW compound FW ) ( VBZ nsubj WP ) ( VB dobj NN ),1.0,0.00591715976331,"Lifting a hand loosely, palm up in a Who cares? gesture
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ) ( NN nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.00591715976331,"Rubbing a hand against the front of one's shirt
+"
+( VBG dobj NN ) ( VBG compound:prt RP ) ( VBG dep VBG ) ( VBG dobj NN ) ( NN cc CC ) ( NN conj NN ) ( VBG compound:prt RP ),1.0,0.00591715976331,"Holding a hand up, warding someone or something off
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ) ( NN advmod RB ),1.0,0.00591715976331,"Dragging the hands through the hair repeatedly
+"
+( VBG compound:prt RP ) ( VBG nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN cc CC ) ( NN conj NN ),1.0,0.00591715976331,"Staring down at one's hands or feet
+"
+( VBG dobj NN ) ( NN amod JJ ) ( VBG nmod NN ) ( NN case IN ),1.0,0.00591715976331,"Running a jerky hand through the hair
+"
+( VB compound:prt RP ) ( VB nmod NN ) ( NN case IN ) ( VB dobj NN ) ( NN nmod NN ) ( NN case IN ),1.0,0.00591715976331,"Leaning back in a chair, hands behind the head
+"
+( VBZ mark IN ) ( VBZ nsubj NN ) ( NN amod JJ ) ( VBZ dobj NN ) ( NN nmod NN ) ( NN case IN ),1.0,0.00591715976331,"Holding one's elbow while the opposite hand makes a fist against the mouth
+"
+( JJ appos NN ) ( NN acl VBN ) ( VBN nmod NN ) ( NN case IN ),1.0,0.00591715976331,"Arms straight, hands locked into fists
+"
+( NN advmod RB ) ( NN cc CC ) ( NN conj NN ),1.0,0.00591715976331,"Still hands and feet
+"
+( VBG ccomp NN ) ( NN cop VBZ ) ( NN cc CC ) ( NN conj NN ),1.0,0.00591715976331,"Clasping another's hand or forearm
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG advmod RB ),1.0,0.00591715976331,"Clasping one's hands together
+"
+( VB xcomp VBG ) ( VBG advmod RB ) ( VBG xcomp VB ) ( VB mark TO ) ( VB dobj NN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.00591715976331,"Hands repeatedly rising to touch one's face
+"
+( VBG dobj NN ) ( NN nmod NN ) ( NN case IN ) ( VBG dep VBG ) ( VBG dobj NN ),1.0,0.00591715976331,"Putting a hand over the face, closing the eyes
+"
+( NN nmod NN ) ( NN case IN ) ( NN nummod CD ),1.0,0.00591715976331,"Cupping an elbow with one hand while tapping the lips with the other
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ) ( NN nmod:poss NN ) ( NN case POS ) ( NN cc CC ) ( NN conj NN ),1.0,0.00591715976331,"Laying a hand on someone's back or shoulder
+"
+( NNP compound NNP ) ( NNP nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.00591715976331,"Head resting on one's hand
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ) ( VBG advcl VBG ) ( VBG advmod RB ) ( VBG dobj PRP ),1.0,0.00591715976331,"Tightening the hands into fists, then loosening them
+"
+( VBG compound:prt RP ) ( VBG dobj NN ),1.0,0.00591715976331,"Shaking out the hands
+"
+( VB xcomp VBG ) ( VBG advmod RB ) ( VBG parataxis VBG ) ( VBG advmod RB ),1.0,0.00591715976331,"Hands clenching briefly, then releasing
+"
+( VBN nsubj NN ) ( VBN nmod NN ) ( NN case IN ) ( NN cc CC ) ( NN conj NN ) ( NN case IN ),1.0,0.00591715976331,"Hands hidden behind the back or in pockets
+"
+( VBG compound:prt RP ) ( VBG nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.00591715976331,"Staring down at one's hands
+"
+( VB advmod RB ) ( VB xcomp VBG ) ( VBG compound:prt RP ) ( VBG nmod NN ) ( NN case IN ),1.0,0.00591715976331,"Hands up, backing away with a shudder
+"
+( VB nsubj NN ) ( VB advmod RB ) ( VB nmod NN ) ( NN case IN ) ( VB cc CC ) ( VB conj VBN ) ( VBN compound:prt RP ),1.0,0.00591715976331,"Hands clasped loosely behind the back and gaze down
+"
+( VB xcomp VBG ) ( VBG nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN amod JJ ),1.0,0.00591715976331,"Hand splaying across one's upper chest
+"
+( VB compound:prt RP ) ( VB nmod NN ) ( NN case IN ) ( NN amod JJ ),1.0,0.00591715976331,"Hands up in a defensive stance
+"
+( VBN nsubj NNP ) ( VBN nmod NN ) ( NN case IN ),1.0,0.00591715976331,"Covering face with hands
+"
+( VBN nsubj NN ) ( VBN advmod RB ) ( VBN nmod NN ) ( NN case IN ),1.0,0.00591715976331,"A hand casually anchored on the hip
+"
+( NN cc CC ) ( NN conj NN ),1.0,0.00591715976331,"Squeezing a shoulder or hand
+"
+( VBZ nsubj NN ) ( NN amod JJ ) ( JJ amod JJ ),1.0,0.00591715976331,"Hands that shake, nervous twitching
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN dep VBG ) ( VBG advmod RB ) ( VBG nmod NN ) ( NN case TO ) ( NN cc CC ) ( NN conj NN ),1.0,0.00591715976331,"Laying a hand on one's heart then gesturing to a person or group
+"
+( NN compound NN ) ( NN appos NN ) ( NN nmod NN ) ( NN case IN ),1.0,0.00591715976331,"Clasping the hands tightly, a whitening of the knuckles
+"
+( VB mark TO ) ( VB dobj NN ) ( VB nmod NN ) ( NN case IN ),1.0,0.00591715976331,"Trying to cover body with hands
+"
+( VBN nsubj NN ) ( VBN advmod NN ),1.0,0.00591715976331,"Hands that briefly clench
+"
+( VBG dobj NN ) ( VBG compound:prt RP ) ( VBG cc CC ) ( VBG conj VBG ) ( VBG advmod RB ) ( VBG dobj PRP ) ( VBG nmod:tmod NN ),1.0,0.00591715976331,"Lifting hands up and then letting them fall
+"
+( NN dep RB ) ( NN acl:relcl VB ) ( VB aux MD ) ( VB neg RB ),1.0,0.00591715976331,"Fidgety hands that won't settle
+"
+( VB xcomp VBG ) ( VBG nmod NN ) ( NN case TO ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.00591715976331,"Hands dropping to one's sides
+"
+( NN dep VBG ) ( VBG nmod NN ) ( NN case TO ) ( NN cc CC ) ( NN conj NN ),1.0,0.00591715976331,"A hand fluttering to the lips or neck
+"
+( VBN nsubj NN ) ( NN acl VBG ) ( VBG nmod PRP ) ( PRP case IN ) ( VBN aux VBN ) ( VBN dobj NN ) ( NN acl VBG ) ( VBG mark IN ) ( VBG dobj WP ) ( VBG nsubj PRP ) ( VBG aux MD ) ( VBG aux VB ),1.0,0.00591715976331,"Hands fluttering like they've lost track of what they should be doing
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ) ( VBG cc CC ) ( VBG conj VBG ) ( VBG dobj PRP ) ( VBG nmod NN ) ( NN case TO ),1.0,0.00591715976331,"Forming a steeple with hands and pressing them to lips
+"
+( NN nmod NN ) ( NN case IN ) ( NN cc CC ) ( NN conj NN ),1.0,0.00591715976331,"Tremors in the hands and fingers
+"
+( NNP dep NN ) ( NN nmod NN ) ( NN case IN ),1.0,0.00591715976331,"Covering the hands with the face
+"
+( JJ nsubj NN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.00591715976331,"Keeping one's hands free
+"
+( VBN nsubj VBN ) ( VBN advmod RB ) ( VBN nmod NN ) ( NN case IN ),1.0,0.00591715976331,"Increased sweat, particularly on the hands
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG nmod NN ) ( NN case IN ) ( NN amod JJ ),1.0,0.00591715976331,"Rubbing one's hands on pant legs
+"
+( VB dobj NN ) ( NN acl VB ) ( VB mark TO ) ( VB compound:prt RP ) ( VB dobj NN ) ( VB advcl VBG ) ( VBG mark IN ) ( VBG cc CC ) ( VBG conj VBG ),1.0,0.00591715976331,"Raising a hand to ward off others from approaching or speaking
+"
+( VBG dobj NN ) ( NN nmod NN ) ( NN case IN ) ( NN nmod:poss NN ) ( NN amod JJ ) ( NN case POS ) ( NN cc CC ) ( NN conj NN ),1.0,0.00591715976331,"Hooking a hand in the other person's belt or pocket
+"
+( VB nsubj NN ) ( VB nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.00591715976331,"Hands folded in one's lap
+"
+( VBG dobj NN ) ( VBG compound:prt RP ) ( VBG advmod JJ ) ( JJ nmod NN ) ( NN case TO ) ( VBG advcl VBG ) ( VBG advmod RB ) ( VBG dobj PRP ),1.0,0.00591715976331,"Splaying hands out wide to stretch, then relaxing them
+"
+( NN cc CC ) ( NN conj NN ) ( NN nmod:poss NN ) ( NN amod JJ ) ( NN case POS ),1.0,0.00591715976331,"Closing or curling one's hands inward
+"
+( VB ccomp VBG ) ( VBG nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG conj VBG ) ( VBG dobj PRP ) ( VBG advmod RB ) ( VBG cc CC ) ( VBG conj VBG ) ( VBG advmod RB ),1.0,0.00591715976331,"Hands carving through one's hair, holding it back and then releasing
+"
+( VBG dobj NN ) ( VBG compound:prt RP ) ( VBG dep VBG ) ( VBG dobj NN ) ( VBG compound:prt RP ),1.0,0.00591715976331,"Holding a hand up, warding others off
+"
+( VB ccomp VB ) ( VB dobj JJ ),1.0,0.00591715976331,"Hands that go limp
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG cc CC ) ( VBG conj VBG ) ( VBG dobj NN ) ( VBG advmod RB ),1.0,0.00591715976331,"Running hands through one's hair or flipping the hair back
+"
+( VBG nmod NN ) ( NN case IN ) ( NN nmod:poss NN ) ( NN case POS ) ( VBG advcl RB ) ( RB case IN ) ( RB advcl JJ ) ( JJ case IN ),1.0,0.00591715976331,"Holding onto someone's hand for longer than necessary
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN nmod NN ) ( NN advmod RB ) ( NN case IN ),1.0,0.00591715976331,"Keeping one's hands out of the pockets
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ) ( NN appos NN ) ( NN amod VBG ) ( NN advmod RB ),1.0,0.00591715976331,"Running the hands through the hair, flipping hair back
+"
+( VB nsubj NN ) ( VB nmod NN ) ( NN case IN ) ( NN cc CC ) ( NN conj NN ),1.0,0.00591715976331,"Hands jammed into armpits or self-hugging
+"
+( VBG compound:prt RP ) ( VBG nmod NN ) ( NN case IN ) ( NN amod VBN ),1.0,0.00591715976331,"Backing away with raised hands
+"
+( VBG dobj NN ) ( NN amod JJ ) ( VBG nmod NN ) ( NN case TO ),1.0,0.00591715976331,"Bringing a shaky hand to the forehead
+"
+( NN dep NN ) ( NN cc CC ) ( NN conj NN ),1.0,0.00591715976331,"Hands that clench and unclench
+"
+( VBG nmod NN ) ( NN case IN ),1.0,0.00591715976331,"A deliberate crossing of the legs or clasping of the hands
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.00591715976331,"Putting one's hands over one's ears
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case TO ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.00591715976331,"Pressing hands to one's temples
+"
+( NN dep VBG ) ( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.00591715976331,"A hand covering one's mouth
+"
+( NN dep NN ) ( NN dep NN ),1.0,0.00591715976331,"A hand that cups the mouth
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ) ( NN acl VB ) ( VB mark TO ) ( VB xcomp JJ ) ( VB nmod NN ) ( NN case IN ),1.0,0.00591715976331,"Sweeping a hand across the forehead to get rid of sweat
+"
+( VBG compound:prt RP ) ( VBG nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN amod JJ ),1.0,0.00591715976331,"Staring down at one's empty hands
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG nmod NN ) ( NN case IN ),1.0,0.00591715976331,"Shoving one's hands into pockets
+"
+( NN amod JJ ) ( NN compound NN ) ( NN appos NNP ),1.0,0.00591715976331,"Flighty hand movements, fidgeting
+"
+( VBG nmod NN ) ( NN case IN ) ( NN acl VBN ) ( VBN nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG conj VBG ) ( VBG xcomp JJ ) ( VBG cc CC ) ( VBG conj VBG ) ( VBG compound:prt RP ),1.0,0.00591715976331,"Standing with hands tucked in one's armpits, thumbs visible and pointing up
+"
+( VB xcomp VBG ) ( VBG nmod NN ) ( NN case TO ),1.0,0.00591715976331,"Hands falling to the sides
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ) ( NN nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG advcl VB ) ( VB mark RB ) ( RB mwe IN ) ( VB mark TO ) ( VB xcomp JJ ) ( VB nmod NN ) ( NN case IN ) ( NN amod JJ ),1.0,0.00591715976331,"Flicking a hand in front of one's nose as if to get rid of a bad smell
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ) ( VBG cc CC ) ( VBG conj VBG ),1.0,0.00591715976331,"Weaving hands into the hair and pulling
+"
+( NNP dep NN ) ( NN nmod NN ) ( NN case IN ) ( NN appos NN ) ( NN nmod:poss NN ) ( NN amod JJ ) ( NN case POS ) ( NN amod JJ ),1.0,0.00591715976331,"Holding hands behind the back, gripping one's own wrist
+"
+( VB nsubj NN ) ( VB advmod RB ),1.0,0.00591715976331,"Hands clutched together
+"
+( VB nsubj NN ) ( VB advmod RB ) ( RB nmod NN ) ( NN case IN ) ( VB compound:prt RP ) ( VB dobj NN ),1.0,0.00591715976331,"Throwing hands up in an I give up gesture
+"
+( VBG dobj NN ) ( VBG compound:prt RP ) ( VBG cc CC ) ( VBG conj VBG ) ( VBG dobj PRP ) ( VBG nmod NN ) ( NN case IN ),1.0,0.00591715976331,"Holding hands out and weighing them in the air
+"
+( RB nmod:npmod NN ),1.0,0.00591715976331,"Hands up, palms toward the aggressor
+"
+( VBG dobj NN ) ( NN compound NNP ) ( VBG nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.00591715976331,"Making an X motion with one's hands
+"
+( VBG advmod RB ) ( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ),1.0,0.00591715976331,"Repeatedly running the hands through the hair
+"
+( VBG compound:prt RP ) ( VBG nmod NN ) ( NN case IN ) ( NN acl VBN ) ( VBN nmod NN ) ( NN nmod NN ) ( NN case IN ) ( NN dep PRP ),1.0,0.00591715976331,"Looking up with hands raised in the why me? position
+"
+( NN advmod RB ) ( NN advmod NN ) ( NN case IN ) ( NN nummod CD ),1.0,0.00591715976331,"Leaning in, hand on one knee
+"
+( JJ dep NN ) ( JJ advmod RB ) ( JJ nmod NN ) ( NN case IN ) ( NN cc CC ) ( NN conj RB ) ( RB amod VBG ),1.0,0.00591715976331,"Hands almost curling into fists and then straightening
+"
+( VB nmod NN ) ( NN case IN ) ( VB nmod NN ) ( NN case IN ) ( NN nmod NN ) ( NN case IN ) ( VB xcomp VBG ) ( VBG advcl JJ ) ( JJ mark IN ) ( JJ nsubj NN ) ( JJ cop VBN ),1.0,0.00591715976331,"Leaning in awkwardly with hands in the pockets, asking if things are okay
+"
+( JJ nsubj NN ) ( NN acl VBG ) ( VBG nmod CD ) ( CD case IN ) ( JJ cop VBZ ),1.0,0.00591715976331,"Hands curling around one's middle
+"
+( VBG dobj NN ) ( NN nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.00591715976331,"Pressing a hand against one's chest, fingers splayed out
+"
+( NN dep VBG ) ( VBG nmod NN ) ( NN case TO ),1.0,0.00591715976331,"A hand flying to the chest
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN amod JJ ),1.0,0.00591715976331,"Rubbing hands down one's pant legs
+"
+( VB dobj NN ) ( VB xcomp VBN ) ( VBN advmod RB ) ( VBN mark TO ) ( VBN auxpass VB ) ( VBN compound:prt RP ),1.0,0.00591715976331,"Raising a hand immediately to be called on
+"
+( VBG nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.00591715976331,"Rubbing at one's hands
+"
+( NN dep VBG ) ( VBG nmod NN ) ( NN case IN ) ( NN cc CC ) ( NN conj NN ),1.0,0.00591715976331,"A hand pressing against the throat or breastbone
+"
+( VBG dobj NN ) ( NN compound NN ) ( VBG advcl VB ) ( VB mark TO ) ( VB xcomp VB ) ( VB mark TO ) ( VB nmod NN ) ( NN case IN ),1.0,0.00591715976331,"Finding something close to hand to use as a weapon
+"
+( NN compound NN ) ( NN dep VBZ ) ( VBZ dobj NN ) ( NN cc CC ) ( NN conj NN ) ( NN nmod:poss PRP$ ),1.0,0.00591715976331,"A hand flap that dismisses the person or their idea
+"
+( VB dobj NN ) ( NN cc CC ) ( NN conj NN ),1.0,0.00591715976331,"Limp hands and arms
+"
+( VBZ xcomp VBG ) ( VBG dobj NN ) ( NN appos NN ) ( VBZ nsubj VB ),1.0,0.00591715976331,"Hands touching the lips, mouth, face
+"
+( VBZ nsubj NN ) ( NN amod VBG ),1.0,0.00591715976331,"Hands gripping elbows
+"

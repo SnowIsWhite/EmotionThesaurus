@@ -1,0 +1,31 @@
+dependency,frequency,norm,samples
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ),2.0,0.133333333333,"Grinding one's teeth
+
+Clenching one's teeth
+"
+( VBG dobj NN ),2.0,0.133333333333,"Bearing the teeth
+
+Gritting the teeth
+"
+( VBG nmod NN ) ( NN case IN ) ( NN nmod NN ) ( NN case IN ) ( NN amod JJ ),1.0,0.0666666666667,"Speaking through the teeth with forced restraint
+"
+( NN amod JJ ),1.0,0.0666666666667,"Clenching teeth
+"
+( NN case IN ) ( NN nmod NN ) ( NN case IN ) ( NN compound VBG ) ( VBG cc CC ) ( VBG conj VBG ),1.0,0.0666666666667,"Pain in the jaw from clenching or grinding teeth
+"
+( NNP nmod NN ) ( NN case IN ) ( NNP nmod NN ) ( NN case IN ) ( NN amod VBG ),1.0,0.0666666666667,"Pain in jaw from clenching teeth
+"
+( NN amod JJ ) ( NN nmod NN ) ( NN case VBG ),1.0,0.0666666666667,"A curling lip, showing the teeth
+"
+( VB dobj NN ) ( VB advmod RB ),1.0,0.0666666666667,"Baring the teeth slightly
+"
+( NN nmod:poss NNP ) ( NNP nummod CD ) ( NNP case POS ),1.0,0.0666666666667,"Baring one's teeth
+"
+( NN appos NN ) ( NN amod VBG ),1.0,0.0666666666667,"Clenched jaw, grinding teeth
+"
+( VBZ nsubj NN ) ( NN acl VBG ) ( VBG advmod RB ) ( VBZ dobj NN ),1.0,0.0666666666667,"Lips pulling back, baring the teeth
+"
+( VB xcomp VBG ) ( VBG compound:prt RP ) ( VBG nmod NN ) ( NN case IN ) ( NN amod JJ ),1.0,0.0666666666667,"Teeth biting down on the bottom lip
+"
+( NN amod JJ ) ( NN appos NN ) ( NN amod JJ ),1.0,0.0666666666667,"A clenched jaw, gritted teeth
+"

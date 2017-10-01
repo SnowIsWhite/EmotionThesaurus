@@ -1,0 +1,45 @@
+dependency,frequency,norm,samples
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case TO ),2.0,0.0909090909091,"Pressing palms to cheeks
+
+Pressing the palms to the eyes
+"
+( VBG compound:prt RP ) ( VBG nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN amod JJ ),1.0,0.0454545454545,"Staring down at one's empty palms
+"
+( VB dobj NN ) ( VB advmod RB ) ( VB dep VB ) ( VB compound:prt RP ) ( VB ccomp VBZ ) ( VBZ advmod FW ) ( FW compound FW ) ( VBZ nsubj WP ) ( VB dobj NN ),1.0,0.0454545454545,"Lifting a hand loosely, palm up in a Who cares? gesture
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN amod JJ ),1.0,0.0454545454545,"Dragging the palms down one's pant legs
+"
+( VBN nsubj NN ) ( VBN nmod NN ) ( NN case TO ),1.0,0.0454545454545,"A palm pressed to the heart
+"
+( JJ advmod RB ) ( JJ nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN amod JJ ),1.0,0.0454545454545,"Nails biting into one's own palms
+"
+( VBG dobj NN ) ( VBG advmod RB ) ( VBG nmod NN ) ( NN case IN ),1.0,0.0454545454545,"Pressing palms lightly against the cheeks
+"
+( NN compound NNP ),1.0,0.0454545454545,"Open palms
+"
+( VBG nmod NN ) ( NN case IN ),1.0,0.0454545454545,"Fists tight, fingernails biting into the palms
+"
+( VBG nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG advcl VBN ) ( VBN mark RB ) ( RB mwe IN ) ( VBN nsubj PRP ) ( VBN dobj NN ),1.0,0.0454545454545,"Staring at one's palms as if they hold the answers
+"
+( VBG dobj NN ) ( NN nmod NN ) ( NN case IN ) ( VBG advcl VB ) ( VB mark TO ) ( VB compound:prt RP ) ( VB dobj NN ),1.0,0.0454545454545,"Pressing a palm over the lips to hold back a cry
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.0454545454545,"Showing one's palms
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG cc CC ) ( VBG conj VBG ),1.0,0.0454545454545,"Showing one's palms and shrugging
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG advmod CC ) ( CC case IN ) ( CC case IN ),1.0,0.0454545454545,"Holding one's palms up and out
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG nmod NN ) ( NN case TO ) ( VBG cc CC ) ( VBG conj VBG ) ( VBG compound:prt RP ),1.0,0.0454545454545,"Raising one's palms to the sky and looking up
+"
+( NN advmod RB ) ( RB nmod:npmod NN ) ( NN advmod RB ) ( NN case IN ),1.0,0.0454545454545,"Hands up, palms toward the aggressor
+"
+( NN amod JJ ),1.0,0.0454545454545,"Sweaty palms
+"
+( NN nmod NN ) ( NN case IN ) ( NN nmod NN ) ( NN case IN ),1.0,0.0454545454545,"Rubbing the heel of a palm against chest
+"
+( VB dobj NN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.0454545454545,"Raising one's palms
+"
+( NNP compound NNP ),1.0,0.0454545454545,"Palms hidden
+"
+( VBG dobj NN ) ( VBG compound:prt RP ) ( VBG advcl VB ) ( VB mark TO ) ( VB dobj NN ) ( VB advcl VBG ) ( VBG mark IN ) ( VBG nmod NN ) ( NN case IN ) ( NN amod JJR ),1.0,0.0454545454545,"Holding a palm up to stop someone from dumping on more worry
+"

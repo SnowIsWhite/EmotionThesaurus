@@ -1,0 +1,5 @@
+dependency,frequency,norm,samples
+( NN nmod:poss NNP ) ( NNP nummod CD ) ( NNP case POS ),1.0,0.5,"Bite one's tongue
+"
+( NN cop VB ) ( NN case IN ) ( NN nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.5,"Be on the tip of one's tongue
+"

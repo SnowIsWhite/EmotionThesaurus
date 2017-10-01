@@ -1,0 +1,93 @@
+dependency,frequency,norm,samples
+( NN compound NN ),10.0,0.217391304348,"Mimicking body language
+
+Open body posture
+
+Rising body temperature
+
+Crossing one's arms, showing closed body posture
+
+Arms crossing one's chest, closed body posture
+
+Body odor
+
+Raised body temperature
+
+Body mimicking that of the rival
+
+Crumpled body posture
+
+Flaccid yet unwelcoming body language
+"
+( NN amod JJ ) ( NN compound NN ),4.0,0.0869565217391,"Closed body posture
+
+Rigid body posture
+
+Closed body language
+
+Full body tremors
+"
+( VBG nmod NN ) ( NN case IN ),3.0,0.0652173913043,"Warmth radiating throughout the body
+
+Visible tremors coursing through the body
+
+Warmth spreading through the body
+"
+( NN dep VBG ) ( VBG compound:prt RP ) ( VBG nmod PRP ) ( PRP case IN ),2.0,0.0434782608696,"Body collapsing in on itself
+
+The body crumpling in on itself
+"
+( NN amod JJ ) ( NN nmod NN ) ( NN case IN ),1.0,0.0217391304348,"An overall relaxation of the body
+"
+( NN acl:relcl NN ) ( NN cop VBZ ) ( NN advmod RB ) ( NN case IN ),1.0,0.0217391304348,"A body that's constantly in motion
+"
+( VB mark TO ) ( VB dobj NN ) ( VB nmod NN ) ( NN case IN ),1.0,0.0217391304348,"Trying to cover body with hands
+"
+( NN compound NN ) ( NN dep VBZ ) ( VBZ cc CC ) ( VBZ conj VBZ ),1.0,0.0217391304348,"Body posture that loosens or collapses
+"
+( NN compound NNP ),1.0,0.0217391304348,"Body tremors
+"
+( NN nmod NN ) ( NN case IN ),1.0,0.0217391304348,"A jolt through the body
+"
+( NN compound NN ) ( NN dep VBG ) ( VBG compound:prt RP ),1.0,0.0217391304348,"Body temperature jumping up
+"
+( JJ nsubj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN amod JJ ) ( JJ advmod RB ) ( JJ advmod RB ),1.0,0.0217391304348,"Elbows pressing into the sides, making one's body as small as possible
+"
+( VBG dobj NN ) ( NN cc CC ) ( NN conj NN ) ( VBG nmod NN ) ( NN case IN ) ( VBG nmod NN ) ( NN case TO ),1.0,0.0217391304348,"Keeping arms and legs in close to the body
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ) ( VBG cc RB ) ( RB mwe IN ) ( VBG conj VBG ) ( VBG dobj NN ) ( NN compound NN ),1.0,0.0217391304348,"Turning the body at an angle instead of facing the subject head-on
+"
+( NN dep VBG ) ( VBG compound:prt RP ) ( VBG nmod NN ) ( NN case IN ),1.0,0.0217391304348,"Body angling away from suspect
+"
+( VBZ nsubj NNP ) ( VBZ dobj NN ) ( VBZ compound:prt RP ),1.0,0.0217391304348,"Body posture that perks up
+"
+( NN amod JJ ) ( NN compound NN ) ( NN appos NN ) ( NN amod JJ ),1.0,0.0217391304348,"Muted body language, lacking energy
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.0217391304348,"Arms clutching one's body as if to hold it together
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN nmod NN ) ( NN case IN ),1.0,0.0217391304348,"Tilting one's body toward the source
+"
+( NN dep NN ) ( NN nmod NN ) ( NN case IN ),1.0,0.0217391304348,"The body freezing in place
+"
+( NN amod VBG ) ( NN appos NN ) ( NN amod JJ ) ( JJ xcomp VB ) ( VB mark TO ),1.0,0.0217391304348,"Leg muscles tightening, the body ready to run
+"
+( JJ advmod RB ) ( JJ nmod NN ) ( NN case TO ),1.0,0.0217391304348,"Arms tight to the body
+"
+( NNP compound NNP ),1.0,0.0217391304348,"Body shielding
+"
+( VBG dobj NN ) ( VBG compound:prt RP ) ( VBG nmod NN ) ( NN case IN ),1.0,0.0217391304348,"Slanting the body away from an accuser
+"
+( NN compound NN ) ( NN appos NN ) ( NN amod JJ ),1.0,0.0217391304348,"Body odor, cold sweats
+"
+( NN compound NN ) ( NN dep VBN ) ( VBN mark IN ) ( VBN parataxis VBG ) ( VBG dobj NN ),1.0,0.0217391304348,"The body sagging while seated, lacking tension
+"
+( VB nsubj NN ) ( NN cc CC ) ( NN conj NN ) ( VB advmod RB ),1.0,0.0217391304348,"Body and feet pointed forward
+"
+( VBZ advcl VBG ) ( VBG cc CC ) ( VBG conj VBG ) ( VBZ nsubj NN ) ( VBZ advmod RB ),1.0,0.0217391304348,"Flinching or starting, the body jumping slightly
+"
+( VBG dobj NN ),1.0,0.0217391304348,"Making preparations or conditioning the body
+"
+( VBG dobj NN ) ( NN acl VB ) ( VB mark TO ) ( VB conj VB ) ( VB cc CC ) ( VB conj VB ),1.0,0.0217391304348,"Using the body to nudge, push, or block
+"
+( VBG dobj NN ) ( NN compound NN ) ( VBG nmod NN ) ( NN case TO ),1.0,0.0217391304348,"Drawing the limbs close to the body
+"

@@ -1,0 +1,7 @@
+dependency,frequency,norm,samples
+( VB dobj NN ) ( VB nmod NN ) ( NN case IN ) ( NN nmod:poss NN ) ( NN case POS ),1.0,0.333333333333,"Put words into someone's mouth
+"
+( NN nmod:poss NNP ) ( NNP nummod CD ) ( NNP case POS ),1.0,0.333333333333,"Watch one's mouth
+"
+( VB dobj NN ) ( NN amod JJ ) ( VB nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.333333333333,"Leave a bad taste in one's mouth
+"

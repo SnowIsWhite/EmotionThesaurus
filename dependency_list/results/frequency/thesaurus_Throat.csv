@@ -1,0 +1,61 @@
+dependency,frequency,norm,samples
+( NN nmod NN ) ( NN case IN ),2.0,0.0666666666667,"Thickness in throat
+
+Tsking or making a noise in the throat
+"
+( NN amod JJ ),2.0,0.0666666666667,"Throat clearing
+
+Throat bobbing
+"
+( NN compound NN ),2.0,0.0666666666667,"A scratchy throat
+
+Making a Hmmm noise or throat clearing
+"
+( NN nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),2.0,0.0666666666667,"Feeling a pulse in one's throat
+
+Making a noise in one's throat
+"
+( NN amod JJ ) ( NN nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),2.0,0.0666666666667,"A painful lump in one's throat
+
+A painful tightness in one's throat
+"
+( NN amod JJ ) ( NN nmod NN ) ( NN case IN ),1.0,0.0333333333333,"An animalistic growl in the throat
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ),1.0,0.0333333333333,"Pinching the skin at the throat
+"
+( NN amod JJ ) ( NN nmod NN ) ( NN case IN ) ( NN amod JJ ),1.0,0.0333333333333,"A dry throat from rushed breathing
+"
+( VBG cc CC ) ( VBG conj VBG ) ( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.0333333333333,"Stroking or pinching one's throat
+"
+( VBG dobj NN ) ( NN amod JJ ) ( VBG nmod NN ) ( NN case IN ),1.0,0.0333333333333,"Making odd noises in the throat
+"
+( VB xcomp VBG ) ( VBG xcomp JJ ),1.0,0.0333333333333,"Throat growing thick
+"
+( NNP dep NN ),1.0,0.0333333333333,"Clearing the throat
+"
+( VBG dobj NN ) ( VBG cc CC ) ( VBG conj VBG ),1.0,0.0333333333333,"Stroking the throat and grimacing
+"
+( NN amod JJ ) ( NN cc CC ) ( NN conj NN ) ( NN nmod NN ) ( NN case IN ),1.0,0.0333333333333,"Making a slight growl or noise in the throat
+"
+( VBG dobj NN ) ( NN compound NNP ) ( VBG nmod NN ) ( NN case IN ),1.0,0.0333333333333,"Making a Hmmm noise in the throat
+"
+( VBG nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.0333333333333,"A lump forming in one's throat
+"
+( NN nmod:poss CD ) ( CD case POS ) ( NN nmod NN ) ( NN case IN ),1.0,0.0333333333333,"Feeling one's pulse in the throat
+"
+( VBG dobj NN ),1.0,0.0333333333333,"Touching the throat
+"
+( NN amod JJ ) ( NN dep VBG ) ( VBG mark IN ) ( VBG ccomp VBG ) ( VBG dep VBG ),1.0,0.0333333333333,"A sore throat from pleading, crying, begging
+"
+( VBG cc CC ) ( VBG conj VBG ) ( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN amod JJ ),1.0,0.0333333333333,"Touching or stroking one's own throat
+"
+( NN case IN ) ( NN nmod NN ) ( NN case IN ),1.0,0.0333333333333,"Pain in the back of the throat
+"
+( VBN nsubj NN ) ( VBN nmod NN ) ( NN case IN ),1.0,0.0333333333333,"Sobs trapped in throat
+"
+( VBG nmod NN ) ( NN case IN ) ( NN cc CC ) ( NN conj NN ),1.0,0.0333333333333,"A hand pressing against the throat or breastbone
+"
+( VBG dobj NN ) ( NN cc CC ) ( NN conj NN ),1.0,0.0333333333333,"Clutching the throat or chest
+"
+( NN amod JJ ) ( NN appos NNP ),1.0,0.0333333333333,"Throat clearing, swallowing
+"

@@ -1,0 +1,71 @@
+dependency,frequency,norm,samples
+( NN nmod NN ) ( NN case IN ),4.0,0.114285714286,"Rubbing the back of the neck
+
+Touching the base of the neck
+
+Scratching or rubbing the back of the neck
+
+Rubbing the back of the neck without making eye contact
+"
+( NN compound NN ),2.0,0.0571428571429,"A corded neck
+
+A bent neck
+"
+( VBN advmod NN ),2.0,0.0571428571429,"A high chin, neck exposed
+
+A high chin and exposed neck
+"
+( NN case IN ) ( NN conj NN ) ( NN cc CC ) ( NN conj NN ),1.0,0.0285714285714,"Tension in the face, shoulders and neck
+"
+( VBG dobj NN ) ( VBG advmod RB ),1.0,0.0285714285714,"Bending the neck forward
+"
+( NN case IN ) ( NN nmod NN ) ( NN case IN ),1.0,0.0285714285714,"Stiffening hair on the nape of the neck
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG cc RB ) ( RB dep IN ) ( VBG conj VBG ),1.0,0.0285714285714,"Twisting one's neck as if sore
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ) ( VBG nmod NN ) ( NN case TO ) ( NN nmod NN ) ( NN case IN ),1.0,0.0285714285714,"Cracking the neck from side to side for intimidation
+"
+( NN amod JJ ) ( NN cc CC ) ( NN conj NN ),1.0,0.0285714285714,"A red face and neck
+"
+( NN appos NN ) ( NN acl VBG ) ( VBG xcomp VB ) ( VB mark TO ),1.0,0.0285714285714,"Lowering the head, the neck appearing to shrink
+"
+( VBN nmod NN ) ( NN case IN ) ( NN cc CC ) ( NN conj NN ),1.0,0.0285714285714,"Tension in the neck and shoulders
+"
+( VBG nmod NN ) ( NN case IN ),1.0,0.0285714285714,"Rigid posture, cords twanging in the neck
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN cc CC ) ( NN conj NN ),1.0,0.0285714285714,"Scratching one's neck or cheek
+"
+( NN nmod NN ) ( NN case IN ) ( NN cc CC ) ( NN conj NN ),1.0,0.0285714285714,"Stiffness in the neck and jaw
+"
+( NN case TO ) ( NN cc CC ) ( NN conj NN ),1.0,0.0285714285714,"A hand fluttering to the lips or neck
+"
+( VB mark TO ) ( VB dobj NN ),1.0,0.0285714285714,"Lifting one's chin to expose the neck
+"
+( VB dobj NN ) ( VB advmod RB ) ( RB cc CC ) ( RB conj RB ),1.0,0.0285714285714,"Rolling the neck back and forth
+"
+( NN amod JJ ) ( NN appos NN ) ( NN amod JJ ),1.0,0.0285714285714,"Stiff posture, rigid muscles, a corded neck
+"
+( VBG advmod RB ) ( VBG nmod NN ) ( NN case IN ),1.0,0.0285714285714,"Chin lowering and pulling back against the neck
+"
+( NN amod JJ ) ( NN appos NN ) ( NN compound NN ),1.0,0.0285714285714,"Saggy posture, bent neck
+"
+( VBG compound:prt RP ) ( VBG nmod NN ) ( NN case IN ) ( VBG xcomp VB ) ( VB mark TO ) ( VB advmod RB ),1.0,0.0285714285714,"Head tipping back on the neck to look skyward
+"
+( NN nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.0285714285714,"Rubbing the back of one's neck
+"
+( VB xcomp VBG ) ( VBG advmod RB ),1.0,0.0285714285714,"Neck bending forward
+"
+( NN cc CC ) ( NN conj NN ) ( NN nmod NN ) ( NN case IN ),1.0,0.0285714285714,"Rubbing the jaw or back of the neck
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN amod JJ ) ( NN cc CC ) ( NN conj NN ) ( NN nmod NN ) ( NN case IN ),1.0,0.0285714285714,"Stroking one's own neck or arm as a surrogate
+"
+( VB nsubj NN ) ( NN compound NNP ) ( NN appos NN ) ( NN advmod RB ) ( VB advmod NN ),1.0,0.0285714285714,"Perfect posture, shoulders back, exposed neck
+"
+( NN case IN ) ( NN nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.0285714285714,"Rubbing at the back of one's neck
+"
+( VB mark IN ) ( VB mark IN ) ( VB mark TO ) ( VB dobj CD ) ( CD case POS ) ( VB advmod NN ),1.0,0.0285714285714,"Lifting the shoulders as if to hide one's neck
+"
+( NNP dep NN ),1.0,0.0285714285714,"Rolling the neck
+"
+( NN cc CC ) ( NN conj NN ),1.0,0.0285714285714,"Limbering up shoulders and neck as if readying to fight
+"

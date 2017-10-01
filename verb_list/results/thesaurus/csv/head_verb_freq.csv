@@ -1,0 +1,50 @@
+verb,frequency,norm,pmi,samples
+shake,10.0,0.138888888889,1.97905203874,"Minutely shaking the head
+		A slight head shake
+		Shaking the head
+		Shaking one's head in denial
+		Slowly shaking one's head
+		A slow, disbelieving head shake
+		Shaking the head repeatedly
+		Shaking head and closing the eyes
+		Shaking the head in disapproval but not saying anything
+		Shaking one's head
+"
+tilt,6.0,0.0833333333333,1.59938757658,"Tilting the head in a side-to-side rhythm
+		Tilting one's head to the side and pursing the lips
+		Tilting the head to the side
+		Tilting the head to the ceiling and letting out a heavy sigh
+		Tilting the head and pausing
+		Tilting the head from side to side, weighing choices
+"
+cock,5.0,0.0694444444444,1.52319843822,"Cocking one's head and then shaking it
+		Cocking the head
+		Cocking the head while raising the eyebrows
+		Cocking one's head to the side
+		Cocking or tilting the head
+"
+tip,2.0,0.0277777777778,0.914608645691,"Tipping the head back for a moment and closing the eyes
+		Tipping or turning the head to the side
+"
+lower,1.0,0.0138888888889,0.451985123743,"Lowering one's head
+"
+jerk,1.0,0.0138888888889,0.538996500733,"Jerking the head back
+"
+Laying,1.0,0.0138888888889,0.424586149555,"Laying one's head down on the table
+"
+mutter,1.0,0.0138888888889,0.538996500733,"Muttering, shaking the head
+"
+prop,1.0,0.0138888888889,0.509143537583,"Propping the head up with a fist
+"
+push,1.0,0.0138888888889,0.538996500733,"The head pulling back as the shoulders push forward
+"
+gaze,1.0,0.0138888888889,0.538996500733,"Head tilting back, gaze looking up
+"
+spin,1.0,0.0138888888889,0.538996500733,"Feeling like the head is spinning
+"
+laying,1.0,0.0138888888889,0.538996500733,"Bending forward, laying head on arms
+"
+keep,1.0,0.0138888888889,0.48015600071,"Sidelong glances while keeping the head still
+"
+Soft,1.0,0.0138888888889,0.538996500733,"Soft head shaking
+"

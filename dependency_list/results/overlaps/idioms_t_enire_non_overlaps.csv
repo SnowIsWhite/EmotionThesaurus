@@ -1,0 +1,1125 @@
+nonoverlapping dependency,frequency,norm,rank,samples
+( NN cop VB ) ( NN amod JJ ),34.0,0.0390804597701,3,"Be a backseat driver
+
+Be a bumpy ride
+
+Be a busy bee
+
+Be a cheap shot
+
+Be a close call
+
+Be a dark horse
+
+Be a different animal
+
+Be a double whammy
+
+Be a double-edged sword
+
+Be a fallen angel
+
+Be a false alarm
+
+Be a happy medium
+
+Be a hard sell
+
+Be a melting pot
+
+Be a mixed bag
+
+Be a nervous wreck
+
+Be a no-win situation
+
+Be a one-man band
+
+Be a quick fix
+
+Be a safe bet
+
+Be a smooth ride
+
+Be a three-ring circus
+
+Be a tough cookie
+
+Be a vicious circle
+
+Be a wet blanket
+
+Be a wild card
+
+Be a win-win situation
+
+Be an eager beaver
+
+Be an early bird
+
+Be an open book
+
+Be an unholy alliance
+
+Be no big deal
+
+Be small potatoes
+
+Be the unsung hero
+"
+( NN cop VB ) ( NN nmod NN ) ( NN case IN ),24.0,0.0275862068966,5,"Be a babe in the woods
+
+Be a blast from the past
+
+Be a bundle of nerves
+
+Be a can of worms
+
+Be a cog in the machine
+
+Be a creature of habit
+
+Be a drop in the ocean
+
+Be a flash in the pan
+
+Be a glutton for punishment
+
+Be a jack of all trades
+
+Be a needle in a haystack
+
+Be a piece of cake
+
+Be a race against time
+
+Be a ray of sunshine
+
+Be a recipe for disaster
+
+Be a recipe for success
+
+Be a rule of thumb
+
+Be a shot in the dark
+
+Be a sucker for something
+
+Be a window of opportunity
+
+Be nuts about something
+
+Be the cream of the crop
+
+Be the life of the party
+
+Be the moment of truth
+"
+( VB compound:prt RP ) ( VB dobj NN ),16.0,0.0183908045977,7,"Beat around the bush
+
+Clear away the cobwebs
+
+Fall off the wagon
+
+Get off the ground
+
+Get over the hump
+
+Go down the drain
+
+Go off the record
+
+Hold down the fort
+
+Lay down the law
+
+Let off steam
+
+Move up the ladder
+
+Pick up the tab
+
+Pull out all the stops
+
+Put down roots
+
+Put out feelers
+
+Set up shop
+"
+( NN cop VB ) ( NN case IN ),15.0,0.0172413793103,8,"Be across the board
+
+Be behind something
+
+Be in a vacuum
+
+Be in the air
+
+Be in the cards
+
+Be in the running
+
+Be in the spotlight
+
+Be on auto-pilot
+
+Be on the ball
+
+Be on the go
+
+Be on the horizon
+
+Be on the mend
+
+Be on the warpath
+
+Be over the moon
+
+Be under the influence
+"
+( NN cop VB ) ( NN compound NN ),11.0,0.0126436781609,11,"Be a ballpark figure
+
+Be a carbon copy
+
+Be a class act
+
+Be a conversation piece
+
+Be a couch potato
+
+Be a guinea pig
+
+Be a household name
+
+Be a party pooper
+
+Be a powder keg
+
+Be cannon fodder
+
+Be no spring chicken
+"
+( IN cop VB ) ( IN nmod NN ) ( NN case IN ),9.0,0.0103448275862,13,"Be out for blood
+
+Be out like a light
+
+Be out of bounds
+
+Be out of line
+
+Be out of order
+
+Be out of the blue
+
+Be out of the closet
+
+Be out of the question
+
+Be out of touch
+"
+( VB iobj NN ) ( VB dobj NN ),8.0,0.00919540229885,14,"Give someone a break
+
+Give someone grief
+
+Give someone the boot
+
+Give someone the brush-off
+
+Give someone the creeps
+
+Give someone the run-around
+
+Give someone the willies
+
+Give something a whirl
+"
+( JJ cop VB ) ( JJ nmod NN ) ( NN case IN ),8.0,0.00919540229885,14,"Be big on something
+
+Be dead in the water
+
+Be easy on the eye
+
+Be full of holes
+
+Be green with envy
+
+Be hot off the press
+
+Be quick on the draw
+
+Be young at heart
+"
+( VB iobj NN ) ( VB dobj NN ) ( NN amod JJ ),8.0,0.00919540229885,14,"Give someone a dirty look
+
+Give someone a free ride
+
+Give someone a wide berth
+
+Give someone carte blanche
+
+Give someone the cold shoulder
+
+Give someone the green light
+
+Give something a bad name
+
+Take something the wrong way
+"
+( VB dobj NN ) ( NN nmod:poss NN ) ( NN case POS ),8.0,0.00919540229885,14,"Break someone's heart
+
+Call someone's bluff
+
+Cover all one's bases
+
+Hate someone's guts
+
+Have a gentlemen's agreement
+
+Pick someone's brain
+
+Read someone's mind
+
+Speak the same/someone's language
+"
+( VB xcomp JJ ) ( JJ nsubj NN ),7.0,0.00804597701149,15,"Bleed someone dry
+
+Catch someone red-handed
+
+Do someone proud
+
+Drive someone crazy
+
+Eat someone alive
+
+Leave no stone unturned
+
+Sell someone short
+"
+( NN cop VB ),7.0,0.00804597701149,15,"Be a basketcase
+
+Be a breeze
+
+Be a drag
+
+Be a riot
+
+Be all ears
+
+Be an item
+
+Be the bomb
+"
+( VB dobj NN ) ( NN nmod:poss PRP$ ),6.0,0.00689655172414,16,"Chance your luck
+
+Cut your losses
+
+Speak your mind
+
+Take its toll
+
+Take your pick
+
+Watch your back
+"
+( VB dobj NN ) ( NN nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),6.0,0.00689655172414,16,"Have a chip on one's shoulder
+
+Have a gleam in one's eye
+
+Have a lot on one's plate
+
+Have a lump in one's throat
+
+Have something under one's belt
+
+Have something up one's sleeve
+"
+( NN cop VB ) ( NN case IN ) ( NN amod JJ ),5.0,0.00574712643678,17,"Be in good company
+
+Be in the hot seat
+
+Be in the public eye
+
+Be in the same ballpark
+
+Be on a slippery slope
+"
+( VB dobj NN ) ( VB nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),5.0,0.00574712643678,17,"Do something in one's sleep
+
+Feel something in one's bones
+
+Say something under one's breath
+
+Send a chill down one's spine
+
+Take someone under one's wing
+"
+( VB compound:prt RP ) ( VB nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),5.0,0.00574712643678,17,"Blow up in one's face
+
+Bored out of one's skull/mind
+
+Come out of one's shell
+
+Get back on one's feet
+
+Go out of one's mind
+"
+( VB dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN nmod NN ) ( NN case IN ),5.0,0.00574712643678,17,"Bury one's head in the sand
+
+Have one's eye on something
+
+Have one's foot in the door
+
+Have one's head in the clouds
+
+Throw one's hat in the ring
+"
+( VB dobj NN ) ( VB nmod NN ) ( NN case IN ) ( NN nmod:poss NN ) ( NN case POS ),4.0,0.00459770114943,18,"Keep someone at arm's length
+
+Put words into someone's mouth
+
+Say something behind someone's back
+
+Wipe the grin off someone's face
+"
+( VB dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN amod JJ ),4.0,0.00459770114943,18,"Dig one's own grave
+
+Mind one's own business
+
+Play one's last card
+
+Show one's true colors
+"
+( VBG aux VB ) ( VBG nmod NN ) ( NN case IN ),4.0,0.00459770114943,18,"Be grasping at straws
+
+Be icing on the cake
+
+Be rolling in the aisles
+
+Be sitting on a goldmine
+"
+( VB neg RB ) ( VB dobj NN ),4.0,0.00459770114943,18,"Not have a clue
+
+Not lift a finger
+
+Not say a word
+
+Not sleep a wink
+"
+( VB dobj NN ) ( VB nmod NN ) ( NN case IN ) ( NN nmod:poss PRP$ ),4.0,0.00459770114943,18,"Get someone off your back
+
+Keep someone on their toes
+
+Put someone in their place
+
+Take someone at their word
+"
+( NN cop VB ) ( NN case IN ) ( NN nmod NN ) ( NN case IN ),4.0,0.00459770114943,18,"Be at a loss for words
+
+Be from all walks of life
+
+Be like a slap in the face
+
+Be on top of the world
+"
+( VB dobj NN ) ( NN nmod NN ) ( NN advmod RB ) ( NN case IN ),4.0,0.00459770114943,18,"Get a rise out of someone
+
+Pull something out of a hat
+
+Pull something out of the bag
+
+Take a bite out of something
+"
+( VB nmod NN ) ( NN case IN ) ( NN nmod:poss NN ) ( NN case POS ),4.0,0.00459770114943,18,"Be/fall under someone's spell
+
+Get on someone's nerves
+
+Get under someone's skin
+
+Tug at someone's heartstrings
+"
+( NN cop VB ) ( NN case IN ) ( NN nmod:poss NN ) ( NN case POS ),4.0,0.00459770114943,18,"Be at death's door
+
+Be in someone's clutches
+
+Be in the driver's seat
+
+Be on someone's back
+"
+( NN cop VB ) ( NN nmod NN ) ( NN case IN ) ( NN amod JJ ),4.0,0.00459770114943,18,"Be a breath of fresh air
+
+Be a chip off the old block
+
+Be a sight for sore eyes
+
+Be a step in the right direction
+"
+( VB compound:prt RP ) ( VB dobj NN ) ( NN amod JJ ),4.0,0.00459770114943,18,"Go off the deep end
+
+Roll out the red carpet
+
+Tie up loose ends
+
+Turn over a new leaf
+"
+( NN cop VB ) ( NN nmod:poss NN ) ( NN case POS ),4.0,0.00459770114943,18,"Be a ladies' man
+
+Be a mamma's boy
+
+Be anybody's guess
+
+Be someone's baby
+"
+( VB dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VB advmod RB ),3.0,0.00344827586207,19,"Get one's act together
+
+Put one's foot down
+
+Take one's breath away
+"
+( VB dobj NN ) ( NN nmod:poss PRP$ ) ( VB compound:prt RP ),3.0,0.00344827586207,19,"Keep your head down
+
+Let your hair down
+
+Tear your hair out
+"
+( NN case IN ) ( NN amod JJ ),3.0,0.00344827586207,19,"In the eleventh hour
+
+In the same breath
+
+With bated breath
+"
+( NN cop VB ) ( NN case IN ) ( NN nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),3.0,0.00344827586207,19,"Be at the back of one's mind
+
+Be on the edge of one's seat
+
+Be on the tip of one's tongue
+"
+( NN cop VB ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),3.0,0.00344827586207,19,"Be in one's blood
+
+Be in one's element
+
+Be off one's rocker
+"
+( VB dobj NN ) ( NN nmod:poss PRP$ ) ( VB nmod NN ) ( NN case IN ),3.0,0.00344827586207,19,"Put all your cards on the table
+
+Set your heart on something
+
+Turn your back on something
+"
+( VB dobj NN ) ( NN acl VB ) ( VB mark TO ),3.0,0.00344827586207,19,"Have a bone to pick 
+
+Have an axe to grind
+
+Hold a candle to something/one
+"
+( NN cop VB ) ( NN amod VBN ),3.0,0.00344827586207,19,"Be a done deal
+
+Be a lost cause
+
+Be an acquired taste
+"
+( VB compound:prt RP ) ( VB dobj NN ) ( NN nmod:poss CD ) ( CD case POS ),3.0,0.00344827586207,19,"Clean up one's act
+
+Get off one's case
+
+Roll up one's sleeves
+"
+( NN cop VB ) ( NN nmod NN ) ( NN case IN ) ( NN nmod:poss NN ) ( NN case POS ),3.0,0.00344827586207,19,"Be a chink in someone's armor
+
+Be the apple of someone's eye
+
+Be the bane of someone's existence
+"
+( VB nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),3.0,0.00344827586207,19,"Fall into one's lap
+
+Get on one's soapbox
+
+Think on one's feet
+"
+( VB dobj NN ) ( VB nmod NN ) ( NN case IN ) ( NN amod JJ ),2.0,0.00229885057471,20,"Point someone in the right direction
+
+Welcome someone with open arms
+"
+( VBN nsubjpass NN ) ( NN nmod:poss NN ) ( NN case POS ) ( VBN auxpass VBN ),2.0,0.00229885057471,20,"Someone's days are numbered
+
+Someone's hands are tied
+"
+( VB compound:prt RP ) ( VB nmod NN ) ( NN case TO ) ( NN compound NN ),2.0,0.00229885057471,20,"Get off to a flying start
+
+Go back to the drawing board
+"
+( NN cop VB ) ( NN nmod:poss NN ) ( NN case POS ) ( NN amod JJ ),2.0,0.00229885057471,20,"Be someone's better half
+
+Be someone's other half
+"
+( VB xcomp JJ ) ( JJ nsubj NN ) ( NN nmod:poss PRP$ ),2.0,0.00229885057471,20,"Get your hands dirty
+
+Keep your eyes open
+"
+( VB dobj NN ) ( NN nmod NN ) ( NN advmod RB ) ( NN case IN ) ( NN nmod:poss PRP$ ),2.0,0.00229885057471,20,"Get someone out of your hair
+
+Put someone out of their misery
+"
+( VB mark TO ) ( VB dobj NN ),2.0,0.00229885057471,20,"To go ape
+
+To mean business
+"
+( RP cop VB ) ( RP dep NN ),2.0,0.00229885057471,20,"Be off base
+
+Be off the cuff
+"
+( VB dobj NN ) ( VB advmod RB ) ( RB advmod RB ),2.0,0.00229885057471,20,"Know something inside out
+
+Turn something inside out
+"
+( VB nmod NN ) ( NN case TO ),2.0,0.00229885057471,20,"Go to town
+
+Preach to the crowd
+"
+( NN cop VB ) ( NN nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),2.0,0.00229885057471,20,"Be a feather in one's cap
+
+Be a thorn in one's side
+"
+( JJ cop VB ) ( JJ dep NN ),2.0,0.00229885057471,20,"Be all-singing, all-dancing
+
+Be easy money
+"
+( VB iobj NN ) ( VB dobj NN ) ( NN nmod NN ) ( NN case IN ),2.0,0.00229885057471,20,"Give someone credit for something
+
+Give someone the benefit of the doubt
+"
+( NN compound NN ) ( NN nmod NN ) ( NN case TO ),2.0,0.00229885057471,20,"Love someone to bits
+
+Love someone to pieces
+"
+( VB dobj NN ) ( VB nmod NN ) ( NN case IN ) ( NN compound NN ),2.0,0.00229885057471,20,"Take a trip down memory lane
+
+Use someone as a punching bag
+"
+( JJ cop VB ) ( JJ cc CC ) ( JJ conj JJ ),2.0,0.00229885057471,20,"Be alive and kicking
+
+Be short and sweet
+"
+( NNP dep NN ) ( NN nmod NN ) ( NN case TO ),2.0,0.00229885057471,20,"Cut something to the bone
+
+Deal a blow to something
+"
+( NN case IN ),2.0,0.00229885057471,20,"Up the ante
+
+With a vengeance
+"
+( VB advmod RB ) ( RB advmod RB ) ( VB nmod NN ) ( NN case IN ),2.0,0.00229885057471,20,"Come down hard on someone
+
+Read too much into something
+"
+( VB iobj NN ) ( VB dobj NN ) ( NN nmod NN ) ( NN case IN ) ( NN nmod:poss PRP$ ),2.0,0.00229885057471,20,"Give someone a piece of your mind
+
+Give someone a run for their money
+"
+( VBN auxpass VB ) ( VBN compound:prt RP ) ( VBN nmod NN ) ( NN case IN ),2.0,0.00229885057471,20,"Be fed up with something/one
+
+Be hung up on something
+"
+( NN cop VB ) ( NN cc CC ) ( NN conj NN ),2.0,0.00229885057471,20,"Be a ball and chain
+
+Be all doom and gloom
+"
+( VB xcomp JJ ) ( JJ nsubj PRP ) ( JJ advmod RB ),2.0,0.00229885057471,20,"Leave oneself wide open
+
+Spread oneself too thin
+"
+( VB dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN compound NN ),2.0,0.00229885057471,20,"Make one's blood boil
+
+Make one's skin crawl
+"
+( VB dobj CD ) ( CD case POS ) ( VB advmod RB ),2.0,0.00229885057471,20,"Break one's back
+
+Cover one's back
+"
+( NN cop VB ) ( NN nmod:poss NN ) ( NN case POS ) ( NN nmod NN ) ( NN case IN ),2.0,0.00229885057471,20,"Be someone's bag of tricks
+
+Be someone's partner in crime
+"
+( DT cop VB ) ( DT nmod NN ) ( NN case IN ),2.0,0.00229885057471,20,"Be all over someone
+
+Be all over the place
+"
+( NN cop VB ) ( NN amod JJ ) ( NN nmod NN ) ( NN case IN ),2.0,0.00229885057471,20,"Be a bad apple in the barrel
+
+Be a dead ringer for someone
+"
+( VB ccomp VB ) ( VB nsubj NN ),2.0,0.00229885057471,20,"Keep someone posted
+
+Make ends meet
+"
+( NN case VBN ) ( NN case TO ),2.0,0.00229885057471,20,"Come to a crossroads
+
+Come to blows
+"
+( VBN auxpass VB ) ( VBN nmod NN ) ( NN case IN ),2.0,0.00229885057471,20,"Be firing on all cylinders
+
+Be sold on something
+"
+( JJ cop VB ) ( JJ xcomp VB ) ( VB mark TO ),2.0,0.00229885057471,20,"Be hard to swallow
+
+Be ready to roll
+"
+( VB dobj NN ) ( NN nmod NN ) ( NN case IN ) ( NN nmod:poss NN ) ( NN case POS ),2.0,0.00229885057471,20,"Have the ball in someone's court
+
+See the color of someone's money
+"
+( NN cop VB ) ( NN amod VBG ),2.0,0.00229885057471,20,"Be a balancing act
+
+Be a stumbling block
+"
+( VB dobj NN ) ( NN nmod:poss NN ) ( NN case POS ) ( VB advmod RB ),2.0,0.00229885057471,20,"Bite someone's head off
+
+Knock someone's socks off
+"
+( VB compound:prt RP ) ( VB nmod NN ) ( NN case TO ),2.0,0.00229885057471,20,"Get down to business
+
+Go back to basics
+"
+( VB nmod NN ) ( NN case TO ) ( NN nmod NN ) ( NN case IN ),2.0,0.00229885057471,20,"Get to the bottom of something
+
+Go to a lot of trouble
+"
+( VB xcomp RB ) ( RB nsubj NN ),1.0,0.00114942528736,21,"Set the record straight
+"
+( NN neg RB ) ( NN cop VB ) ( NN advmod RB ) ( NN nmod NN ) ( NN case IN ),1.0,0.00114942528736,21,"Not be exactly a barrel of laughs
+"
+( VB advmod RB ) ( RB nmod PRP ) ( PRP case IN ),1.0,0.00114942528736,21,"Get away from it all
+"
+( VBN nsubj NN ) ( NN nmod:poss NN ) ( NN case POS ),1.0,0.00114942528736,21,"Push someone's buttons
+"
+( IN neg RB ) ( IN cop VB ) ( IN nmod NN ) ( NN case TO ),1.0,0.00114942528736,21,"Not be up to par
+"
+( VB advmod RB ) ( VB dobj NN ) ( NN nmod NN ) ( NN case IN ),1.0,0.00114942528736,21,"Only have eyes for someone
+"
+( JJ cop VB ) ( JJ advmod RB ) ( JJ nmod NN ) ( NN case IN ),1.0,0.00114942528736,21,"Be as tough as boots
+"
+( VB dobj NN ) ( NN nmod:poss PRP$ ) ( NN amod JJ ),1.0,0.00114942528736,21,"Catch your second wind
+"
+( VBN auxpass VB ) ( VBN nmod NN ) ( NN case IN ) ( NN nmod NN ) ( NN case IN ),1.0,0.00114942528736,21,"Be sacrifice on the altar of something
+"
+( VBN auxpass VB ) ( VBN compound:prt RP ),1.0,0.00114942528736,21,"Get carried away
+"
+( NN cop VB ) ( NN case IN ) ( NN compound NN ) ( NN nmod NN ) ( NN case IN ),1.0,0.00114942528736,21,"Be on the receiving end of something
+"
+( NN cop VB ) ( NN advmod RB ) ( NN case IN ),1.0,0.00114942528736,21,"Be ahead of the game
+"
+( VB nmod:tmod NN ) ( NN compound NN ),1.0,0.00114942528736,21,"Have a field day
+"
+( VB ccomp VBN ) ( VBN nsubj NN ) ( NN amod VBG ),1.0,0.00114942528736,21,"Let sleeping dogs lie
+"
+( VBG aux VB ) ( VBG nmod NN ) ( NN case IN ) ( NN amod JJ ),1.0,0.00114942528736,21,"Be skating on thin ice
+"
+( CD cop VB ) ( CD advmod RB ) ( CD case IN ) ( CD amod JJ ),1.0,0.00114942528736,21,"Be back at square one
+"
+( VB compound:prt RP ) ( VB nmod NN ) ( NN case IN ) ( NN nummod CD ),1.0,0.00114942528736,21,"Look out for number one
+"
+( NN cop VB ) ( NN compound:prt RP ) ( NN case IN ),1.0,0.00114942528736,21,"Be up in the air
+"
+( VB dobj NN ) ( NN dep TO ) ( NN dep VB ),1.0,0.00114942528736,21,"Lay something to rest
+"
+( VB xcomp RB ) ( RB nsubj PRP ),1.0,0.00114942528736,21,"Get it together
+"
+( NNP dep NN ) ( NN nmod NN ) ( NN advmod RB ) ( NN case IN ) ( NN nmod:poss PRP$ ),1.0,0.00114942528736,21,"Scare someone out of their wits
+"
+( VB nmod:tmod NN ) ( NN amod JJ ) ( NN compound NN ),1.0,0.00114942528736,21,"Have a bad hair day
+"
+( VBN auxpass VB ) ( VBN xcomp JJ ),1.0,0.00114942528736,21,"Be caught short
+"
+( VB dobj PRP ) ( VB nmod NN ) ( NN case IN ),1.0,0.00114942528736,21,"Shoot oneself in the foot
+"
+( VBN auxpass VB ) ( VBN xcomp VBG ) ( VBG dobj NN ),1.0,0.00114942528736,21,"Be left holding the bag
+"
+( NN amod JJ ) ( NN dep NN ) ( NN cc CC ) ( NN conj CD ),1.0,0.00114942528736,21,"Teach someone a thing or two
+"
+( VB dobj NN ) ( NN nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN amod JJ ),1.0,0.00114942528736,21,"Have a taste of one's own medicine
+"
+( VB compound:prt RP ) ( VB xcomp VB ) ( VB mark TO ),1.0,0.00114942528736,21,"Be/get up to speed
+"
+( VB xcomp RB ) ( RB nsubj NN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.00114942528736,21,"Play one's cards right
+"
+( CD nmod NN ) ( NN case IN ),1.0,0.00114942528736,21,"One of those days
+"
+( VB dobj JJR ) ( JJR nmod VBG ) ( VBG case IN ),1.0,0.00114942528736,21,"Get the better of someone/thing
+"
+( NNP cop VB ) ( NNP nummod CD ),1.0,0.00114942528736,21,"Be a Catch 22
+"
+( VBN neg RB ) ( VBN nsubj NN ) ( NN nmod NN ) ( NN case IN ),1.0,0.00114942528736,21,"Don't bank on something
+"
+( JJ cop VB ) ( JJ advmod RB ) ( JJ nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.00114942528736,21,"Be too rich for one's blood
+"
+( VBN nsubj NN ) ( VBN aux VBZ ) ( VBN nmod:tmod NN ) ( NN amod JJR ),1.0,0.00114942528736,21,"Something has seen better days
+"
+( NN case IN ) ( NN nmod NN ) ( NN case TO ),1.0,0.00114942528736,21,"From head to toe
+"
+( VBG aux VB ) ( VBG dobj NN ),1.0,0.00114942528736,21,"Be climbing the walls
+"
+( RP nsubj NN ) ( RP cop VBZ ),1.0,0.00114942528736,21,"The honeymoon is over
+"
+( VBN nmod NN ) ( NN case IN ) ( VBN nmod NN ) ( NN case TO ),1.0,0.00114942528736,21,"Grin from ear to ear
+"
+( VB nmod NN ) ( NN case IN ) ( NN cc CC ) ( NN conj NN ) ( NN amod JJ ),1.0,0.00114942528736,21,"Caught between a rock and a hard place
+"
+( NNP dep NN ) ( NNP dep NN ),1.0,0.00114942528736,21,"Show someone the door
+"
+( VBZ nsubj NN ) ( NN compound NNP ),1.0,0.00114942528736,21,"Cover ones tracks
+"
+( NN cop VB ) ( NN case IN ) ( NN nmod CD ) ( CD case IN ) ( CD case POS ) ( CD amod JJ ),1.0,0.00114942528736,21,"Be in a world of one's own
+"
+( RB nmod NN ) ( NN nmod:poss NN ) ( NN case POS ) ( NN case IN ) ( NN dep NN ),1.0,0.00114942528736,21,"Not someone's cup of tea
+"
+( NN cop VB ) ( NN nsubj NN ),1.0,0.00114942528736,21,"Be none the wiser
+"
+( NN cop VB ) ( NN case IN ) ( NN nmod IN ),1.0,0.00114942528736,21,"Be in cahoots with
+"
+( VB dobj NN ) ( NN amod JJ ) ( VB nmod NN ) ( NN case TO ),1.0,0.00114942528736,21,"Turn a deaf ear to something
+"
+( VB neg RB ) ( VB dobj NN ) ( VB nmod NNP ) ( NNP case IN ),1.0,0.00114942528736,21,"Not know someone from Adam
+"
+( NN cop VB ) ( NN case IN ) ( NN nmod:poss NN ) ( NN case POS ) ( NN amod JJ ),1.0,0.00114942528736,21,"Be in someone's good graces
+"
+( VB dobj NN ) ( VB nsubj NN ),1.0,0.00114942528736,21,"Throw someone a curveball
+"
+( IN cop VB ) ( IN nmod NN ) ( NN case TO ),1.0,0.00114942528736,21,"Be out to lunch
+"
+( VB dobj NN ) ( NN nmod NN ) ( NN case TO ),1.0,0.00114942528736,21,"Have a claim to fame
+"
+( VB dobj NN ) ( VB nmod NNP ) ( NNP case IN ),1.0,0.00114942528736,21,"Keep something under wraps
+"
+( VBN nsubj NN ) ( NN nmod:poss PRP$ ),1.0,0.00114942528736,21,"Push your luck
+"
+( JJ cop VB ) ( JJ advmod RB ),1.0,0.00114942528736,21,"Be wide open
+"
+( NN case IN ) ( NN nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.00114942528736,21,"Off the top of one's head
+"
+( NN nmod NN ) ( NN case IN ) ( NN nmod:poss NN ) ( NN case POS ),1.0,0.00114942528736,21,"Rain on someone's parade
+"
+( VB dobj NN ) ( NN nmod:poss PRP$ ) ( VB advmod RB ),1.0,0.00114942528736,21,"Throw your weight around
+"
+( VB dobj NN ) ( NN amod JJ ) ( NN nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.00114942528736,21,"Have a good head on one's shoulders
+"
+( VB dobj NN ) ( NN amod JJ ) ( VB compound:prt RP ),1.0,0.00114942528736,21,"Take the easy way out
+"
+( NN nsubj NNP ) ( NNP nmod NN ) ( NN case IN ) ( NN cop VBZ ),1.0,0.00114942528736,21,"Hang on someone's every word
+"
+( VB nmod NN ) ( NN case TO ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.00114942528736,21,"Come to one's senses
+"
+( VB dobj PRP ) ( VB nmod:tmod NN ),1.0,0.00114942528736,21,"Call it a day
+"
+( VB dobj NN ) ( VB advcl VBZ ) ( VBZ mark IN ) ( VBZ expl EX ) ( VBZ nmod:tmod NN ),1.0,0.00114942528736,21,"Do something like there's no tomorrow
+"
+( NN cop VB ) ( NN amod JJ ) ( NN acl VB ) ( VB mark TO ),1.0,0.00114942528736,21,"Be a hard act to follow
+"
+( VB nmod NN ) ( NN case IN ) ( NN nmod:poss PRP$ ),1.0,0.00114942528736,21,"Go about your business
+"
+( VB dobj NN ) ( NN nmod:poss PRP$ ) ( VB nmod PRP ) ( PRP case IN ),1.0,0.00114942528736,21,"Put your back into it
+"
+( NNP nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.00114942528736,21,"Cash in one's chips
+"
+( JJ cop VB ) ( JJ amod JJ ),1.0,0.00114942528736,21,"Be a smart alec
+"
+( NN cop VB ) ( NN case IN ) ( NN cc CC ) ( NN conj NN ),1.0,0.00114942528736,21,"Be without rhyme or reason
+"
+( NN cop VB ) ( NN nmod:poss NN ) ( NN case POS ) ( NN cc CC ) ( NN conj NN ),1.0,0.00114942528736,21,"Be someone's bread and butter
+"
+( VB dobj NN ) ( VB advmod RB ) ( RB nmod:npmod NN ),1.0,0.00114942528736,21,"Drive someone up the wall
+"
+( VBN auxpass VB ) ( VBN advmod RB ) ( VBN nmod RB ) ( RB case IN ) ( VBN xcomp VB ) ( VB mark TO ),1.0,0.00114942528736,21,"Be all dressed up with nowhere to go
+"
+( VB advmod NN ) ( NN cc CC ) ( NN conj NN ),1.0,0.00114942528736,21,"Fight tooth and nail
+"
+( NN cop VB ) ( NN nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN amod JJ ),1.0,0.00114942528736,21,"Be a shadow of one's former self
+"
+( VBG neg RB ) ( VBG discourse UH ) ( VBG nmod NN ) ( NN case IN ),1.0,0.00114942528736,21,"Not taking no for an answer
+"
+( VB dobj NN ) ( VB advmod RB ) ( RB nmod NN ) ( NN case TO ) ( NN amod JJ ),1.0,0.00114942528736,21,"Have something down to a fine art
+"
+( VBN auxpass VB ) ( VBN nmod IN ),1.0,0.00114942528736,21,"Be spoken for
+"
+( VB xcomp JJ ) ( JJ nsubj PRP ),1.0,0.00114942528736,21,"Make it big
+"
+( NN cop VB ) ( NN case IN ) ( NN compound NN ),1.0,0.00114942528736,21,"Be in mint condition
+"
+( VB xcomp JJ ) ( JJ nsubj NN ) ( NN amod JJ ),1.0,0.00114942528736,21,"Cut a long story short
+"
+( VB dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VB nmod NN ) ( NN case TO ),1.0,0.00114942528736,21,"Keep one's ear to the ground
+"
+( VB xcomp VB ) ( VB nsubj NN ),1.0,0.00114942528736,21,"Have a screw loose
+"
+( VB dobj NN ) ( VB nmod CD ) ( CD case IN ) ( CD cc CC ) ( CD conj CD ),1.0,0.00114942528736,21,"Take someone down a peg or two
+"
+( NN cop VB ) ( NN nmod:poss CD ) ( CD case POS ) ( NN amod JJS ),1.0,0.00114942528736,21,"Be one's best bet
+"
+( VB dobj NN ) ( NN nmod:poss NN ) ( NN case POS ) ( NN amod JJ ) ( NN compound NN ),1.0,0.00114942528736,21,"Have a bird's-eye view
+"
+( VB nmod NN ) ( NN case IN ) ( VB nmod NN ) ( NN case TO ),1.0,0.00114942528736,21,"Go from rags to riches
+"
+( NN cop VB ) ( NN case IN ) ( NN nmod:poss JJ ) ( JJ case POS ),1.0,0.00114942528736,21,"Be at each other's throats
+"
+( NN mark IN ) ( NN nsubj PRP ) ( NN cop VBZ ) ( NN advmod RB ) ( NN case TO ),1.0,0.00114942528736,21,"With one's back to the wall
+"
+( VB xcomp JJ ) ( JJ nsubj NN ) ( JJ advmod RB ),1.0,0.00114942528736,21,"Blow something wide open
+"
+( VB dobj NN ) ( NN dep RP ) ( NN nmod NN ) ( NN case IN ) ( NN dep VBG ),1.0,0.00114942528736,21,"Get a kick out of (doing) something
+"
+( VB dobj NNP ) ( NNP nmod NN ) ( NN case IN ),1.0,0.00114942528736,21,"Go Dutch with someone
+"
+( NN nmod NN ) ( NN case TO ),1.0,0.00114942528736,21,"Rise to the bait
+"
+( VB nmod NN ) ( NN case IN ) ( NN amod VBG ),1.0,0.00114942528736,21,"Pass with flying colors
+"
+( VB dobj NN ) ( VB nmod NN ) ( NN case TO ) ( NN nmod:poss NN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN case POS ),1.0,0.00114942528736,21,"Do something to one's heart's content
+"
+( VB compound:prt RP ) ( VB cc CC ) ( VB conj VB ) ( VB dobj NN ),1.0,0.00114942528736,21,"Sit up and take notice
+"
+( VB nsubj NNP ) ( NNP nummod CD ) ( VB aux VBZ ),1.0,0.00114942528736,21,"Earn one's keep
+"
+( VBN auxpass VB ) ( VBN nmod NN ) ( NN case IN ) ( NN advmod RB ),1.0,0.00114942528736,21,"Be clued in about something
+"
+( VB nmod NN ) ( NN case IN ) ( NN compound NN ),1.0,0.00114942528736,21,"Live in a dream world
+"
+( VB nmod NN ) ( NN case IN ) ( NN nummod CD ),1.0,0.00114942528736,21,"Look like a million bucks
+"
+( RP cop VB ) ( RP nmod NN ) ( NN case IN ),1.0,0.00114942528736,21,"Be down in the dumps
+"
+( VBN auxpass VB ) ( VBN xcomp VBG ),1.0,0.00114942528736,21,"Be caught napping
+"
+( VB dobj NN ) ( NN nmod NN ) ( NN case IN ) ( NN amod VBN ),1.0,0.00114942528736,21,"Do something behind closed doors
+"
+( VB dobj NN ) ( NN nmod PRP ) ( PRP case IN ),1.0,0.00114942528736,21,"Make an ass of oneself
+"
+( VB dobj NN ) ( NN amod JJ ) ( NN acl VB ) ( VB mark TO ),1.0,0.00114942528736,21,"Have a long way to go
+"
+( JJ cop VB ) ( JJ nmod NN ) ( NN case TO ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.00114942528736,21,"Be close to one's heart
+"
+( VBG aux VB ) ( VBG nmod PRP ) ( PRP case IN ),1.0,0.00114942528736,21,"Be asking for it
+"
+( VBN auxpass VB ) ( VBN nmod NN ) ( NN case TO ),1.0,0.00114942528736,21,"Be thrilled to bits
+"
+( VB ccomp VB ) ( VB nsubj NN ) ( NN nmod:poss PRP$ ) ( VB compound:prt RP ) ( VB nmod PRP ) ( PRP case IN ),1.0,0.00114942528736,21,"Have your work cut out for you
+"
+( VB dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN nmod NN ) ( NN case IN ) ( NN nmod:poss PRP$ ),1.0,0.00114942528736,21,"Wear one's heart on their sleeve
+"
+( JJ cop VB ) ( JJ advcl VBG ) ( VBG mark IN ) ( VBG dobj NN ),1.0,0.00114942528736,21,"Be bent on doing something
+"
+( VB nmod NN ) ( NN case IN ) ( NN compound NN ) ( NN cc CC ) ( NN conj NN ),1.0,0.00114942528736,21,"Wait on someone hand and foot
+"
+( NN neg RB ) ( NN cop VB ) ( NN compound NN ),1.0,0.00114942528736,21,"Not be rocket science
+"
+( NNP dep NN ) ( NN nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN amod JJ ),1.0,0.00114942528736,21,"Wrap someone around one's little finger
+"
+( VBN xcomp JJ ) ( JJ nsubj PRP ) ( VBN nsubj NN ) ( NN nmod:poss NN ) ( NN case POS ),1.0,0.00114942528736,21,"Make it worth someone's while
+"
+( IN cop VB ) ( IN nmod PRP ) ( PRP case IN ),1.0,0.00114942528736,21,"Be out of it
+"
+( NN cop VB ) ( NN amod JJ ) ( NN amod JJ ),1.0,0.00114942528736,21,"Be the boy/girl next door
+"
+( VB dobj NN ) ( VB nsubj NN ) ( NN amod JJ ),1.0,0.00114942528736,21,"Thank ones lucky stars
+"
+( NN dep RB ),1.0,0.00114942528736,21,"Bury the hatchet
+"
+( VBN nmod NN ) ( NN case IN ) ( NN amod JJ ),1.0,0.00114942528736,21,"Sign on the dotted line
+"
+( JJ cop VB ) ( JJ nmod PRP ) ( PRP case IN ),1.0,0.00114942528736,21,"Be full of oneself
+"
+( VB dobj NN ) ( NN acl VBN ) ( VBN nmod IN ),1.0,0.00114942528736,21,"Something the cat dragged in
+"
+( NNP nmod NN ) ( NN case TO ),1.0,0.00114942528736,21,"Cut to the chase
+"
+( VB dobj NN ) ( NN amod JJ ) ( VB nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.00114942528736,21,"Leave a bad taste in one's mouth
+"
+( VB xcomp JJ ) ( JJ advmod RB ) ( JJ nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.00114942528736,21,"Get too big for one's boots
+"
+( JJR cop VB ) ( JJR nmod NN ) ( NN case IN ),1.0,0.00114942528736,21,"Be larger than life
+"
+( CD cop VB ) ( CD nmod NN ) ( NN case IN ),1.0,0.00114942528736,21,"Be one of the boys
+"
+( VB nmod NN ) ( NN case IN ) ( VB nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN advmod JJ ),1.0,0.00114942528736,21,"Go into something with one's eyes open
+"
+( VB advmod RB ) ( RB dep RB ),1.0,0.00114942528736,21,"Be not all there
+"
+( NN compound NN ) ( NN dep NN ) ( NN amod JJ ),1.0,0.00114942528736,21,"Learn something the hard way
+"
+( NN cop VB ) ( NN compound:prt RP ) ( NN case IN ) ( NN nmod NN ) ( NN case IN ),1.0,0.00114942528736,21,"Be up in arms about something
+"
+( VB iobj PRP ) ( VB dobj NN ) ( NN nmod NN ) ( NN case IN ),1.0,0.00114942528736,21,"Give oneself a pat on the back
+"
+( JJR nsubj NN ) ( NN nmod:poss NN ) ( NN case POS ) ( JJR cop VBZ ) ( JJR nmod NN ) ( NN case IN ) ( NN nmod:poss PRP$ ),1.0,0.00114942528736,21,"Someone's bark is worse than their bite
+"
+( NN cop VB ) ( NN case IN ) ( NN nmod:poss NN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN case POS ),1.0,0.00114942528736,21,"Be at one's wit's end
+"
+( DT cop VB ) ( DT nmod NN ) ( NN case IN ) ( NN nmod:poss NN ) ( NN case POS ),1.0,0.00114942528736,21,"Be all in a day's work
+"
+( VB xcomp JJ ) ( JJ nsubj NN ) ( JJ xcomp VB ) ( VB mark TO ),1.0,0.00114942528736,21,"Find something hard to stomach
+"
+( NN cop VBN ) ( NN case IN ),1.0,0.00114942528736,21,"Been around the block
+"
+( VB dobj CD ) ( CD case POS ) ( VB advmod NN ) ( NN case IN ),1.0,0.00114942528736,21,"Stick one's neck out
+"
+( NN cop VB ) ( NN amod JJ ) ( NN compound NN ),1.0,0.00114942528736,21,"Be a mutual admiration society
+"
+( VB dobj JJS ) ( JJS nmod NN ) ( NN case IN ),1.0,0.00114942528736,21,"Make the best of something
+"
+( NNP dep NN ) ( NN nmod NN ) ( NN advmod RB ) ( NN case IN ),1.0,0.00114942528736,21,"Blow something out of the water
+"
+( VBN dobj NN ) ( VBN nsubj NN ) ( NN acl JJ ) ( JJ case IN ),1.0,0.00114942528736,21,"Do someone a world of good
+"
+( VB compound:prt RP ) ( VB dobj NN ) ( NN nmod NN ) ( NN case IN ),1.0,0.00114942528736,21,"Dig up dirt on something/one
+"
+( VB xcomp JJ ) ( JJ nmod NN ) ( NN case IN ),1.0,0.00114942528736,21,"Get hot under the collar
+"
+( VB dobj NN ) ( NN nummod CD ) ( VB nmod NN ) ( NN case IN ) ( NN nummod CD ),1.0,0.00114942528736,21,"Kill two birds with one stone
+"
+( VB dobj NN ) ( NN amod VBG ) ( NN nmod NN ) ( NN case IN ),1.0,0.00114942528736,21,"Have a passing acquaintance with someone
+"
+( VB dobj NN ) ( NN nmod:poss NN ) ( NN case POS ) ( NN nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.00114942528736,21,"Have someone's blood on one's hands
+"
+( VB ccomp VBZ ) ( VBZ nsubj PRP ),1.0,0.00114942528736,21,"Call it quits
+"
+( NN amod JJ ) ( NN dep IN ) ( IN xcomp VB ) ( VB mark TO ),1.0,0.00114942528736,21,"Hang someone out to dry
+"
+( VB dobj NN ) ( NN nummod CD ) ( NN amod JJ ),1.0,0.00114942528736,21,"Have two left feet
+"
+( JJ cop VB ) ( JJ nmod NN ) ( NN case IN ) ( NN nmod:poss NN ) ( NN case POS ),1.0,0.00114942528736,21,"Be right up someone's alley
+"
+( VBG dobj NN ) ( NN acl VBG ) ( VBG cc CC ) ( VBG conj VBG ),1.0,0.00114942528736,21,"Drag someone kicking and screaming
+"
+( VB dep VBN ),1.0,0.00114942528736,21,"Come unhinged
+"
+( VB dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN amod JJ ) ( VB xcomp VB ) ( VB mark TO ) ( VB dobj NN ),1.0,0.00114942528736,21,"Give one's right arm to do something
+"
+( JJ advmod RB ) ( JJ nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.00114942528736,21,"Fall flat on one's face
+"
+( VB nsubj PRP ) ( VB aux MD ) ( VB neg RB ),1.0,0.00114942528736,21,"She won't bite
+"
+( VB aux MD ) ( VB neg RB ) ( VB nsubj NN ),1.0,0.00114942528736,21,"Won't break the bank
+"
+( JJ cop VB ) ( JJ case IN ),1.0,0.00114942528736,21,"Be in the black
+"
+( VB xcomp VB ) ( VB mark TO ),1.0,0.00114942528736,21,"Come to pass
+"
+( VB dobj NN ) ( VB ccomp VB ) ( VB mark TO ),1.0,0.00114942528736,21,"Have something to prove
+"
+( NNP dep NN ) ( NN nmod NN ) ( NN case IN ) ( NN nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.00114942528736,21,"Know something like the back of one's hand
+"
+( JJ cop VB ) ( JJ dep IN ),1.0,0.00114942528736,21,"Be out cold
+"
+( NNP nmod:poss NN ) ( NN amod JJ ) ( NN case POS ),1.0,0.00114942528736,21,"Sing someone's praises
+"
+( VB nmod NN ) ( NN case IN ) ( NN amod JJ ) ( NN compound NN ),1.0,0.00114942528736,21,"Go on a wild goose chase
+"
+( VB dobj PRP ) ( VB advmod RB ) ( RB nmod NN ) ( NN case IN ) ( NN nmod:poss PRP$ ),1.0,0.00114942528736,21,"Pull oneself up by their bootstraps
+"
+( JJ cop VB ) ( JJ nmod NN ) ( NN case TO ),1.0,0.00114942528736,21,"Be dead to the world
+"
+( NNP dep NN ) ( NN nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.00114942528736,21,"Burn a hole in one's pocket
+"
+( NNP dep NNP ) ( NNP case POS ),1.0,0.00114942528736,21,"Catch some Z's
+"
+( VB dobj NN ) ( NN nmod NN ) ( NN case IN ) ( NN nmod:poss PRP$ ) ( VB compound:prt RP ),1.0,0.00114942528736,21,"Catch someone with their pants down
+"
+( VBG dobj NN ) ( VBG nmod NNP ) ( NNP case IN ) ( NNP amod JJ ),1.0,0.00114942528736,21,"Drag someone into the 21st Century
+"
+( VB dobj JJ ) ( JJ nmod:poss PRP$ ),1.0,0.00114942528736,21,"Outstay your welcome
+"
+( VB dobj NN ) ( VB nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN amod JJ ),1.0,0.00114942528736,21,"Do something in one's own time
+"
+( VB nmod NN ) ( NN case TO ) ( NN amod JJ ),1.0,0.00114942528736,21,"Go to first base
+"
+( RP cop VB ) ( RP nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.00114942528736,21,"Be out of one's league
+"
+( VB dobj NN ) ( VB nmod NN ) ( NN case TO ) ( NN nmod:poss NN ) ( NN case POS ),1.0,0.00114942528736,21,"Hold a gun to someone's head
+"
+( VB advcl JJ ) ( JJ case IN ),1.0,0.00114942528736,21,"Come on strong
+"
+( VB dobj NN ) ( NN nmod:poss NN ) ( NN case POS ) ( NN amod JJ ),1.0,0.00114942528736,21,"Do someone's dirty work
+"
+( VBN aux VB ) ( VBN dobj NN ) ( NN amod JJ ) ( NN amod JJ ) ( JJ advmod RB ),1.0,0.00114942528736,21,"Have had one/a few too many
+"
+( VBG mark IN ) ( VBG dobj NN ),1.0,0.00114942528736,21,"Without missing a beat
+"
+( VB dobj NN ) ( NN nmod NN ) ( NN case IN ) ( NN nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.00114942528736,21,"Have eyes in the back of one's head
+"
+( NN cop VB ) ( NN nmod:poss NN ) ( NN case POS ) ( NN amod JJS ),1.0,0.00114942528736,21,"Be someone's finest hour
+"
+( VB nmod NN ) ( NN case IN ) ( VB nmod NN ) ( NN case IN ) ( NN amod JJ ),1.0,0.00114942528736,21,"Go through something with a fine-toothed comb
+"
+( NN cop VB ) ( NN nmod NN ) ( NN case IN ) ( NN amod VBG ),1.0,0.00114942528736,21,"Be a knight in shining armor
+"
+( NN cop VB ) ( NN acl VB ) ( VB mark TO ) ( VB compound:prt RP ),1.0,0.00114942528736,21,"Be a shoulder to cry on
+"
+( NN cop VB ) ( NN advmod RB ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.00114942528736,21,"Be ahead of one's time
+"
+( VB dobj NN ) ( NN nmod:poss NN ) ( NN case POS ) ( NN nmod NN ) ( NN case IN ) ( NN nummod CD ),1.0,0.00114942528736,21,"Put all one's eggs in one basket
+"
+( VBN dobj NN ) ( NN compound NN ) ( VBN compound:prt RP ) ( VBN nsubj NN ),1.0,0.00114942528736,21,"Do something right off the bat
+"
+( VBN auxpass VB ) ( VBN xcomp VB ) ( VB mark TO ),1.0,0.00114942528736,21,"Be dressed to kill
+"
+( VB dobj CD ) ( CD advmod JJR ) ( JJR mwe IN ) ( CD acl VBN ) ( VBN nmod IN ),1.0,0.00114942528736,21,"Get more than one bargained for
+"
+( VB compound:prt RP ) ( VB dobj NN ) ( VB cc CC ) ( VB conj VB ) ( VB nmod PRP ) ( PRP case IN ),1.0,0.00114942528736,21,"Pick up the ball and run with it
+"
+( NN amod JJ ) ( NN amod JJ ) ( NN nmod IN ),1.0,0.00114942528736,21,"Have bad blood (between)
+"
+( JJ cop VB ) ( JJ nmod:npmod RB ),1.0,0.00114942528736,21,"Be a bit much
+"
+( NN neg RB ) ( NN acl VBG ) ( VBG mark IN ) ( VBG dobj NN ),1.0,0.00114942528736,21,"Not dream of doing something
+"
+( NN cop VB ) ( NN case IN ) ( NN nmod:poss NN ) ( NN case POS ) ( NN cc CC ) ( NN conj VB ),1.0,0.00114942528736,21,"Be at someone's beck and call
+"
+( RB cop VB ) ( RB cc CC ) ( RB conj VBG ),1.0,0.00114942528736,21,"Be up and running
+"
+( VB advcl RB ) ( RB case IN ),1.0,0.00114942528736,21,"Go for broke
+"
+( NN dep JJ ) ( JJ mark IN ) ( JJ nsubj NN ) ( JJ cop VBZ ),1.0,0.00114942528736,21,"Strike while the iron is hot
+"
+( VB dobj NN ) ( NN nmod:poss NN ) ( NN case POS ) ( NN nmod NN ) ( NN case IN ),1.0,0.00114942528736,21,"Rub someone's nose in something
+"
+( VB iobj NN ) ( VB dobj NN ) ( VB advcl RP ),1.0,0.00114942528736,21,"Give someone the thumbs up
+"
+( VBN dep RB ) ( VBN nsubj NN ) ( NN acl VBG ) ( VBG compound:prt RP ),1.0,0.00114942528736,21,"Not take something lying down
+"
+( JJR cop VB ) ( JJR nmod NN ) ( NN case IN ) ( NN nummod CD ),1.0,0.00114942528736,21,"Be the lesser of two evils
+"
+( VB nmod NN ) ( NN advmod NN ) ( NN case IN ) ( NN case IN ) ( NN case IN ),1.0,0.00114942528736,21,"Pull the rug out from under someone
+"
+( VB compound:prt RP ) ( VB nmod NN ) ( NN case IN ) ( NN nmod:poss PRP$ ) ( NN acl VB ) ( VB mark TO ) ( VB dobj NN ),1.0,0.00114942528736,21,"Go out of your way to do something
+"
+( VB dobj PRP ) ( VB nmod NN ) ( NN case IN ) ( NN nmod:poss NN ) ( NN advmod RB ) ( NN case POS ),1.0,0.00114942528736,21,"Put oneself in someone else's shoes
+"
+( VB dobj NN ) ( VB compound:prt RP ),1.0,0.00114942528736,21,"Go belly up
+"
+( VB dobj NN ) ( NN acl:relcl NN ) ( NN nsubj WP ) ( NN cop VBZ ),1.0,0.00114942528736,21,"Show someone who's boss
+"
+( VB dobj NN ) ( NN dep RP ) ( NN nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.00114942528736,21,"Get something out of one's system
+"
+( NN cop VB ) ( NN amod JJ ) ( NN dep RP ),1.0,0.00114942528736,21,"Be the odd one out
+"
+( VB dobj CD ) ( CD case POS ) ( CD amod JJ ),1.0,0.00114942528736,21,"Hold one's own
+"
+( VB compound:prt RP ) ( VB nmod NN ) ( NN case IN ) ( NN compound NN ),1.0,0.00114942528736,21,"Get in on the ground floor
+"
+( NNP dep NN ) ( NN compound NN ) ( NN nmod NN ) ( NN advmod RB ) ( NN case IN ),1.0,0.00114942528736,21,"Scare the living daylights out of someone
+"
+( VB dobj NN ) ( NN nummod CD ) ( CD advmod JJR ) ( JJR mwe IN ),1.0,0.00114942528736,21,"Wear more than one hat
+"
+( VBN neg RB ) ( VBN auxpass VB ) ( VBN compound:prt RP ) ( VBN nmod NN ) ( NN case IN ),1.0,0.00114942528736,21,"Not be cut out for something
+"
+( VBN aux VB ) ( VBN nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.00114942528736,21,"Have butterflies in one's stomach
+"
+( VB compound:prt RP ) ( VB nmod NN ) ( NN case IN ) ( NN amod JJ ) ( NN nmod NN ) ( NN case IN ),1.0,0.00114942528736,21,"Get up on the wrong side of the bed
+"
+( NN cop VB ) ( NN nmod NNP ) ( NNP case IN ),1.0,0.00114942528736,21,"Be a blessing in disguise
+"
+( VB dobj NN ) ( NN acl VBG ),1.0,0.00114942528736,21,"Hit the ground running
+"
+( VBN auxpass VB ) ( VBN compound:prt RP ) ( VBN advmod RB ),1.0,0.00114942528736,21,"Be let off lightly
+"
+( VB aux MD ) ( VB neg RB ) ( VB nmod IN ) ( VB nsubj PRP ),1.0,0.00114942528736,21,"Couldn't do without it
+"
+( VB nmod:tmod NN ) ( NN nmod:poss NN ) ( NN case POS ),1.0,0.00114942528736,21,"Make someone's day
+"

@@ -1,0 +1,19 @@
+dependency,frequency,norm,samples
+( VB dobj PRP ) ( VB nmod NN ) ( NN case IN ),1.0,0.111111111111,"Shoot oneself in the foot
+"
+( VB compound:prt RP ) ( VB nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.111111111111,"Get back on one's feet
+"
+( VB compound:prt RP ) ( VB nmod NN ) ( NN case IN ) ( NN amod JJ ),1.0,0.111111111111,"Get off on the wrong foot
+"
+( VB dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VB advmod RB ),1.0,0.111111111111,"Put one's foot down
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.111111111111,"Drag one's feet
+"
+( VB nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.111111111111,"Think on one's feet
+"
+( VB dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN nmod NN ) ( NN case IN ),1.0,0.111111111111,"Have one's foot in the door
+"
+( NN case IN ) ( NN compound NN ) ( NN cc CC ) ( NN conj NN ),1.0,0.111111111111,"Wait on someone hand and foot
+"
+( VB dobj NN ) ( NN nummod CD ) ( NN amod JJ ),1.0,0.111111111111,"Have two left feet
+"

@@ -1,0 +1,81 @@
+dependency,frequency,norm,samples
+( NN compound NN ),4.0,0.1,"A slack mouth
+
+A downturned mouth
+
+A pinched mouth
+
+A thinning mouth
+"
+( NNP compound NNP ),3.0,0.075,"Mouth drying
+
+Mouth slackening
+
+Dry mouth
+"
+( NN nmod NN ) ( NN case IN ),2.0,0.05,"Holding one's elbow while the opposite hand makes a fist against the mouth
+
+Pressing a fist against the mouth and puffing out the cheeks
+"
+( NN amod JJ ),2.0,0.05,"A dry mouth
+
+A gaping mouth
+"
+( NNP dep VBG ) ( VBG xcomp JJ ),2.0,0.05,"Mouth going dry
+
+Mouth falling open
+"
+( VBG dobj NN ),2.0,0.05,"Opening and closing the mouth
+
+Turning away and covering the mouth
+"
+( NN amod JJ ) ( NN nmod NN ) ( NN case TO ),2.0,0.05,"An ugly twist to the mouth
+
+A grim twist to the mouth
+"
+( VBZ nsubj NN ) ( NN acl:relcl VBZ ) ( VBZ nmod NN ) ( NN case CC ) ( VBZ compound:prt RP ),1.0,0.025,"A mouth that opens but nothing comes out
+"
+( NN dep NN ) ( NN nmod NN ) ( NN case IN ) ( NN appos NN ),1.0,0.025,"A mouth that curls with dislike, sneering
+"
+( VB nsubj NN ) ( NN acl VBG ) ( VBG xcomp NN ) ( VB dobj NN ),1.0,0.025,"The mouth becoming moist, increased saliva
+"
+( VB dobj NN ) ( NN acl VB ) ( VB mark TO ) ( VB dobj NN ) ( VB advcl VBG ) ( VBG advmod RB ) ( VBG dobj JJR ) ( JJR nmod PRP ) ( PRP case IN ),1.0,0.025,"Opening the mouth to say something, then thinking better of it
+"
+( NN case IN ) ( NN nmod NN ) ( NN case IN ),1.0,0.025,"Spittle building up in the corners of the mouth
+"
+( VBG dobj NN ) ( NN amod JJ ) ( VBG nmod NN ) ( NN case IN ),1.0,0.025,"Bouncing a curled knuckle against the mouth
+"
+( NN dep NN ) ( NN dep NN ),1.0,0.025,"A hand that cups the mouth
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ) ( NN amod JJ ) ( VBG cc CC ) ( VBG conj VBG ) ( VBG dobj NN ),1.0,0.025,"Drawing the mouth into a straight line and biting the lip
+"
+( NNP dep NN ) ( NN nmod NN ) ( NN case IN ) ( NN appos NN ) ( NN amod JJ ) ( JJ cc CC ) ( JJ conj JJ ),1.0,0.025,"Covering the mouth with a hand, eyes wide and shining
+"
+( VBG nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG cc CC ) ( VBG conj NN ),1.0,0.025,"Rubbing at one's nose or mouth
+"
+( NN compound NN ) ( NN nmod NN ) ( NN case CC ) ( NN acl VBG ),1.0,0.025,"The mouth opening, but no words forming
+"
+( VB mark TO ) ( VB dobj NN ) ( NN cc CC ) ( NN conj NN ),1.0,0.025,"Pulling up a collar to cover the mouth and nose
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN cc CC ) ( NN conj NN ),1.0,0.025,"Touching one's mouth or face
+"
+( NNP dep NN ) ( NN nmod NN ) ( NN case IN ),1.0,0.025,"Covering the mouth with a hand
+"
+( NN acl VBG ) ( VBG xcomp JJ ),1.0,0.025,"The mouth falling open
+"
+( NN dep VBG ) ( VBG compound:prt RP ),1.0,0.025,"The mouth turning down
+"
+( VBG advmod RB ) ( VBG nmod NN ) ( NN case IN ),1.0,0.025,"Inhaling deeply through the nose, then exhaling through the mouth
+"
+( NN case IN ) ( NN acl VB ) ( VB mark TO ) ( NN dep VBG ) ( VBG advmod RB ) ( VBG xcomp JJ ),1.0,0.025,"Opening the mouth to criticize, then stopping short
+"
+( VB dobj NN ),1.0,0.025,"Covering the mouth
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.025,"A hand covering one's mouth
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case TO ),1.0,0.025,"Pressing a fist to the mouth
+"
+( NN amod JJ ) ( NN nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.025,"A sour taste in one's mouth
+"
+( NN compound NN ) ( NN conj NN ) ( NN cc CC ) ( NN conj NN ),1.0,0.025,"Gaping, stuttering, mouth opening and closing
+"

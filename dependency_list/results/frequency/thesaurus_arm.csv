@@ -1,0 +1,125 @@
+dependency,frequency,norm,samples
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ),8.0,0.129032258065,"Folding the arms across the chest
+
+Curling the arms over the head
+
+Folding the arms over the stomach
+
+Crossing the arms over the chest
+
+Pinning the arms against the stomach
+
+Swinging the arms while walking
+
+Wrapping arms around self
+
+Bending forward, laying head on arms
+"
+( VBG nmod NN ) ( NN case IN ) ( NN nmod:poss NN ) ( NN case POS ),2.0,0.0322580645161,"Hugging, grabbing onto someone's arm and holding it
+
+Grabbing onto a friend's arm
+"
+( NN compound NN ),2.0,0.0322580645161,"Sweeping arm gestures
+
+Flexing the fingers or arm muscles
+"
+( VBG cc CC ) ( VBG conj VBG ) ( VBG dobj NN ) ( NN cc CC ) ( NN conj NN ),2.0,0.0322580645161,"Crossing and uncrossing arms or legs
+
+Crossing and uncrossing the arms or legs
+"
+( VBG dobj NN ) ( NN cc CC ) ( NN conj NN ),2.0,0.0322580645161,"Rubbing the arms or legs
+
+Crossing the arms or legs
+"
+( NN nmod:poss CD ) ( CD case POS ) ( NN amod JJ ) ( NN cc CC ) ( NN conj NN ) ( NN nmod NN ) ( NN case IN ),1.0,0.0161290322581,"Stroking one's own neck or arm as a surrogate
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG advcl VBG ) ( VBG mark IN ),1.0,0.0161290322581,"Crossing one's arms while observing
+"
+( VBN nsubj NN ) ( VBN nmod NN ) ( NN case IN ),1.0,0.0161290322581,"Arms crossed over the chest
+"
+( VB advmod RB ) ( RB advmod RB ) ( VB nsubj NN ) ( VB nmod NN ) ( NN case IN ) ( NN nmod NN ) ( NN case IN ),1.0,0.0161290322581,"Leaning back, an arm hooked over the back of a chair
+"
+( NN dep NN ) ( NN nmod NN ) ( NN case IN ),1.0,0.0161290322581,"Arms hanging at the sides
+"
+( JJ dep NN ) ( JJ advcl VBG ) ( VBG mark IN ),1.0,0.0161290322581,"Arms swinging while walking
+"
+( NN dep VBG ) ( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ) ( NN amod JJ ),1.0,0.0161290322581,"Arms crossing the stomach in a protective huddle
+"
+( NN dep NN ) ( NN compound NN ) ( NN nmod NN ) ( NN case IN ),1.0,0.0161290322581,"Arms hanging limply at the sides
+"
+( VBG dobj NN ) ( NN nmod:poss NN ) ( NN case POS ) ( VBG nmod NN ) ( NN case TO ) ( NN acl JJ ) ( JJ case IN ),1.0,0.0161290322581,"Squeezing someone's arm to the point of bruising
+"
+( VBG dobj NN ) ( NN cc CC ) ( NN conj NN ) ( VBG nmod NN ) ( NN case IN ) ( NN case IN ),1.0,0.0161290322581,"Pulling arms and legs in toward the core
+"
+( NN case IN ) ( NN conj NN ) ( NN cc CC ) ( NN conj NN ),1.0,0.0161290322581,"Visible tension in the neck, shoulders, and arms
+"
+( NN amod JJ ),1.0,0.0161290322581,"Crossed arms
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG cc CC ) ( VBG conj VBG ) ( VBG compound:prt RP ),1.0,0.0161290322581,"Rubbing one's arms and looking around
+"
+( VBZ nsubj JJ ) ( JJ appos NN ) ( NN acl VBN ) ( VBN nmod NN ) ( NN case IN ),1.0,0.0161290322581,"Arms straight, hands locked into fists
+"
+( NN case IN ) ( NN cc CC ) ( NN conj NN ),1.0,0.0161290322581,"Hair lifting on the nape and arms
+"
+( VBZ nsubj NN ) ( NN acl VBG ) ( VBG nmod NN ) ( NN case TO ),1.0,0.0161290322581,"Arms falling to sides, lifeless
+"
+( NN acl VBG ) ( VBG nmod NN ) ( NN case IN ) ( NN nmod NN ) ( NN case IN ),1.0,0.0161290322581,"Arms crossing in front of the chest
+"
+( VBG nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG cc CC ) ( VBG conj JJ ),1.0,0.0161290322581,"Clutching at one's arms or stomach
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case TO ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.0161290322581,"Clutching arms to one's chest
+"
+( VBN nsubj NN ) ( VBN nmod NN ) ( NN case IN ) ( NN appos NN ),1.0,0.0161290322581,"Arms hang at the sides, slack
+"
+( VBG dobj NN ) ( NN cc CC ) ( NN conj NN ) ( VBG nmod NN ) ( NN case IN ) ( VBG nmod NN ) ( NN case TO ),1.0,0.0161290322581,"Keeping arms and legs in close to the body
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.0161290322581,"Crossing the arms over one's chest
+"
+( VB nsubj NN ) ( NN acl VBG ) ( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VB dobj NN ) ( NN compound NN ),1.0,0.0161290322581,"Arms crossing one's chest, closed body posture
+"
+( NN acl VBG ) ( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN acl VB ) ( VB mark IN ) ( VB mark IN ) ( VB mark TO ) ( VB dobj PRP ) ( VB advmod RB ),1.0,0.0161290322581,"Arms clutching one's body as if to hold it together
+"
+( VBG dobj NN ) ( NN nmod:poss NN ) ( NN case POS ) ( NN acl VB ) ( VB mark TO ) ( VB dobj PRP ) ( VB advcl VBG ) ( VBG mark IN ),1.0,0.0161290322581,"Wrenching an enemy's arm to stop them from leaving
+"
+( VBG advmod RB ) ( VBG nmod NN ) ( NN case IN ),1.0,0.0161290322581,"Rubbing absently at the arms
+"
+( NN dep VBG ) ( VBG compound:prt RP ) ( VBG nmod NN ) ( NN case IN ),1.0,0.0161290322581,"Arms tucking in at the sides
+"
+( VBG dobj NN ) ( VBG compound:prt RP ) ( VBG nmod NN ) ( NN case IN ) ( NN compound NN ),1.0,0.0161290322581,"Holding arms up in a victory V
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG nmod NN ) ( NN case IN ),1.0,0.0161290322581,"Pulling the knees up to the chest, circling one's knees with the arms
+"
+( VBG dobj NN ) ( VBG advcl JJ ) ( JJ case IN ),1.0,0.0161290322581,"Stretching the arms out wide
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.0161290322581,"Crossing one's arms
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ) ( NN nmod NN ) ( NN case IN ),1.0,0.0161290322581,"Crossing arms in front of chest
+"
+( VBG nmod NN ) ( NN case IN ) ( NN nummod CD ) ( NN acl VBG ) ( VBG dobj JJ ) ( VBG nmod NN ) ( NN case IN ),1.0,0.0161290322581,"Standing with one arm holding the other at the elbow
+"
+( VBG dobj NN ),1.0,0.0161290322581,"Crossing the arms
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG nmod NN ) ( NN case IN ) ( NN nmod NN ) ( NN case IN ) ( NN nmod NN ) ( NN case IN ),1.0,0.0161290322581,"Stroking one's arm as a surrogate for the object of desire
+"
+( NN nsubj NN ) ( NN acl VBG ) ( VBG nmod CD ) ( CD case IN ) ( NN cop VBZ ),1.0,0.0161290322581,"Arms hanging at one's sides
+"
+( JJ advmod RB ) ( JJ nmod NN ) ( NN case TO ),1.0,0.0161290322581,"Arms tight to the body
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN amod JJ ) ( VBG nmod NN ) ( NN case IN ),1.0,0.0161290322581,"Rubbing one's upper arms for comfort
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ) ( NN nmod:poss NN ) ( NN case POS ),1.0,0.0161290322581,"Putting an arm around someone's shoulders
+"
+( VBG dobj NN ) ( VBG advmod RB ) ( RB nmod NN ) ( NN case IN ),1.0,0.0161290322581,"Crossing the arms tightly over the chest
+"
+( NN nsubj NN ) ( NN nmod NN ) ( NN case IN ) ( NN acl VBG ) ( VBG nmod CD ) ( CD case IN ) ( NN cop VBZ ) ( NN cc CC ) ( NN conj NN ),1.0,0.0161290322581,"A sensation of hair raising on one's arms and nape
+"
+( VB nsubj NN ) ( VB dep RB ) ( RB dep IN ) ( VB mark RB ) ( RB mwe IN ) ( VB mark TO ) ( VB dobj NN ),1.0,0.0161290322581,"Holding the arms out wide as if to hug the world
+"
+( VB advcl VBG ) ( VB nsubj NN ) ( VB nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.0161290322581,"Listening, arms crossed over one's chest
+"
+( VB nsubj NN ),1.0,0.0161290322581,"Arms crossed
+"
+( VBG compound:prt RP ) ( VBG dobj NN ) ( NN cc CC ) ( NN conj NN ) ( VBG dep VBG ) ( VBG dobj NN ) ( NN amod JJ ),1.0,0.0161290322581,"Flinging out the arms and legs, taking a wide stance
+"
+( NN cc CC ) ( NN conj NN ),1.0,0.0161290322581,"Limp hands and arms
+"

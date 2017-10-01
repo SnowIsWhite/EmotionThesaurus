@@ -1,0 +1,55 @@
+dependency,frequency1,frequency2,norm1,norm2,rank1,rank2,samples1,samples2
+( NN nmod NN ) ( NN case IN ),5.0,2.0,0.0694444444444,0.00229885057471,1,20,"Leaning back in a chair, hands behind the head
+
+A shake of the head
+
+Tugging a hat down low or pulling a hood over the head
+
+Tossing one's hair back, a shake of the head
+
+Gripping the sides of the head as if to cover the ears
+","Fall through the cracks
+
+No bed of roses
+"
+( NN compound NN ),4.0,2.0,0.0555555555556,0.00229885057471,2,20,"A tilted-back head
+
+A bowed head
+
+A hanging head
+
+Letting the head fall back
+","Strike gold
+
+Talk shop
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ),3.0,1.0,0.0416666666667,0.00114942528736,3,21,"Curling the arms over the head
+
+Lacing fingers behind the head
+
+Bending forward, laying head on arms
+","Drag someone through the mud
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ),2.0,1.0,0.0277777777778,0.00114942528736,4,21,"Lowering one's head
+
+Shaking one's head
+","Drag one's feet
+"
+( VB dobj NN ) ( NN amod VBG ),1.0,1.0,0.0138888888889,0.00114942528736,5,21,"Soft head shaking
+","Do a vanishing act
+"
+( NN amod JJ ) ( NN compound NN ),1.0,1.0,0.0138888888889,0.00114942528736,5,21,"Jerky head movements
+","Blow something sky-high
+"
+( NNP dep NN ) ( NN nmod NN ) ( NN case IN ),1.0,3.0,0.0138888888889,0.00344827586207,5,19,"Holding the head in the hands
+","Blow the whistle on something
+
+Burn the candle at both ends
+
+Pat someone on the back
+"
+( NNP compound NNP ),1.0,2.0,0.0138888888889,0.00229885057471,5,20,"Head shaking
+","Go ballistic
+
+Remain nameless
+"

@@ -1,0 +1,35 @@
+dependency,frequency,norm,samples
+( NN amod JJ ),4.0,0.235294117647,"Muscles quivering
+
+Tight muscles
+
+Muscles bunching
+
+Tense muscles
+"
+( VB dobj NN ),2.0,0.117647058824,"Slack muscles
+
+Weak muscles
+"
+( VB dobj NN ) ( VB nmod NN ) ( NN case IN ),1.0,0.0588235294118,"Visible tension in the muscles
+"
+( NNP compound NNP ) ( NNP appos NN ) ( NNP dep NN ),1.0,0.0588235294118,"Facial tics, muscles that jump
+"
+( VB dobj NN ) ( NN amod VBG ) ( NN appos NN ) ( NN amod JJ ) ( JJ xcomp VB ) ( VB mark TO ),1.0,0.0588235294118,"Leg muscles tightening, the body ready to run
+"
+( VB dobj NN ) ( NN amod JJ ),1.0,0.0588235294118,"Muscles losing tension
+"
+( NN case IN ) ( NN cc CC ) ( NN conj NN ),1.0,0.0588235294118,"Heaviness in the limbs or muscles
+"
+( VB xcomp VBG ) ( VBG nmod NN ) ( NN case IN ),1.0,0.0588235294118,"Muscles jumping under the skin
+"
+( NN amod JJ ) ( NN compound NN ) ( NN appos NN ) ( NN amod JJ ),1.0,0.0588235294118,"A sudden stiffening posture, rigid muscles
+"
+( NN cc CC ) ( NN conj NN ) ( NN compound NN ),1.0,0.0588235294118,"Flexing the fingers or arm muscles
+"
+( VBN dobj NN ) ( NN compound NN ),1.0,0.0588235294118,"Rigid and defined forearm muscles
+"
+( NN cc CC ) ( NN conj NN ) ( NN acl VBG ) ( VBG nmod NN ) ( NN case IN ),1.0,0.0588235294118,"Muscles and veins straining against skin
+"
+( NN amod JJ ) ( NN appos NN ) ( NN amod JJ ),1.0,0.0588235294118,"A stiff neck, strained muscles
+"

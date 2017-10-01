@@ -1,0 +1,11 @@
+dependency,frequency,norm,samples
+( VB dobj NN ) ( VB nmod NN ) ( NN case IN ) ( NN amod JJ ),1.0,0.2,"Welcome someone with open arms
+"
+( NN dep NN ) ( NN cc CC ) ( NN conj NN ),1.0,0.2,"Cost an arm and a leg
+"
+( NN nmod:poss NN ) ( NN amod JJ ) ( NN case POS ),1.0,0.2,"Twist someone's arm
+"
+( NN cop VB ) ( NN compound:prt RP ) ( NN case IN ) ( NN nmod NN ) ( NN case IN ),1.0,0.2,"Be up in arms about something
+"
+( VB dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN amod JJ ) ( VB xcomp VB ) ( VB mark TO ) ( VB dobj NN ),1.0,0.2,"Give one's right arm to do something
+"

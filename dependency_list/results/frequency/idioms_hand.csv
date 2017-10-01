@@ -1,0 +1,19 @@
+dependency,frequency,norm,samples
+( VB dobj NN ) ( VB nmod NN ) ( NN case IN ),1.0,0.111111111111,"Go hand in hand
+"
+( VB compound:prt RP ) ( VB nmod NN ) ( NN case IN ),1.0,0.111111111111,"Get out of hand
+"
+( VBN nsubjpass NN ) ( NN nmod:poss NN ) ( NN case POS ) ( VBN auxpass VBN ),1.0,0.111111111111,"Someone's hands are tied
+"
+( VB dobj NN ) ( NN amod JJ ),1.0,0.111111111111,"Get the upper hand
+"
+( VB dobj NN ),1.0,0.111111111111,"Lend a hand
+"
+( NN case IN ) ( NN nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.111111111111,"Know something like the back of one's hand
+"
+( NN nmod:poss NN ) ( NN case POS ) ( NN nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.111111111111,"Have someone's blood on one's hands
+"
+( JJ nsubj NN ) ( NN nmod:poss PRP$ ),1.0,0.111111111111,"Get your hands dirty
+"
+( VB nmod NN ) ( NN case IN ) ( NN compound NN ) ( NN cc CC ) ( NN conj NN ),1.0,0.111111111111,"Wait on someone hand and foot
+"

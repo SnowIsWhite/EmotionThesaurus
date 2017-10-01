@@ -1,0 +1,16 @@
+verb,frequency,norm,pmi,samples
+lift,3.0,0.115384615385,1.20697018386,"Lifting one's chin to expose the neck
+		Lifting the chin in an attempt to look confident
+		Lifting the chin
+"
+dip,2.0,0.0769230769231,1.05648923293,"The chin dipping down
+		Chin dipping to the chest, adopting a slumped posture
+"
+lower,1.0,0.0384615384615,0.593865710979,"Lowering the chin to look down on someone
+"
+rub,1.0,0.0384615384615,0.265361644006,"Rubbing the chin
+"
+tilt,1.0,0.0384615384615,0.488505195321,"Tilting the chin down and frowning
+"
+drop,1.0,0.0384615384615,0.680877087968,"Dropping the chin to the chest
+"

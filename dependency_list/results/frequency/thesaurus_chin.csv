@@ -1,0 +1,53 @@
+dependency,frequency,norm,samples
+( NN compound NN ),2.0,0.0769230769231,"A trembling chin
+
+A jutting chin
+"
+( VBG dobj NN ),2.0,0.0769230769231,"Rubbing the chin
+
+Lifting the chin
+"
+( NN cc CC ) ( NN conj NN ),2.0,0.0769230769231,"Trembling lips and chin
+
+Rubbing the lips or chin
+"
+( NNP dep VBG ) ( VBG nmod NN ) ( NN case TO ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.0384615384615,"Chin lowering to one's chest
+"
+( NN compound NNP ),1.0,0.0384615384615,"Chin tremors
+"
+( NN amod JJ ) ( NN cc CC ) ( NN conj NN ) ( NN amod JJ ),1.0,0.0384615384615,"Bottom lip or chin trembling
+"
+( NN amod JJ ),1.0,0.0384615384615,"A high chin
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN acl VB ) ( VB mark TO ) ( VB dobj NN ),1.0,0.0384615384615,"Lifting one's chin to expose the neck
+"
+( NNP dep VBG ) ( VBG cc CC ) ( VBG conj VBG ) ( VBG advmod RB ) ( VBG nmod NN ) ( NN case IN ),1.0,0.0384615384615,"Chin lowering and pulling back against the neck
+"
+( VBG dobj NN ) ( NN nmod NN ) ( NN case IN ) ( NN acl VB ) ( VB mark TO ) ( VB xcomp JJ ),1.0,0.0384615384615,"Lifting the chin in an attempt to look confident
+"
+( NN amod JJ ) ( NN compound NN ) ( NN appos NN ) ( NN amod JJ ),1.0,0.0384615384615,"A hard jaw line, a jutting chin
+"
+( VBG dobj NN ) ( NN acl VB ) ( VB mark TO ) ( VB compound:prt RP ) ( VB nmod NN ) ( NN case IN ),1.0,0.0384615384615,"Lowering the chin to look down on someone
+"
+( NN amod JJ ) ( NN cc CC ) ( NN acl VBN ) ( VBN advmod NN ),1.0,0.0384615384615,"A high chin and exposed neck
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case TO ),1.0,0.0384615384615,"Dropping the chin to the chest
+"
+( NN dep NN ),1.0,0.0384615384615,"A chin that trembles
+"
+( VB nsubj NNP ) ( VB nmod NN ) ( NN case TO ) ( VB xcomp VBG ) ( VBG dobj NN ) ( NN amod JJ ),1.0,0.0384615384615,"Chin dipping to the chest, adopting a slumped posture
+"
+( VBG dobj NN ) ( VBG compound:prt RP ) ( VBG cc CC ) ( VBG conj VBG ),1.0,0.0384615384615,"Tilting the chin down and frowning
+"
+( NN amod VBG ),1.0,0.0384615384615,"A quivering chin
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ),1.0,0.0384615384615,"Clasping hands under the chin
+"
+( VBZ nsubj NN ) ( VBZ compound:prt RP ),1.0,0.0384615384615,"The chin dipping down
+"
+( NN compound NN ) ( NN nmod NN ) ( NN case IN ),1.0,0.0384615384615,"Hugging one's shoulders, chin resting on the chest
+"
+( NNP dep VBG ) ( VBG advmod RB ),1.0,0.0384615384615,"Chin poking forward
+"
+( NN amod VBG ) ( NN cc CC ) ( NN conj NN ),1.0,0.0384615384615,"Trembling chin and lips
+"

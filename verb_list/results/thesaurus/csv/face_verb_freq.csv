@@ -1,0 +1,17 @@
+verb,frequency,norm,pmi,samples
+hide,3.0,0.075,1.23294567027,"Using hair to hide one's face
+		Using the hair to hide the face
+		Hiding the face
+"
+scrunch,1.0,0.025,0.680877087968,"Scrunching up the face and then releasing, trying to regain calm
+"
+rub,1.0,0.025,0.265361644006,"Repeatedly rubbing the face
+"
+light,1.0,0.025,0.680877087968,"A smile that has a genuine build and lights up the face
+"
+cover,1.0,0.025,0.539798489708,"Covering the face
+"
+turn,1.0,0.025,0.651024124818,"Head tipping back, turning one's face to the sky
+"
+touch,1.0,0.025,0.46381258273,"Hands repeatedly rising to touch one's face
+"

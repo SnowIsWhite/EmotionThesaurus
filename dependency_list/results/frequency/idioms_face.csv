@@ -1,0 +1,15 @@
+dependency,frequency,norm,samples
+( JJ advmod RB ) ( JJ nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.142857142857,"Fall flat on one's face
+"
+( VB nmod NN ) ( NN case IN ) ( NN amod JJ ),1.0,0.142857142857,"Put on a brave face
+"
+( VB dobj NN ) ( NN amod JJ ),1.0,0.142857142857,"Keep a straight face
+"
+( VB compound:prt RP ) ( VB nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.142857142857,"Blow up in one's face
+"
+( VB dobj NN ) ( VB nmod NN ) ( NN case IN ) ( NN nmod:poss NN ) ( NN case POS ),1.0,0.142857142857,"Wipe the grin off someone's face
+"
+( NN cop VB ) ( NN case IN ) ( NN nmod NN ) ( NN case IN ),1.0,0.142857142857,"Be like a slap in the face
+"
+( VBN nsubj NN ),1.0,0.142857142857,"Face the music
+"

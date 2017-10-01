@@ -1,0 +1,7 @@
+dependency,frequency,norm,samples
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ) ( NN compound NN ),1.0,0.333333333333,"Skimming fingertips along the jaw line
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG nmod NN ) ( NN case TO ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.333333333333,"Touching one's fingertips to one's lips
+"
+( VBG dobj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( VBG advmod RB ),1.0,0.333333333333,"Touching one's fingertips together
+"

@@ -1,0 +1,83 @@
+dependency,frequency,norm,samples
+( NN amod JJ ),6.0,0.146341463415,"Bumping shoulders
+
+Tight shoulders
+
+Drooping shoulders
+
+Slumped shoulders
+
+Quaking shoulders
+
+Hunched shoulders
+"
+( NN dep NN ) ( NN nmod NN ) ( NN case IN ),2.0,0.0487804878049,"Shoulders that curl over the chest
+
+Shoulders curling over chest
+"
+( VB xcomp VBG ) ( VBG advmod RB ),2.0,0.0487804878049,"Shoulders pushing back
+
+Shoulders hunching slightly
+"
+( NN amod JJ ) ( NN dep VBG ) ( VBG dobj NN ) ( VBG advmod RB ),1.0,0.0243902439024,"A single shoulder shrug that breaks quickly
+"
+( VB advmod RB ) ( VB cc CC ) ( VB conj RB ),1.0,0.0243902439024,"Shoulders straight and back
+"
+( VBG dobj NN ) ( NN nmod:poss NN ) ( NN case POS ) ( VBG nmod NN ) ( NN case IN ) ( NN nmod NN ) ( NN case IN ) ( NN nmod:poss PRP$ ),1.0,0.0243902439024,"Using a friend's shoulder as a shelf for your elbow
+"
+( VBN nsubj NN ) ( VBN cop VBN ) ( VBN cc CC ) ( VBN conj RB ),1.0,0.0243902439024,"Shoulders are lowered and loose
+"
+( VB dobj NN ) ( NN amod JJ ) ( VB advcl VBG ) ( VBG mark RB ) ( RB mwe IN ) ( VBG nsubj NN ) ( NN nmod:poss CD ) ( CD case POS ) ( NN amod JJ ) ( VBG aux VBZ ) ( VBG dobj NN ),1.0,0.0243902439024,"Violently rolling shoulders as if one's own clothing is creating discomfort
+"
+( NN case IN ) ( NN conj NN ) ( NN cc CC ) ( NN conj NN ),1.0,0.0243902439024,"Tension in the face, shoulders and neck
+"
+( VBG advmod RB ) ( VBG dobj NN ),1.0,0.0243902439024,"Lightly touching a shoulder
+"
+( VBG dep VBG ) ( VBG dep VBG ) ( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ) ( NN nmod:poss PRP$ ),1.0,0.0243902439024,"Hugging, holding, pulling someone against your shoulder
+"
+( NN dep NN ) ( NN nmod NN ) ( NN case IN ) ( NN amod JJ ),1.0,0.0243902439024,"Shoulders that quake with repressed sobs
+"
+( NN case IN ) ( NN cc CC ) ( NN conj NN ),1.0,0.0243902439024,"Tension in the neck and shoulders
+"
+( VB xcomp VBG ) ( VBG advmod RB ) ( VBG advcl VBG ) ( VBG dobj NN ) ( VBG nmod IN ),1.0,0.0243902439024,"Shoulders curling forward, caving the chest in
+"
+( NN nmod:poss NNP ) ( NNP nummod CD ) ( NNP case POS ),1.0,0.0243902439024,"Rolling one's shoulders
+"
+( NN compound NNP ) ( NN appos NN ) ( NN advmod RB ),1.0,0.0243902439024,"Perfect posture, shoulders back, exposed neck
+"
+( NN case IN ) ( NN nmod:poss NN ) ( NN case POS ) ( NN cc CC ) ( NN conj NN ),1.0,0.0243902439024,"Laying a hand on someone's back or shoulder
+"
+( NN amod JJ ) ( NN appos NN ) ( NN amod JJ ),1.0,0.0243902439024,"Shoulders back, straight posture
+"
+( VBG advmod RB ) ( VBG compound:prt RP ) ( VBG dobj NN ) ( VBG cc CC ) ( VBG conj NN ) ( NN case IN ) ( NN amod JJ ),1.0,0.0243902439024,"Always looking over the shoulder or around the next corner
+"
+( VBG advmod RB ) ( VBG nmod NN ) ( NN case IN ),1.0,0.0243902439024,"The head pulling back as the shoulders push forward
+"
+( NNP compound NNP ) ( NNP cc CC ) ( NNP acl VBG ) ( VBG advmod RB ),1.0,0.0243902439024,"Shoulders slumping or curling forward
+"
+( VBG nmod NN ) ( NN case IN ) ( NN nmod:poss CD ) ( CD case POS ),1.0,0.0243902439024,"Crossing one's arms, holding onto one's shoulders
+"
+( NNP amod JJ ) ( JJ cc CC ) ( JJ conj JJ ),1.0,0.0243902439024,"Hunched or rounded shoulders
+"
+( VB dobj NN ) ( VB cc CC ) ( VB conj VB ),1.0,0.0243902439024,"Shoulders that drop or curl
+"
+( NN amod JJ ) ( NN appos NN ) ( NN compound NN ),1.0,0.0243902439024,"Shoulders curling, a bent spine
+"
+( VBG compound:prt RP ) ( VBG dobj NN ) ( NN cc CC ) ( NN conj NN ) ( VBG cc RB ) ( RB dep IN ) ( VBG conj VBG ) ( VBG xcomp VB ) ( VB mark TO ),1.0,0.0243902439024,"Limbering up shoulders and neck as if readying to fight
+"
+( NN amod JJ ) ( NN appos NN ),1.0,0.0243902439024,"Heavy arms, the shoulders pulled low
+"
+( RB dep RB ),1.0,0.0243902439024,"Shoulders back
+"
+( VBG dobj NN ) ( VBG nmod NN ) ( NN case IN ) ( NN nmod:poss NN ) ( NN case POS ),1.0,0.0243902439024,"Putting an arm around someone's shoulders
+"
+( VBG dep NN ) ( VBG cc CC ) ( VBG conj JJ ),1.0,0.0243902439024,"Shoulders dropping or slumping
+"
+( NN case IN ) ( NN appos NN ),1.0,0.0243902439024,"Falling against someone, shoulder to shoulder
+"
+( VBG dobj NN ) ( NN cc CC ) ( NN conj NN ),1.0,0.0243902439024,"Squeezing a shoulder or hand
+"
+( VBZ nsubj NN ) ( NN acl VBG ) ( VBG compound:prt RP ) ( VBZ xcomp VBG ) ( VBG nmod NN ) ( NN case IN ),1.0,0.0243902439024,"Shoulders drawing up, elbows tucking into the sides
+"
+( VBG dobj NN ) ( VBG advcl VB ) ( VB mark IN ) ( VB mark IN ) ( VB mark TO ) ( VB dobj CD ) ( CD case POS ) ( VB advmod NN ),1.0,0.0243902439024,"Lifting the shoulders as if to hide one's neck
+"
